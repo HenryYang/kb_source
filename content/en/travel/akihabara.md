@@ -1,18 +1,6 @@
 ---
-title: "生活2"
+title: "Akihabara Second-hand shop/ 秋業原二手電器店資訊"
 date: "2018-07-06"
-subtitle: 'I am the subtitle'
-description: 'I am the description used at head meta and footer description'
-resources:
-- name: #header
-  src: #victor_hugo.jpg
-  title: #Portrait photograph of Victor Hugo
-  params:
-    license: #"Public Domain"
-    original: #"https://commons.wikimedia.org/wiki/File:Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg"
-tags:
-- example-tag
-hide_author: true
 ---
 
 ## Overview
