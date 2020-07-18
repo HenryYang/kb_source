@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists/清單 on Henry&#39;s Knowledge Base</title>
+    <link>https://kb.hiy.tw/lists/</link>
+    <description>Recent content in Lists/清單 on Henry&#39;s Knowledge Base</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://kb.hiy.tw/lists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adguard Home Block List / Adguard Home 廣告封鎖清單</title>
+      <link>https://kb.hiy.tw/lists/ad/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kb.hiy.tw/lists/ad/</guid>
+      <description>我自己在用的清單 </description>
+    </item>
+    
+    <item>
+      <title>ETF &amp; Special Shares List / ETF 特別股 殖利率清單</title>
+      <link>https://kb.hiy.tw/lists/etf/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kb.hiy.tw/lists/etf/</guid>
+      <description>我自己在用的清單 </description>
+    </item>
+    
+    <item>
+      <title>Mobile Payment List / 行動支付的支援清單</title>
+      <link>https://kb.hiy.tw/lists/pay/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://kb.hiy.tw/lists/pay/</guid>
+      <description>台灣常見行動支付 </description>
+    </item>
+    
+  </channel>
+</rss>
