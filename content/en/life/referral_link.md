@@ -31,6 +31,20 @@ date: "2020-07-05"
 
 * 請私訊問我最新的推廣連結
 
+#### Shopback 網路購物返利+現金回饋平台
+
+* https://s.hiy.tw/shopback
+
+#### Line TAXI - 使用 Line 就可以叫計程車
+
+* https://s.hiy.tw/linetaxi
+
+#### Uber & Uber Eats
+
+* Uber：請直接點選連結 https://s.hiy.tw/uber
+* Uber Eats：請在 App 內輸入 `eats-almz6e`
+ 
+
 #### iRent - 共享汽機車服務
 
 * 請輸入 `ir422253` 來兌換
