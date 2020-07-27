@@ -7,9 +7,15 @@ date: "2020-07-07"
 
 * `/` -> slash
 
-* `#` -> sharp
+* `#` -> sharp/hashtag/number
 
 * `-` -> hyphen
+
+* `—` -> dash
+
+* `_` -> underline
+
+* `&` -> ampersand/and
 
 * `!` -> bang or exclamation
 
@@ -22,4 +28,28 @@ date: "2020-07-07"
 * `~` -> tilde
 
 * `()` -> brackets
+
+* `*` -> asterisk
+
+* `’` -> apostrophe
+
+* `:` -> colon
+
+* `;` -> semi-colon
+
+* `‘ ’` -> single quotation mark 
+
+* `“ ”` -> double quotation mark
+
+* `()` -> parentheses/ round brackets
+
+* `[]` -> brackets/ square brackets
+
+* `{}` ->  braces/ curly brackets
+
+* `<>` -> angle brackets
+
+* `,` -> comma
+
+
 
