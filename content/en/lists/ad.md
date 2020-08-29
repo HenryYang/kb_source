@@ -10,4 +10,5 @@ date: "2020-07-07"
 * https://www.jkg.tw/p3351/
 
 
-
+#### 我自己 NextDNS 所用清單
+* https://i.imgur.com/p88K6hG.png

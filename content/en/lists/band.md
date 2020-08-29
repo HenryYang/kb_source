@@ -7,32 +7,18 @@ date: "2020-07-07"
 
 </br>
 
-|   |  B1 (FDD 2100MHz) | B3 (FDD 1800MHz)  | B7 (FDD 2600MHz)  | B8 (FDD 900MHz)  | B28 (FDD 700MHz) | B38 (TDD 2600MHz)  |
-|---|---|---|---|---|---|---|
-|  中華 | V  | V  | V  | V  |   |   |
-|  遠傳 | V  | V  | V  |   | V  | V  |
-|  台哥 | V  | V  |   |   | V  |   |
-|  台星 | V  |   | V  | V  |   |   |
-|  亞太 |   |   |   | V  | V  | V  |
+<img src="https://i.imgur.com/1BIrlTa.png" style="zoom:50%" />
+
 
 ### 日本常見 4G 頻段
 
 </br>
 
-|   | B1 (FDD 2100MHz) | B3 (FDD 1800MHz) |  B8 (FDD 900MHz)| B19 (FDD 800MHz) | B21 (FDD 1500MHz) | B28 (FDD 700MHz) | B41 (TD 2500)  | 
-|---|---|---|---|---|---|---|---|---|
-| NTT  |  V | V  |   | V  |  V  | V  |   |
-| Softbank  |  V | V  |  V |   |   |   |  V | 
+<img src="https://i.imgur.com/IUOFhp2.png" style="zoom:50%" />
 
 ### 台灣常見 5G 頻段
 
-|   |  n1 | n3  | n28  | n41  | n78 | n257  |
-|---|---|---|---|---|---|---|
-|  中華 | V  | V  |   |   | V  | V  |
-|  遠傳 | V  | V  | V  | V  | V  | V  |
-|  台哥 | V  | V  | V  |   | V  | V  |
-|  台星 | V  | V  |   |   | V  |   |
-|  亞太 |   |   | V  | V  |    | V  |
+<img src="https://i.imgur.com/6xzXBDo.png" style="zoom:50%" />
 
 </br>
 
@@ -41,7 +27,4 @@ date: "2020-07-07"
 
 </br>
 
-|   |  n77 | n78  | n79  | n257 |
-|---|---|---|---|---|---|---|
-|  NTT |   | V  | V  |  V  |
-|  Softbank | V  |   |   | V   |
+<img src="https://i.imgur.com/N3igZ2p.png" style="zoom:50%" />
