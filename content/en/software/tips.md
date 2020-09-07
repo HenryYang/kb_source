@@ -49,12 +49,16 @@ UsePAM no
 /etc/init.d/vpxa restart
 ```
 
+
+</br>
+
+### Docker 清理
+```shell
+$ docker system prune -a
+$ docker image prune -a
+```
+
 </br>
 
 ### Openssl 相關指令
 * https://ssorc.tw/42/
-
-
-
-</br>
-
