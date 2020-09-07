@@ -3,25 +3,19 @@ title: "Akihabara Second-hand shop/ 秋業原二手電器店資訊"
 date: "2018-07-06"
 ---
 
-## Overview
+<img src="https://i.imgur.com/EOXYCV1.jpg)" style="zoom:50%" />
 
-I am an article at
-`/content/bar-first-level-section/bar-page-in-section.md`.
+</br>
 
-Author box not being shown as `hide_author` key in front matter is set
-to `true`.
+#### 秋葉原電器相關資訊
+* https://akiba-pc.watch.impress.co.jp/
 
-## Lorem ipsum dolor sit amet
+#### 常會貼超值二手電器的店家 Twitter
+* https://twitter.com/MlcStaff/
 
-Lorem ipsum dolor sit amet, eu eos vitae deseruisse eloquentiam. 
+#### 二手電器店散佈範圍
+* https://maps.app.goo.gl/aNct4U9uGkot4VLr6
+* https://maps.app.goo.gl/hwkePXrh5rwJXr469
 
-Ex his nemore dolorem incorrupte, vide omnis facete pro an, cum te
-summo simul. 
-
-## An veri sensibus 
-
-An veri sensibus hendrerit vim, duo omnis expetenda at, error numquam
-expetendis eum ea. No cum simul iriure sensibus, consequuntur
-conclusionemque cum an. 
-
-Admodum rationibus percipitur eos an. 
+#### 某位很愛逛秋葉原二手店的經驗分享噗
+* https://www.plurk.com/p/nl5wmq

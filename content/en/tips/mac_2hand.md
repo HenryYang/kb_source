@@ -1,18 +1,13 @@
 ---
-title: "Check list for Used Mac Device / 2手蘋果電腦驗機方式"
+title: "Check list for Used Mac Device / 二手蘋果電腦驗機方式"
 date: "2018-07-06"
 ---
 
-## 你的廣告偏好 
-##### 用來移除『你的興趣』與移除使用個資來投放廣告的『廣告商』
-* https://www.facebook.com/ads/preferences/
+#### MacuKnow - mac 驗機 步驟，購買全新或二手前都可參考
+* https://macuknow.com/2019/07/01/2126/
 
 </br>
-</br>
-</br>
 
-## Facebook 站外動態
-##### 清除或是關閉後可以避免商家和組織與 Facebook 分享有關我們與其互動的資訊
-##### 但這同時會影響到使用 Facebook 登入的第三方服務
-* https://www.facebook.com/off_facebook_activity/?entry_point=1
+##### 皮樂的買二手機建議驗機方式
+* https://www.facebook.com/hiraku.tw/posts/3429848490378227
 
