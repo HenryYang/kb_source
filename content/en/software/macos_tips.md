@@ -39,4 +39,21 @@ xip -x ~/Download/Xcode_12.xip
 
 </br>
 
+## 執行 macOS 取消到期通知指令
+
+```shell
+sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpirationDays 0
+```
+
+</br>
+
+
+## 手動把帳戶加入 Mobile Account 方法
+
+```shell
+sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmobileaccount -P -v -n 使用者帳戶
+```
+
+</br>
+
 
