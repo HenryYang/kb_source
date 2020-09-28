@@ -57,3 +57,9 @@ sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmob
 </br>
 
 
+## 手動更新 FileVault2 的開機解鎖密碼
+
+```shell
+sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id -un | awk -F',' '{print $2}')
+```
+
