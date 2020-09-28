@@ -12,6 +12,7 @@ date: "2018-07-06"
 
 #### 常會貼超值二手電器的店家 Twitter
 * https://twitter.com/MlcStaff/
+* https://twitter.com/kandasoubi
 
 #### 二手電器店散佈範圍
 * https://maps.app.goo.gl/aNct4U9uGkot4VLr6
