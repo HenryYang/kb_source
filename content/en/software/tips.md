@@ -62,3 +62,17 @@ $ docker image prune -a
 
 ### Openssl 相關指令
 * https://ssorc.tw/42/
+
+</br>
+
+### 用 ffmpeg 合併影片
+```shell
+#clips.txt
+file 'first.mp4'
+file 'second.mp4'
+...
+```
+
+```shell
+ffmpeg -f concat -i clips.txt -c copy output.mp4
+```

@@ -63,3 +63,9 @@ sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmob
 sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id -un | awk -F',' '{print $2}')
 ```
 
+</br>
+
+## macOS Network Location 設定檔存放位置
+```shell
+/Library/Preferences/SystemConfiguration/preferences.plist
+```

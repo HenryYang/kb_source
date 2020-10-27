@@ -8,3 +8,11 @@ date: "2020-07-07"
 bcdedit /set hypervisorlaunchtype auto
 ```
 
+#### 關於靜態路由
+```shell
+# 顯示目前路由表
+route print
+
+# 刪除全部路由表
+route -f
+```
