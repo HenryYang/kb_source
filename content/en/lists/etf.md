@@ -11,3 +11,9 @@ date: "2020-07-07"
 
 #### Vanguard 的 ETF 清單
 * https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns
+
+#### 美股配息查詢
+* https://www.nasdaq.com/market-activity/funds-and-etfs
+* https://www.dividend.com/dividend-etfs/
+
+
