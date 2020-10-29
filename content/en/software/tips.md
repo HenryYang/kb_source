@@ -76,3 +76,13 @@ file 'second.mp4'
 ```shell
 ffmpeg -f concat -i clips.txt -c copy output.mp4
 ```
+
+</br>
+
+### 掛載 NFS 磁碟
+```shell
+#掛載
+sudo mount -t nfs 192.168.1.21:/DATA   /Users/henryyang/Desktop/NAS_DATA
+#ESXi 掛載
+esxcfg-nas -a -o 1192.168.1.21 -s /DATA NAS_DATA
+```
