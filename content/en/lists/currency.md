@@ -1,5 +1,5 @@
 ---
-title: "Credit Card Currency Converter Calculator / 信用卡貨幣轉換匯率"
+title: "Credit Card Currency Converter / 信用卡貨幣轉換匯率"
 date: "2020-10-27"
 ---
 

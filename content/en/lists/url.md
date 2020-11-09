@@ -34,9 +34,7 @@ date: "2020-07-07"
 
 </br>
 
+#### 反查目前真實使用的 DNS Server
+* https://which.nameserve.rs/
 
-
-
-
-
-
+</br>

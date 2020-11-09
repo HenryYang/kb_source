@@ -16,3 +16,15 @@ route print
 # 刪除全部路由表
 route -f
 ```
+
+#### diskpart 來完整清除分割區
+```shell
+#顯示磁碟清單
+list disk
+
+#選擇要處理的磁碟
+select disk {NO}
+
+#清除目前處理磁碟的所有分割區
+clean
+```
