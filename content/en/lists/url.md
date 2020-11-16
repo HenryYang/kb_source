@@ -38,3 +38,20 @@ date: "2020-07-07"
 * https://which.nameserve.rs/
 
 </br>
+
+
+#### Google 剩餘空間查詢
+* Google Drive -> https://one.google.com/storage/management
+* Google Photo -> https://photos.google.com/storage
+
+</br>
+
+
+#### 查詢 Amazon US 等網站的真實評價
+* https://www.fakespot.com/
+
+</br>
+
+
+#### 台灣電商的歷史價格查詢
+* https://twbuyer.info/
