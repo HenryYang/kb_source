@@ -55,3 +55,9 @@ date: "2020-07-07"
 
 #### 台灣電商的歷史價格查詢
 * https://twbuyer.info/
+
+</br>
+
+
+#### 常見 MIME 類型列表
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types

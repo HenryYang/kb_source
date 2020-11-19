@@ -64,3 +64,11 @@ date: "2020-07-07"
 * 無法開啟系統偏好設定內的使用者群組處置方法
     * 這會發生於為網域帳戶且沒有 Mobile Account 與管理權權限時，解法就是在該網域帳戶下打開終端機用 `su` 指令切換成本機的任意帳戶。
     * 這時候把『啟系統偏好設定』整個關掉再打開就會可以進入 使用者群組 了。當進去後請記得給該網域帳戶 Mobile Account 的權限。
+
+
+</br>
+
+* 製作 macOS Big Sur 安裝隨身碟
+```shell
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
+```
