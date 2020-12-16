@@ -86,3 +86,13 @@ sudo mount -t nfs 192.168.1.21:/DATA   /Users/henryyang/Desktop/NAS_DATA
 #ESXi 掛載
 esxcfg-nas -a -o 1192.168.1.21 -s /DATA NAS_DATA
 ```
+
+
+</br>
+
+
+### Firefox 開啟強制 https 模式
+
+```
+偏好設定 -> 隱私權與安全性 -> 純 HTTPS 模式 -> 在所有視窗都開啟純 HTTPS 模式
+```
