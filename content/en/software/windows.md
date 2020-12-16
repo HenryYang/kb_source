@@ -28,3 +28,9 @@ select disk {NO}
 #清除目前處理磁碟的所有分割區
 clean
 ```
+
+
+#### 關閉 Microsoft Compatibility Appraiser
+```shell
+工作排程器 -> 工作排程器程式庫 -> Microsoft -> Windows -> Application Experience 對 Microsoft Compatibility Appraiser 按右鍵選停用
+```

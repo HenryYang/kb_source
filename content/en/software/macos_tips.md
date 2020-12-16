@@ -69,3 +69,8 @@ sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id
 ```shell
 /Library/Preferences/SystemConfiguration/preferences.plist
 ```
+
+</br>
+
+## 檢查自己目前安裝的 macOS 軟體是不是 intel only
+https://github.com/DigiDNA/Silicon

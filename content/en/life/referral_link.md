@@ -11,9 +11,9 @@ date: "2020-07-05"
 
 * https://s.hiy.tw/ubear
 
-#### 中國信託 - ANA 極致/無限 信用卡
+#### 中國信託 - LOL 英雄聯盟聯名卡
 
-* https://s.hiy.tw/ana
+* https://ctbc.tw/YBv16q
 
 #### 台新銀行 - Richart 數位帳戶
 
