@@ -61,3 +61,12 @@ date: "2020-07-07"
 
 #### 常見 MIME 類型列表
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+
+</br>
+
+#### iOS App 版本號對應 ID 查詢
+https://tools.lancely.tech/apple/app-search
+
+#### 舊款 iTuens 12.6.5 下載
+https://support.apple.com/en-us/HT208079
