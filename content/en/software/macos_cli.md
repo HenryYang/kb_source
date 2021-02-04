@@ -1,5 +1,5 @@
 ---
-title: "MacOS Tips / MacOS 小技巧"
+title: "macOS CLI / macOS 指令"
 date: "2020-07-07"
 ---
 
@@ -68,6 +68,30 @@ sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id
 ## macOS Network Location 設定檔存放位置
 ```shell
 /Library/Preferences/SystemConfiguration/preferences.plist
+```
+
+</br>
+
+## 允許 macOS 安裝任何來源軟體（危險，風險自負）
+```shell
+sudo spctl --master-disable
+```
+
+</br>
+
+
+
+## 擴充（找回）未使用的硬碟空間
+
+```shell
+#查看目前要擴充的磁碟代號
+diskutil list
+
+#disk0s2 擴充成為 200GB 硬碟
+diskutil resizeVolume disk0s2 200G
+
+#如果有跳出問題可以先修復磁碟 disk0
+diskutil repairDisk disk0
 ```
 
 </br>

@@ -1,5 +1,5 @@
 ---
-title: "Cool Tips for PC  / 各種無法歸類的冷門指令"
+title: "CLI command / 常見 CLI 指令 "
 date: "2020-07-07"
 ---
 
@@ -90,6 +90,33 @@ esxcfg-nas -a -o 1192.168.1.21 -s /DATA NAS_DATA
 
 </br>
 
+
+### 用 wget 砍站
+```shell
+#完整指令
+wget --mirror --page-requisites --convert-links --directory-prefix ./  https://example.com/
+#簡寫指令
+wget -mpkP ./  https://example.com/
+```
+
+
+</br>
+
+
+### 刪除 Gitlab Rack Attack Ban 的 IP
+```shell
+#查目前所被 Ban 的 IP
+grep "Rack_Attack" /var/log/gitlab/gitlab-rails/auth.log
+
+#進入 Redius 刪除該 IP
+/opt/gitlab/embedded/bin/redis-cli -s /var/opt/gitlab/redis/redis.socket
+del cache:gitlab:rack::attack:allow2ban:ban:<ip>
+```
+
+參考資料：https://docs.gitlab.com/ee/security/rack_attack.html
+
+
+</br>
 
 ### Firefox 開啟強制 https 模式
 
