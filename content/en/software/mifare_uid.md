@@ -3,19 +3,19 @@ title: "Tricky for Mifare Classic / Mifare Classic 的冷知識"
 date: "2020-10-27"
 ---
 
-## Tools
+##### Tools
 
 * [MIFARE Classic Tool](https://play.google.com/store/apps/details?id=de.syss.MifareClassicTool) - 用來讀取與編輯 Mifare Classic 卡
 * [NFC TagInfo](https://play.google.com/store/apps/details?id=at.mroland.android.apps.nfctaginfo) - 用來識別 RFID 卡片的類型與 UID 相關資訊
 * [Mifare Calculator](https://play.google.com/store/apps/details?id=cc.yuyeye.mcalc) - Mifare 卡較驗碼的計算
 
-## Servies
+##### Servies
 
 * [XOR Calculator](https://toolslick.com/math/bitwise/xor-calculator)
 * [Mifare Classic UID BCC Calculator](https://nric.biz/mifare-bcc-calculator.html)
 
 
-## Notes
+##### Notes
 
 * Sector0 Block0 前 4 Byte 放置了該張卡的 UID，第 5 Byte 是校驗碼，為前 4 個 Byte XOR 的結果
 * 假設 UID 為 DDCCBBAA 那這時候要解讀回 10 進位就是變成 (AABBCCDD)hex = 2864434397 (如果長度不足十位則前面補 0 )

@@ -3,7 +3,7 @@ title: "CLI command / 常見 CLI 指令 "
 date: "2020-07-07"
 ---
 
-### Let's Encrypt
+##### Let's Encrypt
 
 安裝指令
 ```shell
@@ -30,7 +30,7 @@ $ certbot certonly --standalone -n --agree-tos --email 你的電子信箱 --pref
 
 </br>
 
-### 關閉 SSH 密碼登入
+##### 關閉 SSH 密碼登入
 
 ```shell
 # /etc/ssh/sshd_config
@@ -42,7 +42,7 @@ UsePAM no
 
 </br>
 
-### ESXi 重起管理服務
+##### ESXi 重起管理服務
 
 ```shell
 /etc/init.d/hostd restart
@@ -52,7 +52,7 @@ UsePAM no
 
 </br>
 
-### Docker 清理
+##### Docker 清理
 ```shell
 $ docker system prune -a
 $ docker image prune -a
@@ -60,12 +60,12 @@ $ docker image prune -a
 
 </br>
 
-### Openssl 相關指令
+##### Openssl 相關指令
 * https://ssorc.tw/42/
 
 </br>
 
-### 用 ffmpeg 合併影片
+##### 用 ffmpeg 合併影片
 ```shell
 #clips.txt
 file 'first.mp4'
@@ -79,7 +79,7 @@ ffmpeg -f concat -i clips.txt -c copy output.mp4
 
 </br>
 
-### 掛載 NFS 磁碟
+##### 掛載 NFS 磁碟
 ```shell
 #掛載
 sudo mount -t nfs 192.168.1.21:/DATA   /Users/henryyang/Desktop/NAS_DATA
@@ -91,7 +91,7 @@ esxcfg-nas -a -o 1192.168.1.21 -s /DATA NAS_DATA
 </br>
 
 
-### 用 wget 砍站
+##### 用 wget 砍站
 ```shell
 #完整指令
 wget --mirror --page-requisites --convert-links --directory-prefix ./  https://example.com/
@@ -103,7 +103,7 @@ wget -mpkP ./  https://example.com/
 </br>
 
 
-### 刪除 Gitlab Rack Attack Ban 的 IP
+##### 刪除 Gitlab Rack Attack Ban 的 IP
 ```shell
 #查目前所被 Ban 的 IP
 grep "Rack_Attack" /var/log/gitlab/gitlab-rails/auth.log
@@ -118,7 +118,7 @@ del cache:gitlab:rack::attack:allow2ban:ban:<ip>
 
 </br>
 
-### Firefox 開啟強制 https 模式
+##### Firefox 開啟強制 https 模式
 
 ```
 偏好設定 -> 隱私權與安全性 -> 純 HTTPS 模式 -> 在所有視窗都開啟純 HTTPS 模式

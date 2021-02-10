@@ -3,7 +3,7 @@ title: "MacOS Debug / MacOS 除錯設定"
 date: "2020-07-07"
 ---
 
-## 常見 Mac 開機時除錯快捷鍵
+##### 常見 Mac 開機時除錯快捷鍵
 
 * 預設在 Windows 鍵盤上
     * Option 就是 Alt
@@ -32,7 +32,7 @@ date: "2020-07-07"
 
 </br>
 
-## 實用經驗
+##### 實用經驗
 
 * 手動下載 macOS 更新方式
     * https://support.apple.com/downloads/macos
@@ -68,7 +68,5 @@ date: "2020-07-07"
 
 </br>
 
-* 製作 macOS Big Sur 安裝隨身碟
-```shell
-sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
-```
+* 檢查自己目前安裝的 macOS 軟體是不是 intel only
+    * https://github.com/DigiDNA/Silicon

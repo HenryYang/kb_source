@@ -3,7 +3,7 @@ title: "Asia Miles Tips / 亞萬筆記"
 date: "2020-10-27"
 ---
 
-#### 國泰航空（亞洲萬里通）
+##### 國泰航空（亞洲萬里通）
 
 * 航班所需點數查詢
     * https://www.asiamiles.com/zh/afr.html

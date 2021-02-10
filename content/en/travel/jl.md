@@ -3,7 +3,7 @@ title: "Japan Airlines Tips / 日航筆記"
 date: "2020-10-27"
 ---
 
-#### 日本航空
+##### 日本航空
 
 * 自家與外航累積比例表
     * https://www.tw.jal.co.jp/world/en/jalmile/flight/

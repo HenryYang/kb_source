@@ -3,7 +3,7 @@ title: "macOS CLI / macOS 指令"
 date: "2020-07-07"
 ---
 
-## 顯示從 Keychain 匯出的 .p12 中的公私鑰
+##### 顯示從 Keychain 匯出的 .p12 中的公私鑰
 
 ```shell
 openssl pkcs12 -info -in INFILE.p12 -nodes
@@ -14,7 +14,7 @@ openssl pkcs12 -info -in INFILE.p12 -nodes
 </br>
 
 
-## 在 CLI 匯入憑證到 Keychain
+##### 在 CLI 匯入憑證到 Keychain
 
 ```shell
 # 解鎖 Keychain
@@ -26,7 +26,7 @@ security import 要匯入的憑證 -k ~/Library/Keychains/login.keychain-db
 
 </br>
 
-## 手動安裝 Xcode
+##### 手動安裝 Xcode
 
 ```shell
 # 去 Apple Developer 網站下載 xip 格式的 Xcode (現在需要登入才能下載)
@@ -39,7 +39,7 @@ xip -x ~/Download/Xcode_12.xip
 
 </br>
 
-## 執行 macOS 取消到期通知指令
+###### 執行 macOS 取消到期通知指令
 
 ```shell
 sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpirationDays 0
@@ -48,7 +48,7 @@ sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpiratio
 </br>
 
 
-## 手動把帳戶加入 Mobile Account 方法
+##### 手動把帳戶加入 Mobile Account 方法
 
 ```shell
 sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmobileaccount -P -v -n 使用者帳戶
@@ -57,7 +57,7 @@ sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmob
 </br>
 
 
-## 手動更新 FileVault2 的開機解鎖密碼
+##### 手動更新 FileVault2 的開機解鎖密碼
 
 ```shell
 sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id -un | awk -F',' '{print $2}')
@@ -65,14 +65,14 @@ sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id
 
 </br>
 
-## macOS Network Location 設定檔存放位置
+##### macOS Network Location 設定檔存放位置
 ```shell
 /Library/Preferences/SystemConfiguration/preferences.plist
 ```
 
 </br>
 
-## 允許 macOS 安裝任何來源軟體（危險，風險自負）
+##### 允許 macOS 安裝任何來源軟體（危險，風險自負）
 ```shell
 sudo spctl --master-disable
 ```
@@ -81,7 +81,7 @@ sudo spctl --master-disable
 
 
 
-## 擴充（找回）未使用的硬碟空間
+##### 擴充（找回）未使用的硬碟空間
 
 ```shell
 #查看目前要擴充的磁碟代號
@@ -94,7 +94,11 @@ diskutil resizeVolume disk0s2 200G
 diskutil repairDisk disk0
 ```
 
+#####  製作 macOS Big Sur 安裝隨身碟
+```shell
+sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
+```
+
+
 </br>
 
-## 檢查自己目前安裝的 macOS 軟體是不是 intel only
-https://github.com/DigiDNA/Silicon

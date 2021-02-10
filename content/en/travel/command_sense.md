@@ -3,7 +3,7 @@ title: "Common Sense for Traveler / 旅遊知識"
 date: "2020-10-27"
 ---
 
-### 通用
+##### 通用
 
 * GCMAP - 用來查飛行距離
     * http://www.gcmap.com/
@@ -49,7 +49,7 @@ date: "2020-10-27"
     * https://www.facebook.com/d3consulting.org/posts/2253868764873228
     * http://d3consulting.org/2019-eva-strike-sop/
 
-#### 飯店
+##### 飯店
 
 * 查各地區有哪些連鎖飯店
     * https://awardmapper.com/
