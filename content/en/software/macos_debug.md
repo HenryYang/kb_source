@@ -70,3 +70,9 @@ date: "2020-07-07"
 
 * 檢查自己目前安裝的 macOS 軟體是不是 intel only
     * https://github.com/DigiDNA/Silicon
+
+
+</br>
+
+* 在 macOS 上重建損壞的分割區 （請看 Method 2）
+    * https://www.macgasm.net/data-recovery/mac-partition-recovery/

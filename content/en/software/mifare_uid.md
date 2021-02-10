@@ -6,6 +6,7 @@ date: "2020-10-27"
 ##### Tools
 
 * [MIFARE Classic Tool](https://play.google.com/store/apps/details?id=de.syss.MifareClassicTool) - 用來讀取與編輯 Mifare Classic 卡
+    * 可以編輯 CUID 卡的 Block 0
 * [NFC TagInfo](https://play.google.com/store/apps/details?id=at.mroland.android.apps.nfctaginfo) - 用來識別 RFID 卡片的類型與 UID 相關資訊
 * [Mifare Calculator](https://play.google.com/store/apps/details?id=cc.yuyeye.mcalc) - Mifare 卡較驗碼的計算
 
