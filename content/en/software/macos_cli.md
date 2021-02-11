@@ -72,6 +72,15 @@ sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id
 
 </br>
 
+
+##### 讓 Terminal 的 sudo 可以使用 Touch ID 驗證
+```shell
+#在 /etc/pam.d/sudo 裡面加上下面這一行
+auth sufficient pam_tid.so
+```
+
+</br>
+
 ##### 允許 macOS 安裝任何來源軟體（危險，風險自負）
 ```shell
 sudo spctl --master-disable

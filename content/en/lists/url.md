@@ -46,6 +46,11 @@ date: "2020-07-07"
 
 </br>
 
+##### 查詢信用卡帳單上的 Google 費用說明
+* https://support.google.com/pay/answer/7644142?hl=zh-Hant
+
+</br>
+
 
 ##### 查詢 Amazon US 等網站的真實評價
 * https://www.fakespot.com/
