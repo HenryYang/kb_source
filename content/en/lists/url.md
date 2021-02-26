@@ -90,3 +90,8 @@ https://support.apple.com/en-us/HT208079
 ##### Google Suite 教育帳號資料轉移 (照片跟 Email )
 https://takeout.google.com/transfer
 
+
+</br>
+
+##### Adobe 推出的線上編輯 PDF 服務
+https://www.adobe.com/tw/acrobat/online.html
