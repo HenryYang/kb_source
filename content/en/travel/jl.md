@@ -35,6 +35,9 @@ date: "2020-10-27"
 
 * 里程票放票為前 360 天
     * https://www.facebook.com/d3consulting.org/posts/2201428096783962
+
+* JL 機身編號小知識
+    * https://www.facebook.com/japanairlines.taiwan/posts/3750883411633528
     
 * 艙等選位資訊
     * https://www.facebook.com/d3consulting.org/posts/2123863891207050/
