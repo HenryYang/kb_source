@@ -38,3 +38,10 @@ clean
 ```shell
 工作排程器 -> 工作排程器程式庫 -> Microsoft -> Windows -> Application Experience 對 Microsoft Compatibility Appraiser 按右鍵選停用
 ```
+
+</br>
+
+##### 快捷鍵重置 Windows 10 的繪圖驅動程式
+```shell
+𝚆𝚒𝚗+𝙲𝚝𝚛𝚕+𝚂𝚑𝚒𝚏𝚝+𝙱
+```
