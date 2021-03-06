@@ -14,6 +14,9 @@ date: "2020-10-27"
 * JEP 訂票頁面
     * https://www.world.jal.co.jp/world/zhtw/japan_explorer_pass/tw/reservation/
 
+* 手動申請實體會員卡
+    * https://www.jal.co.jp/jp/en/jalmile/flyon/application-flow/
+
 * 網友自制 JGC 修行里程計算器
     * https://www.jgcmileagerun.org/trilogy/mrgenerator
     

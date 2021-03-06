@@ -39,7 +39,7 @@ xip -x ~/Download/Xcode_12.xip
 
 </br>
 
-###### 執行 macOS 取消到期通知指令
+##### 執行 macOS 取消到期通知指令
 
 ```shell
 sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpirationDays 0
@@ -110,4 +110,9 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 
 
 </br>
+
+#####  解決 Mac AppStore 下載轉圈圈不停問題
+```shell
+kill -9 $(ps -A | grep appstoreagent | awk '{print $1}' | head -1)
+```
 

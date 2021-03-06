@@ -39,6 +39,10 @@ date: "2020-07-07"
 
 </br>
 
+##### 查詢 DNS 更新到各地狀態
+* https://www.whatsmydns.net
+
+</br>
 
 ##### Google 剩餘空間查詢
 * Google Drive -> https://one.google.com/storage/management
