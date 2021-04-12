@@ -1,4 +1,4 @@
 ---
-title: Trave/旅遊
+title: Travel/旅遊
 subtitle: ""
 ---
