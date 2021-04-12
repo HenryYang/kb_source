@@ -67,6 +67,10 @@ date: "2020-10-27"
 
 * 查各地區有哪些連鎖飯店
     * https://awardmapper.com/
-    
-* 好心人整理的台灣國際連鎖飯店分布
-    * http://patrickshenjc.blogspot.com/2019/06/blog-post_25.html
+
+* 航空/酒店計畫哩程有效期限一覽 (2020 年版)
+    * [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
+
+* 好心人整理的台灣國際連鎖飯店分布 (2020 年版)
+    * [https://patrickshenjc.blogspot.com/2020/07/2020.html](https://web.archive.org/web/20200709062957/https://patrickshenjc.blogspot.com/2020/07/2020.html)
+    * [https://patrickshenjc.blogspot.com/2020/07/2020_19.html](https://web.archive.org/web/20200720230505/http://patrickshenjc.blogspot.com/2020/07/2020_19.html)
