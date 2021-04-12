@@ -1,5 +1,5 @@
 ---
-title: "Fundamental knowledge for Credit Card / 信用卡的小知識"
+title: "Cool things for Credit Cards / 信用卡的小知識"
 date: "2020-08-16"
 ---
 
@@ -16,3 +16,6 @@ date: "2020-08-16"
 
 * 交易分期預設不給回饋的銀行（ e.g. 在 PChome24hr 選擇 12 期 0 利率分期結帳）
     * 中信 凱基 花旗 渣打 星展 匯豐
+
+* 聯卡中心 - 小額支付平台 (白話文，不給回饋的消費)
+    * https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment
