@@ -1,0 +1,15 @@
+---
+title: "Disable Siri "Learn from App" function & Delete Siri request history / 限制 Siri 從其他 App 學習功能與刪除聽寫紀錄"
+date: "2021-04-13"
+---
+
+##### 關閉 Siri 的『從此 App 學習』與『跟 Siri 對話』
+
+打開 iOS 設備的「設定」選擇「Siri與搜尋」  
+這時候往下滑對每一個安裝的 App 點進去，都把『從此 App 學習』與 『跟 Siri 對話搭配使用』都給關閉  
+
+</br>
+
+##### 刪除  Siri 的聽寫紀錄
+
+打開 iOS 設備的「設定」>「Siri與搜尋」點選「刪除 Siri與聽寫紀錄」  
