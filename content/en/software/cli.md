@@ -41,11 +41,16 @@ UsePAM no
 ```
 
 
-##### 產生 ed25519 公私鑰
+##### 產生 SSH key
 
 ```shell
+# Ed25519 algorithm
 ssh-keygen -t ed25519 -C "hi@hiy.tw"
+
+# Legacy system
+ssh-keygen -t rsa -b 4096 -C "legacy@hiy.tw"
 ```
+[Github的教學](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 
 
