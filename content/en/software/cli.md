@@ -16,14 +16,14 @@ $ apt install certbot
 
 </br>
 
-手動產生憑證（可用於驗證 Private IP 或無法安裝 agent 的主機上）
+##### 手動產生憑證（可用於驗證 Private IP 或無法安裝 agent 的主機上）
 ```shell
 $ certbot certonly --manual --config-dir ~/Desktop/letsencrypt --work-dir ~/Desktop/letsencrypt --logs-dir ~/Desktop/letsencrypt --preferred-challenges dns
 ```
 
 </br>
 
-自動產生憑證（用於外網可以直接連線到 agent 的主機上）
+##### 自動產生憑證（用於外網可以直接連線到 agent 的主機上）
 ```shell
 $ certbot certonly --standalone -n --agree-tos --email 你的電子信箱 --preferred-challenges http -d 你的網域
 ```
@@ -39,6 +39,15 @@ PasswordAuthentication no
 ChallengeResponseAuthentication no
 UsePAM no
 ```
+
+
+##### 產生 ed25519 公私鑰
+
+```shell
+ssh-keygen -t ed25519 -C "hi@hiy.tw"
+```
+
+
 
 </br>
 
