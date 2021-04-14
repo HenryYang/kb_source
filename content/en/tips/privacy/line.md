@@ -1,0 +1,9 @@
+---
+title: "Disable LINE personal AD identifier  / 停用 LINE 的個人化廣告偏好"
+date: "2021-04-14"
+---
+
+##### 關閉 Siri 的『從此 App 學習』與『跟 Siri 對話』
+
+打開 LINE 後選擇最左邊的『主頁』然後點選右上方『齒輪的圖案』，這時候選擇『隱私設定』  
+然後再點選『廣告相關設定』，把『使用 Cookie 接收個人化廣告』、『使用 LINE 內部識別碼接收個人化廣告』  
