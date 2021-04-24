@@ -137,3 +137,9 @@ del cache:gitlab:rack::attack:allow2ban:ban:<ip>
 ```
 偏好設定 -> 隱私權與安全性 -> 純 HTTPS 模式 -> 在所有視窗都開啟純 HTTPS 模式
 ```
+
+
+</br>
+
+##### tar 指令
+https://blog.gtwang.org/linux/tar-command-examples-in-linux-1/
