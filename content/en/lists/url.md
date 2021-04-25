@@ -10,6 +10,7 @@ GitHub 功能小抄 - https://github.com/tiimgreen/github-cheat-sheet/blob/maste
 資安入門概論 - https://github.com/sakura26/DADA  
 常見 MIME 類型列表 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types  
 破版文字 (netgraffiti) - https://mobile.twitter.com/nmrmrmrn  
+U2F 支援程度清單 - https://www.dongleauth.info/  
 </br>
 
 #### 線上服務類
