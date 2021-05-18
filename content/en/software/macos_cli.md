@@ -112,6 +112,21 @@ diskutil resizeVolume disk0s2 200G
 diskutil repairDisk disk0
 ```
 
+</br>
+
+
+
+##### 在根目錄建立超連結到其他路徑上
+
+```shell
+# 請參考 https://derflounder.wordpress.com/2020/01/18/creating-root-level-directories-and-symbolic-links-on-macos-catalina/
+sudo nano /etc/synthetic.conf
+# 然後該檔案請依照下面方式編輯，中間是 tab 不能是空白
+# bar 那邊是預期的資料夾名稱，而 tab 後面則是路徑，記得第一個 / 不需要加
+bar     System/Volumes/Data/bar
+```
+</br>
+
 #####  製作 macOS Big Sur 安裝隨身碟
 ```shell
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
