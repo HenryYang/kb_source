@@ -81,6 +81,15 @@ auth sufficient pam_tid.so
 
 </br>
 
+##### 重起 Touch Bar 的服務
+```shell
+sudo pkill TouchBarServer
+sudo killall "ControlStrip"
+```
+
+</br>
+
+
 ##### 允許 macOS 安裝任何來源軟體（危險，風險自負）
 ```shell
 sudo spctl --master-disable
