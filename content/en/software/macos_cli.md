@@ -102,14 +102,19 @@ sudo spctl --master-disable
 ##### 擴充（找回）未使用的硬碟空間
 
 ```shell
-#查看目前要擴充的磁碟代號
-diskutil list
+# 查看目前要擴充的磁碟代號
+sudo diskutil list
 
-#disk0s2 擴充成為 200GB 硬碟
-diskutil resizeVolume disk0s2 200G
+# 先修復目標擴充的磁碟這邊以 disk0 為例
+sudo diskutil repairDisk disk0
 
-#如果有跳出問題可以先修復磁碟 disk0
-diskutil repairDisk disk0
+# 將 disk0s2 擴充成為 200GB 硬碟
+sudo diskutil resizeVolume disk0s2 200G
+
+# 如果是 AFPS 格式磁碟請改成下面指令
+sudo diskutil apfs resizeContainer disk0s2 200G
+
+
 ```
 
 </br>
