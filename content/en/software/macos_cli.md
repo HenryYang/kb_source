@@ -158,6 +158,4 @@ diskutil list
 
 # 掛載磁碟，以 disk3s1 為例，掛載到家目錄的 MY_DISK
 sudo ext4fuse /dev/disk3s1 ~/MY_DISK -o allow_other
-
-
 ```
