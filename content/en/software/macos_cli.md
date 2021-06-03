@@ -145,3 +145,19 @@ sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstall
 kill -9 $(ps -A | grep appstoreagent | awk '{print $1}' | head -1)
 ```
 
+</br>
+
+#####  掛載 Ext4 磁碟
+```shell
+# 需要安裝軟體
+brew install --cask osxfuse
+brew install ext4fuse
+
+# 查詢要掛載的磁碟所在分割區
+diskutil list
+
+# 掛載磁碟，以 disk3s1 為例，掛載到家目錄的 MY_DISK
+sudo ext4fuse /dev/disk3s1 ~/MY_DISK -o allow_other
+
+
+```
