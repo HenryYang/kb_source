@@ -1,4 +1,4 @@
 ---
-title: Life/日常
+title: C. Life/日常
 subtitle: ""
 ---

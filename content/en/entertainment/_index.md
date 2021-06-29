@@ -1,4 +1,4 @@
 ---
-title: Entertainment/娛樂
+title: G. Entertainment/娛樂
 subtitle: ""
 ---
