@@ -28,3 +28,13 @@ date: "2021-03-27"
 <span class="shell-prompt">$</span> <kbd>/etc/init.d/vpxa restart</kbd>
 </pre>
 
+</br>
+
+#### 掛載 NFS 磁碟
+
+<pre class="shell">
+<span class="shell-prompt">$</span> <kbd>esxcfg-nas -a -o 1192.168.1.21 -s /DATA NAS_DATA</kbd>
+</pre>
+
+
+
