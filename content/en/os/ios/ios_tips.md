@@ -1,5 +1,5 @@
 ---
-title: "iOS Tips / iOS 小技巧"
+title: "iOS Tips / iOS 冷知識與實用網站"
 date: "2020-07-07"
 ---
 
@@ -16,6 +16,10 @@ date: "2020-07-07"
 #### iOS App 版本號對應 ID 查詢
 * https://tools.lancely.tech/apple/app-search
 
+</br>
+
+### 下載舊版的 .ipa 教學
+* https://hiy.tw/2021/03/testflight_export_ipa/
 
 </br>
 
