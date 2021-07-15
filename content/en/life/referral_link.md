@@ -31,6 +31,10 @@ date: "2020-07-05"
 
 * 請私訊問我最新的推廣連結
 
+##### Wise - 國際線上電匯服務
+
+* https://s.hiy.tw/wise
+
 ##### Shopback 網路購物返利+現金回饋平台
 
 * https://s.hiy.tw/shopback
@@ -56,8 +60,11 @@ date: "2020-07-05"
 * https://s.hiy.tw/yoxi
 
 
-##### 悠遊付EasyWallet
+##### 悠遊付 EasyWallet
 
 * 請輸入 `M2EC276130B` 來兌換 100 元回饋金
 
  
+##### 台灣樂天商業銀行
+
+* 請輸入 `A84UEB` 來兌換 200 元開戶禮金
