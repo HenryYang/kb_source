@@ -33,6 +33,7 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 台灣電商的歷史價格查詢 - https://twbuyer.info/  
 查詢使用哪個台灣開店電商 - https://24h.cc/  
 試算貸款定額償還金額 - https://firstloan.firstbank.com.tw/FCB/A2_6_8_1.action  
+大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ROaULqZjSYINc_a0OlBaO_PZfiJZ2eQYlC1iIsZS-SY/
 </br>
 
 ##### Google 類
