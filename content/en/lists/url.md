@@ -12,6 +12,7 @@ GitHub 功能小抄 - https://github.com/tiimgreen/github-cheat-sheet/blob/maste
 破版文字 (netgraffiti) - https://mobile.twitter.com/nmrmrmrn  
 U2F 支援程度清單 - https://www.dongleauth.info/  
 1Passwords 舊版瀏覽器外掛 - https://support.1password.com/cs/1password-classic-extension/  
+
 </br>
 
 #### 線上服務類
@@ -32,8 +33,10 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 查詢 Amazon US 等網站的真實評價 - https://www.fakespot.com/  
 台灣電商的歷史價格查詢 - https://twbuyer.info/  
 查詢使用哪個台灣開店電商 - https://24h.cc/  
+台灣圖書館電子書搜尋 - https://taiwanlibrarysearch.herokuapp.com/  
 試算貸款定額償還金額 - https://firstloan.firstbank.com.tw/FCB/A2_6_8_1.action  
-大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ROaULqZjSYINc_a0OlBaO_PZfiJZ2eQYlC1iIsZS-SY/
+大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ROaULqZjSYINc_a0OlBaO_PZfiJZ2eQYlC1iIsZS-SY/  
+
 </br>
 
 ##### Google 類
@@ -42,5 +45,6 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 Google Drive 剩餘空間查詢 - https://one.google.com/storage/management  
 Google Photo 剩餘空間查詢 - https://photos.google.com/storage  
 Google Suite 教育帳號資料轉移 - https://takeout.google.com/transfer  
+
 </br>
 
