@@ -137,6 +137,8 @@ bar     System/Volumes/Data/bar
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
 ```
 
+[各版本指令與下載連結](https://support.apple.com/zh-tw/HT201372)
+
 
 </br>
 
