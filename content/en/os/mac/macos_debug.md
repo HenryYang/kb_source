@@ -76,3 +76,10 @@ date: "2020-07-07"
 
 * 在 macOS 上重建損壞的分割區 （請看 Method 2）
     * https://www.macgasm.net/data-recovery/mac-partition-recovery/
+
+
+</br>
+
+* 在 Apple Silicon 的 macOS 上使用 Android USB Tethering 分享網路
+    * https://vocus.cc/article/616bb7d1fd897800012129f0
+
