@@ -56,6 +56,28 @@ ssh-keygen -t rsa -b 4096 -C "legacy@hiy.tw"
 
 </br>
 
+
+##### 用 GPG 簽署 GIT COMMIT 
+
+```shell
+# 顯示自己有哪一些 GPG Keys 
+gpg --list-keys 
+
+# 匯出自己的公鑰並上傳到 Github 上 (https://github.com/settings/keys)
+gpg --armor --export 你的KEY_ID
+
+# 在 git 設定以下參數來完成
+
+git config --global user.signingkey 你的KEY_ID
+git config --global commit.gpgSign true 
+git config --global tag.gpgSign true
+```
+[medium上的教學](https://useme.medium.com/%E4%BA%94%E5%88%86%E9%90%98%E8%AA%8D%E8%AD%89%E4%BD%A0%E7%9A%84-git-commit-265b002ce71b)
+
+
+
+</br>
+
 ##### ESXi 重起管理服務
 
 ```shell
