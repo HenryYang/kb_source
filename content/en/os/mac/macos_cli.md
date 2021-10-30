@@ -132,7 +132,7 @@ bar     System/Volumes/Data/bar
 ```
 </br>
 
-#####  製作 macOS Big Sur 安裝隨身碟
+#####  製作 macOS Monterey 安裝隨身碟
 ```shell
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
 ```
