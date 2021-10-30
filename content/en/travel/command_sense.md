@@ -88,3 +88,6 @@ date: "2020-10-27"
 * 好心人整理的台灣國際連鎖飯店分布 (2020 年版)
     * [https://patrickshenjc.blogspot.com/2020/07/2020.html](https://web.archive.org/web/20200709062957/https://patrickshenjc.blogspot.com/2020/07/2020.html)
     * [https://patrickshenjc.blogspot.com/2020/07/2020_19.html](https://web.archive.org/web/20200720230505/http://patrickshenjc.blogspot.com/2020/07/2020_19.html)
+
+* ANA SFC 卡享有的 IHG 福利
+    * [https://www.anaihghotels.co.jp/ihgrewardsclub/amc/partner.html](https://www.anaihghotels.co.jp/ihgrewardsclub/amc/partner.html)
