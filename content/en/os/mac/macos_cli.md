@@ -134,7 +134,7 @@ bar     System/Volumes/Data/bar
 
 #####  製作 macOS Monterey 安裝隨身碟
 ```shell
-sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
+sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/<隨身碟名稱>
 ```
 
 [各版本指令與下載連結](https://support.apple.com/zh-tw/HT201372)
