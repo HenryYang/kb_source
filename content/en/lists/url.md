@@ -37,9 +37,10 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 台灣圖書館電子書搜尋 - https://taiwanlibrarysearch.herokuapp.com/  
 試算貸款定額償還金額 - https://firstloan.firstbank.com.tw/FCB/A2_6_8_1.action  
 大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ROaULqZjSYINc_a0OlBaO_PZfiJZ2eQYlC1iIsZS-SY/  
-全家 友善時光地圖 - https://foodmap.family.com.tw/
-全家 蔬食地圖 - https://d34vz1hpgwspun.cloudfront.net/
-全家 防疫物資地圖 - https://d1qpnbn51jttgk.cloudfront.net/
+全家 友善時光地圖 - https://foodmap.family.com.tw/  
+全家 蔬食地圖 - https://d34vz1hpgwspun.cloudfront.net/  
+全家 防疫物資地圖 - https://d1qpnbn51jttgk.cloudfront.net/  
+
 </br>
 
 ##### Google 類
