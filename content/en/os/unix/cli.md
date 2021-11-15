@@ -160,6 +160,13 @@ del cache:gitlab:rack::attack:allow2ban:ban:<ip>
 偏好設定 -> 隱私權與安全性 -> 純 HTTPS 模式 -> 在所有視窗都開啟純 HTTPS 模式
 ```
 
+</br>
+
+##### 建立 Symbolic link
+
+```shell
+ln -s <要被連的真實資料夾> <欲建立進入點的虛擬資料夾>
+```
 
 </br>
 
