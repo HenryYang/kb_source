@@ -46,6 +46,7 @@ date: "2020-07-05"
 ##### Uber & Uber Eats
 
 * Uber：請直接點選連結 https://s.hiy.tw/uber
+* Uber 新戶 250 元序號：請在 App 內輸入 `TWGG2a8lfr`
 * Uber Eats：請在 App 內輸入 `eats-almz6e`
  
 
@@ -68,3 +69,8 @@ date: "2020-07-05"
 ##### 台灣樂天商業銀行
 
 * 請輸入 `A84UEB` 來兌換 200 元開戶禮金
+
+
+##### LINE BANK 連線商業銀行
+
+* https://s.hiy.tw/line_bank
