@@ -15,7 +15,15 @@ date: "2020-08-16"
 </br>
 
 * 交易分期預設不給回饋的銀行（ e.g. 在 PChome24hr 選擇 12 期 0 利率分期結帳）
-    * 中信 凱基 花旗 渣打 星展 匯豐
+    * 中信、凱基、花旗、渣打、星展、匯豐
+
+</br>
 
 * 聯卡中心 - 小額支付平台 (白話文，不給回饋的消費)
     * https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment
+
+</br>
+
+ *  全國繳費網入帳時間
+    * 華南 -> 可以直接輸入 `信用卡卡號` 繳費，且 `即時入帳`
+    * 匯豐 -> 可以直接輸入 `信用卡卡號` 繳費，假日為 `下個工作日入帳`
