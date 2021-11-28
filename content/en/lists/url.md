@@ -61,3 +61,12 @@ Google Suite 教育帳號資料轉移 - https://takeout.google.com/transfer
 uTagGO易付 - https://goif.utaggo.com.tw/apsm/payment/search    
 
 </br>
+
+##### 永遠不會 HTTPS 連線 （用於轉跳 WiFi 的入口頁 (Captive Portal)）
+
+網址最短的 - http://neverssl.com/  
+另外一個常見的 - http://httpforever.com/  
+Apple 在用的 - http://captive.apple.com/  
+微軟在用的 - http://www.msftconnecttest.com/connecttest.txt      
+
+</br>
