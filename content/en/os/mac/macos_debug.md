@@ -63,7 +63,7 @@ date: "2020-07-07"
 
 * 無法開啟系統偏好設定內的使用者群組處置方法
     * 這會發生於為網域帳戶且沒有 Mobile Account 與管理權權限時，解法就是在該網域帳戶下打開終端機用 `su` 指令切換成本機的任意帳戶。
-    * 這時候把『啟系統偏好設定』整個關掉再打開就會可以進入 使用者群組 了。當進去後請記得給該網域帳戶 Mobile Account 的權限。
+    * 這時候把『啟系統偏好設定』整個關掉再打開就會可以進入 使用者群組 了。當進去後請記得給該網域帳戶 Mobile Account 的權限。
 
 
 </br>
@@ -83,3 +83,8 @@ date: "2020-07-07"
 * 在 Apple Silicon 的 macOS 上使用 Android USB Tethering 分享網路
     * https://vocus.cc/article/616bb7d1fd897800012129f0
 
+
+</br>
+
+* 在 Apple Silicon 的 macOS 重灌教學
+    * https://www.techtimes.com/articles/254409/20201123
