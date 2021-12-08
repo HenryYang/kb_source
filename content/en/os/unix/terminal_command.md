@@ -3,11 +3,28 @@ title: " Terminal Shortcut / Terminal 快捷鍵"
 date: "2020-07-07"
 ---
 
+##### 網路上找到的圖片
+
+<img src="https://i.imgur.com/fMhqUc6.jpg" style="zoom:50%" />
+
+
+
+</br>
+
 ##### Terminal 快速前後
 ```
-Ctrl  a 回到最前面
-Ctrl  e 回到最後面
-Ctrl  w 刪一整個單詞
-Alt  b 往回上一個單詞
-Alt  f 往後下一個單詞
+按 Ctrl 跟 a 跳到「整串」最「前面」
+按 Ctrl 跟 e 跳到「整串」最「後面」
+按 Ctrl 跟 w 直接「刪除」一組「單詞」
+
+# macOS iTerm2 需要修改設定值 
+按 Option/Alt 跟 b 往回跳「上一個」單詞
+按 Option/Alt 跟 f 往後跳「下一個」單詞
 ```
+
+</br>
+
+參考資訊：
+
+https://jblevins.org/log/kbd  
+https://paper.dropbox.com/doc/Bash-Keystrokes-Moskys-Notes-jc4OF7EoXcOIuA9gtPs13  
