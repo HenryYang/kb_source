@@ -22,6 +22,10 @@ date: "2020-07-07"
 按 Option/Alt 跟 f 往後跳「下一個」單詞
 ```
 
+在 iTerm2 中  Preference -> Profiles -> Keys 把 Left 與 Right Option Key 設定值都改為 Esc+.
+
+<img src="https://i.imgur.com/NjgZC6m.png" style="zoom:30%" />
+
 </br>
 
 參考資訊：
