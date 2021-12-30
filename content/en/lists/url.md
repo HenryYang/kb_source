@@ -41,6 +41,7 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 全家 蔬食地圖 - https://d34vz1hpgwspun.cloudfront.net/  
 全家 防疫物資地圖 - https://d1qpnbn51jttgk.cloudfront.net/  
 LINE POINTS 點數網頁版兌換 - https://points.line.me/pointcode?pincode=獲得的序號  
+查詢台灣公司的持股關係圖 - http://company-graph.g0v.ronny.tw/?id=  
 
 </br>
 
