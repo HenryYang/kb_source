@@ -168,3 +168,10 @@ sudo ext4fuse /dev/disk3s1 ~/MY_DISK -o allow_other
 ```shell
 rm -rf /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core; brew update
 ```
+
+</br>
+
+#####  備份 homebrew 安裝的軟體清單
+```shell
+brew bundle dump
+```
