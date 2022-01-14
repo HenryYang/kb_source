@@ -1,45 +1,37 @@
 ---
-title: "Common Sense for Traveler / 旅遊知識"
+title: "Common Sense for (Points) Traveler /  哩程旅遊知識"
 date: "2020-10-27"
 ---
 
 ##### 通用
 
-* GCMAP - 用來查飛行距離
-    * http://www.gcmap.com/
+* GCMAP - 用來查飛行距離 - http://www.gcmap.com/
 
-* Traveldoc - 查詢各國護照進出各國是否需要簽證
-    * https://www.traveldoc.aero/Passenger/Check?Language=en-US
+* Traveldoc - 查詢各國護照進出各國是否需要簽證 - https://www.traveldoc.aero/Passenger/Check?Language=en-US
     
-* Expertflyer - 就是那個大家熟知要付錢的服務
-    * https://www.expertflyer.com/main.do
+* Expertflyer - 就是那個大家熟知要付錢的服務 - https://www.expertflyer.com/main.do
 
-* 外交部領事局 - 查詢中華民國護照進出各國是否需要簽證
-    * https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
+* 外交部領事局 - 查詢中華民國護照進出各國是否需要簽證 - https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
     
-* 中國信託里程兌換單（亞萬、長榮、華航、新航）
-    * https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
+* 中國信託里程兌換單（亞萬、長榮、華航、新航）- https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
     
-* 寰宇一家直飛/轉機航點查詢 (失效中)
-    * http://onw.innosked.com
+* 寰宇一家直飛/轉機航點查詢 (失效中) - http://onw.innosked.com
 
-* 各聯盟航點查詢
-    * https://www.flightconnections.com/
+* 各聯盟航點查詢 - https://www.flightconnections.com/
  
-* 各家子艙等累積比例計算
-    * https://www.wheretocredit.com/calculator
+* 各家子艙等累積比例計算 - https://www.wheretocredit.com/calculator
     
-* 查詢飛行的里程累積在各計畫的比例
-    * https://www.wheretocredit.com/
+* 查詢飛行的里程累積在各計畫的比例 - https://www.wheretocredit.com/
     
-* 查詢機場出發的航線
-    * https://www.flightsfrom.com/
+* 查詢機場出發的航線 - https://www.flightsfrom.com/
 
-* 離線查詢各航空/聯盟航點軟體
-    * http://arm.64hosts.com/
+* 離線查詢各航空/聯盟航點軟體 - http://arm.64hosts.com/
 
-* 各航點用各計畫兌換所需哩程查詢
-    * https://www.tripplus.cc/awardplus/redemption/s
+* 各航點用各計畫兌換所需哩程查詢 - https://www.tripplus.cc/awardplus/redemption/s
+
+* 哩程新手說明書 - https://kb.hiy.tw/travel/command_sense/
+
+</br>
 
 * 嬰兒票相關資訊
     * 嬰兒的定義在航空業裡面，是指搭乘日當天兩足歲以下（不含兩足歲）的小朋友
@@ -77,16 +69,13 @@ date: "2020-10-27"
         * A319, A320, A321, 737, 737 Max(不搭), A320neo(目前不搭)
 
 </br>
-</br>
 
 
 ##### 飯店
 
-* 查各地區有哪些連鎖飯店
-    * https://awardmapper.com/
+* 查各地區有哪些連鎖飯店 - https://awardmapper.com/
 
-* 航空/酒店計畫哩程有效期限一覽 (2020 年版)
-    * [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
+* 航空/酒店計畫哩程有效期限一覽 (2020 年版) - [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
 
 * 好心人整理的台灣國際連鎖飯店分布 (2020 年版)
     * [https://patrickshenjc.blogspot.com/2020/07/2020.html](https://web.archive.org/web/20200709062957/https://patrickshenjc.blogspot.com/2020/07/2020.html)
