@@ -33,9 +33,17 @@ date: "2020-08-16"
 
 * 聯卡中心 - 小額支付平台 (白話文，不給回饋的消費)
     * https://www.nccc.com.tw/wps/wcm/connect/zh/home/BusinessOperations/CardBusiness/MicroPayment
+    * 停車場為常見不給回饋
+        * 台灣聯通停車場
+        * MITSUI OUTLET PARK 停車場
+        * 歐特儀停車場
+        * 三創數位停車場
+        * 京站實業停車場
+        * 普客二四停車場
+
 
 </br>
 
- *  全國繳費網入帳時間
+* 全國繳費網入帳時間
     * 華南 -> 可以直接輸入 `信用卡卡號` 繳費，且 `即時入帳`
     * 匯豐 -> 可以直接輸入 `信用卡卡號` 繳費，假日為 `下個工作日入帳`
