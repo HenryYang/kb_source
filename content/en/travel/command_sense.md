@@ -31,6 +31,10 @@ date: "2020-10-27"
 
 * 哩程新手說明書 - https://kb.hiy.tw/travel/command_sense/
 
+* ANA 轉點時間
+     * 中國信託: 1-3 天
+     * AMEX US: 2-4 天
+
 </br>
 
 * 嬰兒票相關資訊
