@@ -13,6 +13,9 @@ GitHub 功能小抄 - https://github.com/tiimgreen/github-cheat-sheet/blob/maste
 U2F 支援程度清單 - https://www.dongleauth.info/  
 1Passwords 舊版瀏覽器外掛 - https://support.1password.com/cs/1password-classic-extension/  
 憑證白話文解釋 - https://haway.30cm.gg/ssl-key-csr-crt-pem/  
+檢查瀏覽器的指紋獨特性 - https://amiunique.org/fp  
+檢查瀏覽器的 WebRTC 狀態 - https://browserleaks.com/webrtc#howto-disable-webrtc  
+
 
 </br>
 
