@@ -7,6 +7,12 @@ date: "2018-07-06"
 * 用來移除『你近期最常查看的廣告商』
 * https://www.facebook.com/adpreferences/advertisers/
 
+```js
+// 在瀏覽器的 Console 中執行以下指令可以把該頁顯示的隱藏，所以需要一直手動重新整理。記得 Facebook 要是使用繁體中文版
+document.querySelectorAll("[aria-label=隱藏廣告]").forEach(e=>e.click());
+```
+
+
 </br>
 
 
