@@ -68,3 +68,8 @@ date: "2021-12-08"
 
 </br>
 
+* macOS 詳細透過 CLI 設定電源管理方法
+    * https://www.rawinfopages.com/mac/how-to-customise-power-settings-terminal-mac
+
+</br>
+
