@@ -23,6 +23,9 @@ date: "2020-07-07"
 
 </br>
 
+### 網路上找到的共用 Apple ID 服務 （請慎用
+* https://pastebin.com/44NWbWKz
+
 #### 停用 Finder 提示通知的 iOS Update
 ```shell
 # 雖然 10.15 後沒有 iTunes 但還是用這服務來看設定值 （要重開機）
