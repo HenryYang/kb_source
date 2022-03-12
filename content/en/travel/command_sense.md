@@ -29,6 +29,8 @@ date: "2020-10-27"
 
 * 各航點用各計畫兌換所需哩程查詢 - https://www.tripplus.cc/awardplus/redemption/s
 
+* 非官方查詢星空聯盟剩餘里程票數量（透過加航查詢） - https://rewardsearcher.ft.canadiancow.com/
+
 * 哩程新手說明書 - https://kb.hiy.tw/travel/command_sense/
 
 * ANA 轉點時間
