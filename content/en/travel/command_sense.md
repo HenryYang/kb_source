@@ -41,6 +41,11 @@ date: "2020-10-27"
     * 打美國客服退票: 3-21 天後點數回來
     * 打日本客服退票: 有機會當下點數回來
 
+* 各航空公司提供的入境國限制查詢
+    * 長榮 - https://www.evaair.com/zh-tw/customer-services/covid-19-information-center/travel-restrictions/
+    * 華航 - https://news.china-airlines.com/bvct/immigration?country=tw&locale=zh
+
+
 </br>
 
 * 嬰兒票相關資訊
