@@ -44,6 +44,13 @@ date: "2020-10-27"
 * 各航空公司提供的入境國限制查詢
     * 長榮 - https://www.evaair.com/zh-tw/customer-services/covid-19-information-center/travel-restrictions/
     * 華航 - https://news.china-airlines.com/bvct/immigration?country=tw&locale=zh
+    * 日航 - https://www.jal.co.jp/tw/zhtw/info/travelalerts/flysafe/flights-service/quarantine-immigration/
+    * sherpa - https://apply.joinsherpa.com/travel-restrictions?language=en-US
+
+* 我國外交部提供的各國入境/簽證/防疫相關資訊
+    * https://www.boca.gov.tw/sp-foof-countrylp-01-1.html
+    * https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
+
 
 
 </br>
