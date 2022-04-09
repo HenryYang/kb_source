@@ -54,3 +54,16 @@ clean
 ```
 
 </br>
+
+
+##### 透過 CLI 移除各種預載在 Windows 內的應用程式 
+```shell
+#顯示安裝軟體的清單
+winget list
+
+#移除指定軟體
+winget uninstall "軟體名稱"
+
+```
+
+</br>
