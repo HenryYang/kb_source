@@ -78,3 +78,14 @@ date: "2020-07-05"
 ##### LINE BANK 連線商業銀行
 
 * https://s.hiy.tw/line_bank
+
+
+##### 將來商業銀行
+
+* 請輸入 `J2PRR` 來獲得等值 200 元刷卡金
+
+
+##### 瑞士銀行 - Dukascopy Bank
+
+* 請輸入 `DXT-RZN` 來獲得 5 DUK+
+* https://s.hiy.tw/dukascopy
