@@ -67,3 +67,14 @@ winget uninstall "軟體名稱"
 ```
 
 </br>
+
+
+
+##### 讓 Windows 11 的右鍵找回原本的選單
+```shell
+#使用 CMD 即可，不需要管理員權限，修改完要重開
+reg add “HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32” /f /ve
+
+```
+
+</br>
