@@ -9,8 +9,11 @@ date: "2020-07-07"
 
 #####  iOS App 簽署
 
-* Signulous - 付錢讓它幫你對特定 iOS Device 簽署企業級 App
+* Signulous - 付錢後提供 UUID 讓它幫你對特定 iOS Device 簽署企業級 App
     * https://www.signulous.com/
+
+* AppDB - 在設備上裝他們家的描述檔納管後，他用推播方式安裝到設備上
+    * https://appdb.to/
 
 </br>
 
@@ -19,7 +22,7 @@ date: "2020-07-07"
     * 砸殼 - https://github.com/AloneMonkey/frida-ios-dump  
     * 重簽名 - https://github.com/DanTheMan827/ios-app-signer  
     * 轉成 M1 格式並安裝 -> https://github.com/Mila432/IPA-to-App-M1  
-    * 轉成 M1 格式並安裝 -> https://pangu8.com/sideloadly/
+    * 安裝 .ipa 到設備上（用 Apple ID Sideload 似乎失效 ） -> https://pangu8.com/sideloadly/  
 
 [參考資料](http://webcache.googleusercontent.com/search?q=cache:pVYEC4j6P3QJ:www.bilibili.com/read/cv11269731+&cd=1&hl=zh-TW&ct=clnk&gl=tw)
 

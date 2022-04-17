@@ -24,7 +24,7 @@ date: "2020-07-07"
 </br>
 
 ### 網路上找到的共用 Apple ID 服務 （請慎用
-* https://pastebin.com/44NWbWKz
+* https://pastebin.com/GACW3aC4
 
 #### 停用 Finder 提示通知的 iOS Update
 ```shell
