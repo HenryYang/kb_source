@@ -26,8 +26,27 @@ date: "2020-07-07"
 ### 網路上找到的共用 Apple ID 服務 （請慎用
 * https://pastebin.com/GACW3aC4
 
+</br>
+
 #### 停用 Finder 提示通知的 iOS Update
 ```shell
 # 雖然 10.15 後沒有 iTunes 但還是用這服務來看設定值 （要重開機）
 defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 ```
+
+</br>
+
+##### 中國知呼的 iPhone 驗機與注意事項
+* https://www.zhihu.com/question/279981966/answer/1487316109
+
+
+</br>
+
+##### 中國知呼的 iPad 驗機與注意事項
+* https://www.zhihu.com/question/282974354/answer/1453767111
+
+
+</br>
+
+##### 中國知呼的 AirPods 驗機與注意事項
+* https://www.zhihu.com/question/279688500

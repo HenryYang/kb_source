@@ -73,3 +73,14 @@ date: "2021-12-08"
 
 </br>
 
+
+* 舊版 macOS 系統 App Store 下載連結
+    * [macOS 12.0 Monterey](https://apps.apple.com/tw/app/macos-monterey/id1576738294)
+    * [macOS 11.0 Big Sur](https://apps.apple.com/tw/app/macos-big-sur/id1526878132)
+    * [macOS 10.15 Catalina](https://apps.apple.com/tw/app/macos-catalina/id1466841314)
+    * [macOS 10.14 Mojave](https://apps.apple.com/tw/app/macos-mojave/id1398502828)
+    * [macOS 10.13 High Sierra](https://apps.apple.com/tw/app/macos-high-sierra/id1246284741)
+    * [macOS 10.12 Sierra](https://apps.apple.com/tw/app/sierra/id1127487414)
+
+</br>
+
