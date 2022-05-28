@@ -33,17 +33,25 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 
 </br>
 
-##### 日常生活類
+##### 網購類
 
-查詢 Amazon US 等網站的真實評價 - https://www.fakespot.com/  
+查詢 Amazon US 等網站的真實評價 - https://www.fakespot.com/    
+查詢 Amazon JP 的商品歷史價格 - https://keepa.com/  
+日本電商真實評價、歷史價格查詢 - https://sakura-checker.jp/ （需要日本 ip ）   
 台灣電商的歷史價格查詢 - https://twbuyer.info/  
-查詢使用哪個台灣開店電商 - https://24h.cc/  
-台灣圖書館電子書搜尋 - https://taiwanlibrarysearch.herokuapp.com/  
-試算貸款定額償還金額 - https://firstloan.firstbank.com.tw/FCB/A2_6_8_1.action  
-大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ZuoUYSv4eu45igRPrxTxnaMjypUurF5mUrfMmQZbLBA/htmlview  
 全家 友善時光地圖 - https://foodmap.family.com.tw/  
 全家 蔬食地圖 - https://d34vz1hpgwspun.cloudfront.net/  
 全家 防疫物資地圖 - https://d1qpnbn51jttgk.cloudfront.net/  
+查詢使用哪個台灣開店電商 - https://24h.cc/  
+
+
+</br>
+
+##### 日常生活類
+
+台灣圖書館電子書搜尋 - https://taiwanlibrarysearch.herokuapp.com/  
+試算貸款定額償還金額 - https://firstloan.firstbank.com.tw/FCB/A2_6_8_1.action  
+大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ZuoUYSv4eu45igRPrxTxnaMjypUurF5mUrfMmQZbLBA/htmlview  
 LINE POINTS 點數網頁版兌換 - https://points.line.me/pointcode?pincode=獲得的序號  
 查詢台灣公司的持股關係圖 - http://company-graph.g0v.ronny.tw/?id=  
 
