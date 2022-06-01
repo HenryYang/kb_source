@@ -105,4 +105,4 @@ date: "2020-10-27"
     * [https://patrickshenjc.blogspot.com/2020/07/2020_19.html](https://web.archive.org/web/20200720230505/http://patrickshenjc.blogspot.com/2020/07/2020_19.html)
 
 * ANA SFC 卡享有的 IHG 福利
-    * [https://www.anaihghotels.co.jp/ihgrewardsclub/amc/partner.html](https://www.anaihghotels.co.jp/ihgrewardsclub/amc/partner.html)
+    * [https://www.anaihghotels.co.jp/plan/anaprivilege.html](https://www.anaihghotels.co.jp/plan/anaprivilege.html)
