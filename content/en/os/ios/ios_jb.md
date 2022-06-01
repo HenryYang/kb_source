@@ -7,6 +7,10 @@ date: "2020-07-07"
 
 #### 使用各項服務前，請先確認是否可信
 
+
+* SHSH Wiki - 查詢該 iOS 版本是否還可以還原或使用 OTA 方式降版
+    * https://www.theiphonewiki.com/wiki/SHSH 
+
 #####  iOS App 簽署
 
 * Signulous - 付錢後提供 UUID 讓它幫你對特定 iOS Device 簽署企業級 App
