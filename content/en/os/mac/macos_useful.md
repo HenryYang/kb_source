@@ -84,3 +84,11 @@ date: "2021-12-08"
 
 </br>
 
+
+* M1 系列 macOS 可模擬的遊戲列表清單
+    * https://www.applegamingwiki.com/wiki/M1_CrossOver_Windows_compatible_games_list
+
+</br>
+
+
+

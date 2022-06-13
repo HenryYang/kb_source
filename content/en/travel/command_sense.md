@@ -53,6 +53,11 @@ date: "2020-10-27"
     * https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
 
 
+* 海外保險
+    * 日本 (東京海上日動)(限定日本IP) - https://www.jnto.go.jp/emergency/chc/ov_travel_insurance.html  
+    * 歐盟申根 (AXA) - https://www.axa-schengen.com/en
+    * 美國 (IMG) - https://www.imglobal.com/travel-insurance
+
 
 </br>
 
