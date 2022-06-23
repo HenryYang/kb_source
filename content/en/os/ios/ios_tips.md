@@ -50,3 +50,10 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 
 ##### 中國知呼的 AirPods 驗機與注意事項
 * https://www.zhihu.com/question/279688500
+
+
+</br>
+
+##### iDevice 各平台的 Beta 版描述檔
+* https://betaprofiles.com/
+* https://betahub.cn/
