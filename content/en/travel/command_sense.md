@@ -42,6 +42,8 @@ date: "2020-10-27"
     * 打美國客服退票: 3-21 天後點數回來
     * 打日本客服退票: 有機會當下點數回來
 
+</br>
+
 * 各航空公司提供的入境國限制查詢
     * 長榮 - https://www.evaair.com/zh-tw/customer-services/covid-19-information-center/travel-restrictions/
     * 華航 - https://news.china-airlines.com/bvct/immigration?country=tw&locale=zh
@@ -67,6 +69,8 @@ date: "2020-10-27"
     * 嬰兒票並不是單獨開票，是必須掛在成人機票代號下面去開票
     * https://blog.tripplus.cc/zh/10058/infant-award-ticket-guide
 
+</br>
+
 * EU261 條件
     * 需要是出發航點在歐盟內，或是歐盟國家的航空公司
     * "實際抵達" 比預計時間還晚 4 小時或以上，就要賠償 600 歐元現金＋當中必要的食宿條件
@@ -77,10 +81,20 @@ date: "2020-10-27"
     * https://www.facebook.com/d3consulting.org/posts/2253564971570274
     * https://www.facebook.com/d3consulting.org/posts/2253868764873228
     * http://d3consulting.org/2019-eva-strike-sop/
+ 
+ </br>
+ 
+ * 北約音標字母NATO phonetic alphabet
+    * https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
+    * https://www.youtube.com/watch?v=f28fAVRL5Jg&t=1s 
+ 
+ </br>
 
 ![](https://i.imgur.com/JIHqwAd.png)
 
 [圖片來源](https://news.housefun.com.tw/news/article/157509209005.html)
+
+</br>
 
 * 搭機小知識
     * 靠窗不刺眼
