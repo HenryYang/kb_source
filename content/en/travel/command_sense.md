@@ -3,46 +3,71 @@ title: "Common Sense for (Points) Traveler /  哩程旅遊知識"
 date: "2020-10-27"
 ---
 
-##### 通用
+##### 距離/查票/航點
 
 * GCMAP - 用來查飛行距離 - http://www.gcmap.com/
 
-* Traveldoc - 查詢各國護照進出各國是否需要簽證 - https://www.traveldoc.aero/Passenger/Check?Language=en-US
-    
-* Expertflyer - 就是那個大家熟知要付錢的服務 - https://www.expertflyer.com/main.do
+* Expertflyer(付費) - 就是那個大家熟知要付錢的服務 - https://www.expertflyer.com/main.do
 
-* 外交部領事局 - 查詢中華民國護照進出各國是否需要簽證 - https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
+* SeatSpy(付費) - 查詢跨大西洋航線各航空里程票數量 - https://www.seatspy.com/
+
+* Acrewardsearcher - 網友自製查詢星空聯盟里程票數量（透過加航查詢） - https://acrewardsearcher.cowtool.com
+
+* PY AwardSearch - 台灣網友自製查詢各聯盟里程票數量（透過各家查詢） - https://www.ustatz.com/member/awardSearch
+
+* 離線查詢各航空/聯盟營運航點的 Windows 軟體 - http://arm.64hosts.com/
+
+* 查詢各航空/聯盟營運航點 -https://www.flightconnections.com/
+
+* 查詢各機場所營運的航線 - https://www.flightsfrom.com/
+
+</br>
+
+##### 累積與兌換比例/DP
+
+* 查詢與計算各家子艙等累積比例 - https://www.wheretocredit.com/calculator
+
+* 查詢各航點用各計畫兌換所需哩程 - https://www.tripplus.cc/awardplus/redemption/s
+
+* 網友自製日航寰宇一家 (Oneworld) 常用累積百分比表格 - https://www.wenamour.com/jal-jmb-jgc-jgp/
     
 * 中國信託里程兌換單（亞萬、長榮、華航、新航）- https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
-    
-* 寰宇一家直飛/轉機航點查詢 (失效中) - http://onw.innosked.com
 
-* 各聯盟航點查詢 - https://www.flightconnections.com/
+* 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）-https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
+
+* 國泰世華里程兌換單 - https://www.cathaybk.com.tw/cathaybk/personal/credit-card/discount/bonus/point-exchange/airmiles/
  
-* 各家子艙等累積比例計算 - https://www.wheretocredit.com/calculator
-    
-* 查詢飛行的里程累積在各計畫的比例 - https://www.wheretocredit.com/
-    
-* 查詢機場出發的航線 - https://www.flightsfrom.com/
-* 查詢機場出發的航線 - https://www.flightconnections.com/
-
-* 離線查詢各航空/聯盟航點軟體 - http://arm.64hosts.com/
-
-* 各航點用各計畫兌換所需哩程查詢 - https://www.tripplus.cc/awardplus/redemption/s
-
-* 非官方查詢星空聯盟剩餘里程票數量（透過加航查詢） - https://rewardsearcher.ft.canadiancow.com/
-
-* 哩程新手說明書 - https://kb.hiy.tw/travel/command_sense/
-
-* ANA 轉點時間
+* ANA 轉點時間（非第一次轉點）
      * 中國信託: 1-3 天
      * AMEX US: 2-4 天
+
+* JAL 轉點時間（非第一次轉點）
+     * 華南銀行 -> 最短遇過 21 天，最長遇到 48 天
+     * 匯豐台灣 -> 4-14 天
+     * UUPON -> 10 天
+     * 日本 d points -> 30 天  
+        * Ponta, Matsukiyo 則是只能轉到日本區帳號
+
+* Asia Miles 轉點時間（非第一次轉點）
+     * 玉山銀行 -> 3-14 天
+     * 中國信託 -> 4-6 天
+     * 星展銀行 -> 1-2 天
+     * 匯豐台灣 -> 10-14 天
+     * 台灣花旗銀行 -> 當日
+     * 美國美國運通 -> 即時
+
 
 * ANA 退票處理時間
     * 打美國客服退票: 3-21 天後點數回來
     * 打日本客服退票: 有機會當下點數回來
 
 </br>
+
+##### 簽證/入境管制/保險
+
+* Traveldoc - 查詢各國護照進出各國是否需要簽證 - https://www.traveldoc.aero/Passenger/Check?Language=en-US
+
+* 外交部領事局 - 查詢中華民國護照進出各國是否需要簽證 - https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
 
 * 各航空公司提供的入境國限制查詢
     * 長榮 - https://www.evaair.com/zh-tw/customer-services/covid-19-information-center/travel-restrictions/
@@ -64,12 +89,12 @@ date: "2020-10-27"
 
 </br>
 
+#### 實用資訊
+
 * 嬰兒票相關資訊
     * 嬰兒的定義在航空業裡面，是指搭乘日當天兩足歲以下（不含兩足歲）的小朋友
     * 嬰兒票並不是單獨開票，是必須掛在成人機票代號下面去開票
     * https://blog.tripplus.cc/zh/10058/infant-award-ticket-guide
-
-</br>
 
 * EU261 條件
     * 需要是出發航點在歐盟內，或是歐盟國家的航空公司
@@ -81,8 +106,6 @@ date: "2020-10-27"
     * https://www.facebook.com/d3consulting.org/posts/2253564971570274
     * https://www.facebook.com/d3consulting.org/posts/2253868764873228
     * http://d3consulting.org/2019-eva-strike-sop/
- 
- </br>
  
  * 北約音標字母NATO phonetic alphabet
     * https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
@@ -109,7 +132,7 @@ date: "2020-10-27"
     * 常見雙走道飛機
         * 787, 777, 744, 767, A330, A350
     * 常見單走道飛機           
-        * A319, A320, A321, 737, 737 Max(不搭), A320neo(目前不搭)
+        * A319, A320, A321, 737, 737 Max(不搭), A320neo
 
 </br>
 
@@ -118,7 +141,7 @@ date: "2020-10-27"
 
 * 查各地區有哪些連鎖飯店 - https://awardmapper.com/
 
-* 航空/酒店計畫哩程有效期限一覽 (2020 年版) - [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
+* 航空/酒店計畫哩程有效期限一覽 (2020 年版) - [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
 
 * 好心人整理的台灣國際連鎖飯店分布 (2020 年版)
     * [https://patrickshenjc.blogspot.com/2020/07/2020.html](https://web.archive.org/web/20200709062957/https://patrickshenjc.blogspot.com/2020/07/2020.html)
