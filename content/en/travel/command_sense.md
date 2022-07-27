@@ -33,7 +33,7 @@ date: "2020-10-27"
     
 * 中國信託里程兌換單（亞萬、長榮、華航、新航）- https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
 
-* 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）-https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
+* 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）- https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
 
 * 國泰世華里程兌換單 - https://www.cathaybk.com.tw/cathaybk/personal/credit-card/discount/bonus/point-exchange/airmiles/
  
@@ -41,12 +41,16 @@ date: "2020-10-27"
      * 中國信託: 1-3 天
      * AMEX US: 2-4 天
 
+</br>
+
 * JAL 轉點時間（非第一次轉點）
      * 華南銀行 -> 最短遇過 21 天，最長遇到 48 天
      * 匯豐台灣 -> 4-14 天
      * UUPON -> 10 天
      * 日本 d points -> 30 天  
         * Ponta, Matsukiyo 則是只能轉到日本區帳號
+
+</br>
 
 * Asia Miles 轉點時間（非第一次轉點）
      * 玉山銀行 -> 3-14 天
@@ -56,6 +60,7 @@ date: "2020-10-27"
      * 台灣花旗銀行 -> 當日
      * 美國美國運通 -> 即時
 
+</br>
 
 * ANA 退票處理時間
     * 打美國客服退票: 3-21 天後點數回來
@@ -75,10 +80,13 @@ date: "2020-10-27"
     * 日航 - https://www.jal.co.jp/tw/zhtw/info/travelalerts/flysafe/flights-service/quarantine-immigration/
     * sherpa - https://apply.joinsherpa.com/travel-restrictions?language=en-US
 
+</br>
+
 * 我國外交部提供的各國入境/簽證/防疫相關資訊
     * https://www.boca.gov.tw/sp-foof-countrylp-01-1.html
     * https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
 
+</br>
 
 * 海外保險
     * 日本 (東京海上日動)(限定日本IP) - https://www.jnto.go.jp/emergency/chc/ov_travel_insurance.html  
@@ -96,6 +104,8 @@ date: "2020-10-27"
     * 嬰兒票並不是單獨開票，是必須掛在成人機票代號下面去開票
     * https://blog.tripplus.cc/zh/10058/infant-award-ticket-guide
 
+</br>
+
 * EU261 條件
     * 需要是出發航點在歐盟內，或是歐盟國家的航空公司
     * "實際抵達" 比預計時間還晚 4 小時或以上，就要賠償 600 歐元現金＋當中必要的食宿條件
@@ -107,6 +117,8 @@ date: "2020-10-27"
     * https://www.facebook.com/d3consulting.org/posts/2253868764873228
     * http://d3consulting.org/2019-eva-strike-sop/
  
+</br>
+
  * 北約音標字母NATO phonetic alphabet
     * https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
     * https://www.youtube.com/watch?v=f28fAVRL5Jg&t=1s 
