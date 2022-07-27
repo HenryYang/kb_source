@@ -17,7 +17,7 @@ date: "2020-10-27"
 
 * 離線查詢各航空/聯盟營運航點的 Windows 軟體 - http://arm.64hosts.com/
 
-* 查詢各航空/聯盟營運航點 -https://www.flightconnections.com/
+* 查詢各航空/聯盟營運航點 - https://www.flightconnections.com/
 
 * 查詢各機場所營運的航線 - https://www.flightsfrom.com/
 
