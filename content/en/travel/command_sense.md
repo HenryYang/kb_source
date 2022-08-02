@@ -74,6 +74,8 @@ date: "2020-10-27"
 
 * 外交部領事局 - 查詢中華民國護照進出各國是否需要簽證 - https://www.boca.gov.tw/sp-foof-countrylp-03-1.html
 
+* 從日本出發的人 ANA 有提供旅行前文件確認服務 - https://ana-travel-ready.web.app/?lang=en
+
 * 各航空公司提供的入境國限制查詢
     * 長榮 - https://www.evaair.com/zh-tw/customer-services/covid-19-information-center/travel-restrictions/
     * 華航 - https://news.china-airlines.com/bvct/immigration?country=tw&locale=zh
@@ -97,7 +99,15 @@ date: "2020-10-27"
 
 </br>
 
-#### 實用資訊
+#### 實用 APP/資訊
+
+* 飛常准 可以查詢航班資訊、誤點狀況、前續航班的各種狀況 - [App Store](https://apps.apple.com/tw/app/id498818574) & [Google Play](https://play.google.com/store/apps/details?id=veryzhun.vzcom)
+
+* Flightradar24 可以查詢航班歷史軌跡、執飛機材，更可以用 AR 查天空上的飛機資訊 - [App Store](https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851) & [Google Play](https://play.google.com/store/apps/details?id=com.flightradar24free&hl=zh_TW&gl=US)
+
+* 世界迷霧 記錄自己移動路徑的人生解鎖類遊戲 - [App Store](https://apps.apple.com/tw/app/id505367096) & [Google Play](https://play.google.com/store/apps/details?id=com.ollix.fogofworld)
+
+* 查詢各航空公司機型與座位分布建議 - https://www.seatguru.com/
 
 * 嬰兒票相關資訊
     * 嬰兒的定義在航空業裡面，是指搭乘日當天兩足歲以下（不含兩足歲）的小朋友
