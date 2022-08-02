@@ -57,3 +57,16 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 ##### iDevice 各平台的 Beta 版描述檔
 * https://betaprofiles.com/
 * https://betahub.cn/
+
+
+</br>
+
+##### 快速切換 App Store 顯示國家
+* [美國](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143441&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=us)
+* [日本](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143462&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=jp)
+* [台灣](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143470&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=tw)
+
+[參考資料](https://as.dogged.cn/)
+
+
+</br>

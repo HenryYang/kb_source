@@ -91,4 +91,10 @@ date: "2021-12-08"
 </br>
 
 
+* 打包 iCloud 上的各式資料 (包含照片、雲端檔案和郵件)
+    * https://privacy.apple.com/
+
+</br>
+
+
 

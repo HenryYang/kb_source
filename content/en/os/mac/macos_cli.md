@@ -175,3 +175,20 @@ rm -rf /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core; brew update
 ```shell
 brew bundle dump
 ```
+
+</br>
+
+##### 查詢最近關機、重開、登入紀錄
+
+```shell
+# 查看最近關機時間紀錄
+last shutdown
+
+# 查看最近重開機時間紀錄
+last reboot
+
+# 查看特定使用者最近的登入紀錄
+last <使用者名稱>
+```
+
+</br>
