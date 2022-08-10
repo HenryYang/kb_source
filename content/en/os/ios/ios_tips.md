@@ -66,7 +66,7 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 * [日本](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143462&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=jp)
 * [台灣](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143470&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=tw)
 
-[參考資料](https://as.dogged.cn/)
+[參考資料](http://switchr.imagility.io)、[參考資料](https://as.dogged.cn/)
 
 
 </br>
