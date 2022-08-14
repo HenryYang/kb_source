@@ -30,6 +30,10 @@ Adobe 的線上編輯 PDF 服務 - https://www.adobe.com/tw/acrobat/online.html
 Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.com/index.html  
 算 Netmask 數值 - [http://jodies.de/ipcalc](http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=)  
 查詢 Apple Devives 啟用相關資訊 - https://applesn.info/devices/  
+免登入看 Twitter 特定使用者貼文（介面比較漂亮） - https://www.sotwe.com/  
+免登入看 Twitter 特定使用者貼文（顯示圖片為主體） - https://www.twuko.com/  
+免登入看 Instagram 特定使用者貼文 - [https://greatfon.com/v/使用者帳號](https://greatfon.com/v/apple)  
+免登入看 Instagram 特定使用者貼文 - [https://dumpor.com/v/使用者帳號](https://dumpor.com/v/apple)  
 
 </br>
 
