@@ -23,7 +23,7 @@ date: "2020-07-07"
 | 台北富邦商業銀行 - 金融卡 | ✅ | ✅ | ✅ | ✅ | ✅ |  | 5 |
 | 渣打銀行 | ✅ | ✅ | ✅ |   |    |   | 3 |
 | 渣打銀行 - 金融卡 | ✅ | ✅ | ✅ |   |    |   | 3 |
-| 第一商業銀行 | ✅ | ✅ |   |   |   |  | 2 |
+| 第一商業銀行 | ✅ | ✅ | ✅ |   |   |  | 3 |
 | 滙豐（台灣）銀行 | ✅ | ✅ | ✅ |   |   |   | 3 |
 | 華南商業銀行 | ✅ | ✅ |   |   |   |  | 2 |
 | 新光銀行 | ✅ | ✅ |   |   |   |   | 2 |
@@ -35,13 +35,14 @@ date: "2020-07-07"
 | 安泰銀行 |   | ✅ |   |   |   |  | 1 | 
 | 合作金庫 |   | ✅ |   |   |   |  | 1 | 
 | 彰化銀行 |   | ✅ |   |   |   |  | 1 | 
+| 兆豐銀行 | ✅ |   |   |   |   |  | 1 | 
 | |   |  |  |   |   |   |  |
-| 支援家數 |14 | 17 | 11 | 7 | 7 |
+| 支援家數 |15 | 17 | 12 | 7 | 7 |
 
 </br>
 ## 備註
 
-Apple Pay 目前支援 JCB 卡的銀行僅有：永豐銀行、中國信託、玉山銀行、第一銀行、華南銀行、聯邦銀行
+Apple Pay 目前支援 JCB 卡的銀行僅有：永豐銀行、中國信託、玉山銀行、第一銀行、華南銀行、聯邦銀行、兆豐銀行、台北富邦
 
 Fitbit Pay 如綁定 中國信託、台新銀行、聯邦銀行 的一卡通聯名卡則可以啟用自動加值的虛擬一卡通聯名卡 
 
@@ -52,9 +53,9 @@ Fitbit Pay 如綁定 中國信託、台新銀行、聯邦銀行 的一卡通聯�
 * Google Pay <https://support.google.com/pay/answer/7404680?hl=zh-Hant>
 * Samsung Pay <http://www.samsung.com/tw/samsungpay/#collabor-banks>
 * Garmin Pay <http://www.garmin.com.tw/minisite/garmin-pay/#bank>
-* Fitbit Pay <https://www.fitbit.com/tw/fitbit-pay/banks>
+* Fitbit Pay [https://www.fitbit.com/tw/fitbit-pay/banks](https://www.fitbit.com/global/tw/technology/fitbit-pay/banks)
 
 </br>
 
 ### 最後更新時間
-2020/07/26
+2022/08/17
