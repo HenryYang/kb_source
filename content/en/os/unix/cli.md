@@ -172,3 +172,21 @@ ln -s <要被連的真實資料夾> <欲建立進入點的虛擬資料夾>
 
 ##### tar 指令
 https://blog.gtwang.org/linux/tar-command-examples-in-linux-1/
+
+
+
+</br>
+
+##### 把 Git Repo 搬移到另外一個全新的 Repo 中
+
+```
+cd existing_repo
+git branch -r | grep -v '\->' | sed "s,\x1B\[[0-9;]*[a-zA-Z],,g" | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
+git fetch --all
+git lfs fetch --all
+git pull --all
+git remote rename origin old-origin
+git remote add origin git@new.example.com:traget/newrepo.git
+git push -u origin --all
+git push -u origin --tags
+```
