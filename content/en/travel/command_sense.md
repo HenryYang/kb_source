@@ -1,6 +1,6 @@
 ---
 title: "Common Sense for (Points) Traveler /  哩程旅遊知識"
-date: "2020-10-27"
+date: "2022-08-17"
 ---
 
 ##### 距離/查票/航點
@@ -14,6 +14,8 @@ date: "2020-10-27"
 * Acrewardsearcher - 網友自製查詢星空聯盟里程票數量（透過加航查詢） - https://acrewardsearcher.cowtool.com
 
 * PY AwardSearch - 台灣網友自製查詢各聯盟里程票數量（透過各家查詢） - https://www.ustatz.com/member/awardSearch
+
+* ANA 官方里程票日曆圖（僅限日本出發） - https://cam.ana.co.jp/psz/tokutencal/form.jsp
 
 * 離線查詢各航空/聯盟營運航點的 Windows 軟體 - http://arm.64hosts.com/
 
