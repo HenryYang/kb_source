@@ -83,6 +83,7 @@ date: "2022-08-17"
     * 華航 - https://news.china-airlines.com/bvct/immigration?country=tw&locale=zh
     * 日航 - https://www.jal.co.jp/tw/zhtw/info/travelalerts/flysafe/flights-service/quarantine-immigration/
     * sherpa - https://apply.joinsherpa.com/travel-restrictions?language=en-US
+    * covidcontrols - https://covidcontrols.co/traveller-entry
 
 </br>
 
@@ -95,7 +96,7 @@ date: "2022-08-17"
 * 海外保險
     * 日本 (東京海上日動)(限定日本IP) - https://www.jnto.go.jp/emergency/chc/ov_travel_insurance.html  
     * 歐盟申根 (AXA) - https://www.axa-schengen.com/en
-    * 美國 (IMG) - https://www.imglobal.com/travel-insurance
+    * 全球 (IMG) - https://www.imglobal.com/
     * 全球 (多平台提供商) - https://www.visitorscoverage.com/get-quotes/
 
 
