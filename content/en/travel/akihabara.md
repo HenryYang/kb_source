@@ -9,6 +9,7 @@ date: "2018-07-06"
 
 ##### 秋葉原電器相關資訊
 * https://akiba-pc.watch.impress.co.jp/
+* https://daily-gadget.net/
 
 ##### 常會貼超值二手電器的店家 Twitter
 * https://twitter.com/MlcStaff/
