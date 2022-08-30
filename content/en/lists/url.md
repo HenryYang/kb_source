@@ -15,7 +15,8 @@ U2F 支援程度清單 - https://www.dongleauth.info/
 憑證白話文解釋 - https://haway.30cm.gg/ssl-key-csr-crt-pem/  
 檢查瀏覽器的指紋獨特性 - https://amiunique.org/fp  
 檢查瀏覽器的 WebRTC 狀態 - https://browserleaks.com/webrtc#howto-disable-webrtc  
-純文字畫網路架構圖並且可以匯出 .svg 檔 - http://blockdiag.com/en/nwdiag/introduction.html
+純文字畫網路架構圖並且可以匯出 .svg 檔 - http://blockdiag.com/en/nwdiag/introduction.html  
+賣各種生活資安相關 3C - https://www.nitrokey.com/
 
 </br>
 
