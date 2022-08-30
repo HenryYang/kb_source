@@ -26,6 +26,7 @@ U2F 支援程度清單 - https://www.dongleauth.info/
 隨機產生專案名稱 - https://mrsharpoblunto.github.io/foswig.js/  
 反查目前真實使用的 DNS Server - https://which.nameserve.rs/  
 查詢 DNS 更新到各地狀態 - https://www.whatsmydns.net  
+查詢 IP 歸屬地、CDN 命中節點 - https://ip.skk.moe/  
 Adobe 的線上編輯 PDF 服務 - https://www.adobe.com/tw/acrobat/online.html  
 Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.com/index.html  
 算 Netmask 數值 - [http://jodies.de/ipcalc](http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=)  
