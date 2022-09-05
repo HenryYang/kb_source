@@ -9,11 +9,12 @@ date: "2020-10-27"
     * 可以編輯 CUID 卡的 Block 0
 * [NFC TagInfo](https://play.google.com/store/apps/details?id=at.mroland.android.apps.nfctaginfo) - 用來識別 RFID 卡片的類型與 UID 相關資訊
 * [Mifare Calculator](https://play.google.com/store/apps/details?id=cc.yuyeye.mcalc) - Mifare 卡較驗碼的計算
-
+* [NFC Reader](https://play.google.com/store/apps/details?id=com.ssaurel.nfcreader) - 讀取後會顯示 UID 的各種格式換算
 ##### Servies
 
 * [XOR Calculator](https://toolslick.com/math/bitwise/xor-calculator)
 * [Mifare Classic UID BCC Calculator](https://nric.biz/mifare-bcc-calculator.html)
+* [UID conversion](http://www.em4102.com/index.php)
 
 
 ##### Notes
