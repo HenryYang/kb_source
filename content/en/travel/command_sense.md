@@ -32,6 +32,8 @@ date: "2022-08-17"
 * 查詢各航點用各計畫兌換所需哩程 - https://www.tripplus.cc/awardplus/redemption/s
 
 * 網友自製日航寰宇一家 (Oneworld) 常用累積百分比表格 - https://www.wenamour.com/jal-jmb-jgc-jgp/
+
+* 網友自製各家航空/飯店可用轉點心智圖 - https://s.hiy.tw/miles
     
 * 中國信託里程兌換單（亞萬、長榮、華航、新航）- https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
 
@@ -59,6 +61,7 @@ date: "2022-08-17"
      * 中國信託 -> 4-6 天
      * 星展銀行 -> 1-2 天
      * 匯豐台灣 -> 10-14 天
+     * 國泰小樹點 -> 1-7 天
      * 台灣花旗銀行 -> 當日
      * 美國美國運通 -> 即時
 
