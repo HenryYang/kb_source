@@ -193,3 +193,12 @@ git remote add origin git@new.example.com:traget/newrepo.git
 git push -u origin --all
 git push -u origin --tags
 ```
+
+
+</br>
+
+##### 查詢當下目錄中各資料夾的大小
+
+```
+du -sh /<PATH>/* | sort -rn
+```
