@@ -92,6 +92,9 @@ git config --global tag.gpgSign true
 ```shell
 $ docker system prune -a
 $ docker image prune -a
+
+# Remove unused volumes
+$ docker volume ls -qf dangling=true | xargs -r docker volume rm
 ```
 
 </br>
