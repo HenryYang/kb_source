@@ -75,3 +75,14 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 
 
 </br>
+
+
+
+##### Apple ID 註冊國家注意事項
+
+* 在中國大陸，新 Apple ID 必須為另一組（+86）行動電話號碼。 在印度，新 Apple ID 必須為另一組（+91）行動電話號碼。
+    * 這意味一旦 Apple ID 帳戶歸屬到中國或是印度，裡面的手機號碼就只能綁定該國的手機號碼
+
+[參考資料](https://support.apple.com/zh-tw/HT207944)
+
+</br>
