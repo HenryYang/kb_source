@@ -1,5 +1,5 @@
 ---
-title: "Mobile Payment List / 行動支付的支援清單"
+title: "手機(手錶)行動支付各家銀行支援清單"
 date: "2022-08-17"
 ---
 

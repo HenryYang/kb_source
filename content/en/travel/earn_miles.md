@@ -1,6 +1,6 @@
 ---
-title: " Milesback Reward Service / 消費賺哩程回饋網站"
-date: "2020-07-07"
+title: "網路消費賺『航空哩程』回饋網站"
+date: "2022-09-27"
 ---
 
 #### Asia Miles iShop
@@ -9,10 +9,10 @@ date: "2020-07-07"
 * [台灣常見商店清單](https://gist.github.com/HenryYang/d975157a7b5285255c668b9a8a1ae95b)
 
 
-#### ANA GLOBAL MILEAGE MALL
+#### EVA Mileage Mall
 
-* 官網：[https://anaglobalmall.com/hk](https://anaglobalmall.com/hk)
-* [台灣常見商店清單](https://gist.github.com/HenryYang/14ed11536b9ccc355252b17aa6c4b033)
+* 官網：[https://mall.brmile.com/zh/](https://mall.brmile.com/zh/)
+* [台灣常見商店清單]()
 
 
 #### JAL World Marketplace
