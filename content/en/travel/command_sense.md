@@ -1,11 +1,13 @@
 ---
-title: "Common Sense for (Points) Traveler /  哩程旅遊知識"
+title: "哩程旅遊的各種知識"
 date: "2022-08-17"
 ---
 
 ##### 距離/查票/航點
 
 * GCMAP - 用來查飛行距離 - http://www.gcmap.com/
+
+* IATA 提供的各國檢疫資訊與入境需求資訊 - https://www.iatatravelcentre.com/world.php  
 
 * Expertflyer(付費) - 就是那個大家熟知要付錢的服務 - https://www.expertflyer.com/main.do
 
@@ -22,6 +24,7 @@ date: "2022-08-17"
 * 查詢各航空/聯盟營運航點 - https://www.flightconnections.com/
 
 * 查詢各機場所營運的航線 - https://www.flightsfrom.com/
+
 
 </br>
 
