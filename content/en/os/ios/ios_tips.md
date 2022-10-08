@@ -66,6 +66,14 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 
 </br>
 
+
+
+##### 查詢 Apple Devives 啟用相關資訊 
+* https://applesn.info/devices/  
+
+
+</br>
+
 ##### 快速切換 App Store 顯示國家
 * [美國](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143441&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=us)
 * [日本](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143462&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=jp)
