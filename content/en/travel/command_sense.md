@@ -23,8 +23,9 @@ date: "2022-08-17"
 
 * 查詢各航空/聯盟營運航點 - https://www.flightconnections.com/
 
-* 查詢各機場所營運的航線 - https://www.flightsfrom.com/
+* 查詢各機場所營運的航線 - https://www.flightsfrom.com/  
 
+* 第三方機位追蹤(用來等通知的) -  https://www.tripplus.cc/awardplus/scraping
 
 </br>
 
