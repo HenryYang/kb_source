@@ -12,7 +12,8 @@ date: "2022-10-24"
     * ICCID 前八碼：89860012
     * 「需」開啟數據漫遊
     * 簽卡國家：中國的中國電信
-    * 使用電信：DoCoMo / SoftBank / AU
+    * 使用電信：DoCoMo (實測連上沒訊號) / SoftBank / AU (連不上)
+        * 有拿到日本 020 開頭門號，實際測試出口是日本 IP
 
 </br>
 
@@ -49,6 +50,7 @@ date: "2022-10-24"
     * 「不用」開啟數據漫遊
     * 簽卡國家：日本的 IIJ
     * 使用電信：DoCoMo
+        * [iOS Mobileconfig](https://www.bmobile.ne.jp/devices/bmobileCelluar_ios.mobileconfig)、[APN 資訊](https://www.bmobile.ne.jp/190sim/support_apn_setting_docomo.html)
 
 </br>
 
@@ -57,3 +59,4 @@ date: "2022-10-24"
     * 「不用」開啟數據漫遊
     * 簽卡國家：日本
     * 使用電信：AU
+        * [iOS Mobileconfig](https://bb.excite.co.jp/exmb/sim/apn/data/excitemobile-LTE(cellular).mobileconfig)、[APN 資訊](https://bb.excite.co.jp/exmb/sim/apn/)
