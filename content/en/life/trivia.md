@@ -1,15 +1,19 @@
 ---
-title: " Trivia / 無法歸類的冷知識"
-date: "2021-04-13"
+title: " 無法歸類的冷知識記錄區"
+date: "2022-11-09"
 ---
 
 #### 日常生活類
 
 </br>
 
-##### Taiwan, Province of China，代碼 TWN 是聯合國標準 ISO 3166-1 的稱呼。
+* Taiwan, Province of China，代碼 TWN 是聯合國標準 [ISO 3166-1](https://zh.m.wikipedia.org/zh-tw/ISO_3166-1) 的稱呼。
 
-覺得要別人停止用 Taiwan, China 或 Taiwan, Providence of China，自己政府先停止自稱 Republic of China, Taiwan 比較實在。
+</br>
+
+* [「點、線、面」的度量單位](https://www.ernestchiang.com/zh/posts/2022/display-measurement-units/)
+    * Apple iOS 在 72 ppi 的情況下 1 pixel = 1 px = 1 pt = 1 DTP point 
+    * Google Android 在 160 ppi (mdpi) 的情況下 1 pixel = 1 px = 1 dp = 1 sp
 
 
 </br>
