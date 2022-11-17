@@ -18,6 +18,13 @@ date: "2022-09-27"
 </br>
 </br>
 
+* NTT DoCoMo 建議頻段 Band1、Band3、Band19
+* Softbank 建議頻段 Band1、Band3、Band8
+* AU 建議頻段 Band1、Band18、Band26
+
+</br>
+</br>
+
 ##### 台灣常見 5G 頻段
 
 <img src="https://i.imgur.com/6xzXBDo.png" style="zoom:50%" />
@@ -32,11 +39,18 @@ date: "2022-09-27"
 <img src="https://i.imgur.com/N3igZ2p.png" style="zoom:50%" />
 
 
-</br>
+
 </br>
 </br>
 </br>
 
+##### [日本の全キャリアの4G周波数帯まとめ【楽天モバイル追加】](https://telektlist.com/carrier-bands/)
+
+</br>
+
+##### [4G LTE 頻段清單](https://www.sqimway.com/lte_band.php)
+
+</br>
 
 ##### B-mobile 190PadSIM - DoCoMo 線路 APN
 
