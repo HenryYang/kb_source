@@ -53,3 +53,19 @@ date: "2022-09-27"
 * 各家銀行一般消費條款定義
     * [玉山銀行](https://www.esunbank.com.tw/event/credit/notice/index.html)
     * [華南銀行](https://www.hncb.com.tw/wps/wcm/connect/6b9295c5-ea19-4ab8-9366-402084a12f8c/%E8%8F%AF%E5%8D%97%E9%8A%80%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B0%BD%E5%B8%B3%E5%8D%A1%E4%B8%80%E8%88%AC%E6%B6%88%E8%B2%BB%E5%AE%9A%E7%BE%A9.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-6b9295c5-ea19-4ab8-9366-402084a12f8c-nYw1bv5)
+
+
+</br>
+
+
+* 各家銀行信用卡 3D 驗證方式
+    * 富邦 -> SMS、EMail
+    * 匯豐 -> SMS、EMail
+    * 國泰 -> SMS、EMail
+    * 華南 -> SMS、EMail
+    * 中信 -> SMS、App 推播
+    * 台新 -> SMS & EMail
+    * 永豐 -> SMS & EMail
+    * 新光 -> SMS & EMail
+    * 玉山 -> SMS & EMail
+    * LineBank -> SMS & EMail
