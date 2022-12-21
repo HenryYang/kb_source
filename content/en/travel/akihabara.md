@@ -17,6 +17,10 @@ date: "2018-07-06"
 * https://twitter.com/MlcStaff/
 * https://twitter.com/kandasoubi
 * https://twitter.com/akihabalast
+* https://twitter.com/GMlpc2jp
+* https://twitter.com/akibajunks
+* https://twitter.com/shonan_tsusho
+* 
 
 </br>
 
