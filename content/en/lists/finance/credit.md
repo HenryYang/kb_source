@@ -77,4 +77,4 @@ date: "2022-09-27"
 
 
 
-![https://i.imgur.com/wqJKw8a.png]()
+![](https://i.imgur.com/wqJKw8a.png)
