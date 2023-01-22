@@ -10,4 +10,5 @@ date: "2022-10-07"
 LINE POINTS 點數網頁版兌換 - https://points.line.me/pointcode?pincode=序號  
 查詢 ICCID 所屬電信 - http://phone.fyicenter.com/1155_ICCID_SIM_Card_Number_Checker_Decoder.html  
 大人學值得重讀兩次以上的書單 - https://docs.google.com/spreadsheets/d/1ZuoUYSv4eu45igRPrxTxnaMjypUurF5mUrfMmQZbLBA/htmlview  
+網頁版抽獎程式 (可以顯示全部人名單) - https://apan1121.github.io/luckydraw/  
 </br>
