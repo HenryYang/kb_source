@@ -9,6 +9,8 @@ date: "2022-08-17"
 
 * IATA 提供的各國檢疫資訊與入境需求資訊 - https://www.iatatravelcentre.com/world.php  
 
+* 舊版 ITA 查詢系統 - https://oldmatrix.itasoftware.com  
+
 * Expertflyer(付費) - 就是那個大家熟知要付錢的服務 - https://www.expertflyer.com/main.do
 
 * SeatSpy(付費) - 查詢跨大西洋航線各航空里程票數量 - https://www.seatspy.com/
