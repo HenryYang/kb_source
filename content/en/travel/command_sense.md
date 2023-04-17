@@ -134,9 +134,11 @@ date: "2022-08-17"
 
 * 世界迷霧 記錄自己移動路徑的人生解鎖類遊戲 - [App Store](https://apps.apple.com/tw/app/id505367096) & [Google Play](https://play.google.com/store/apps/details?id=com.ollix.fogofworld)
 
-* 查詢各航空公司機型與座位分布建議 - https://www.seatguru.com/
-
 * 日本境內 NH / JL 機場分布圖 - https://www.google.com/maps/d/viewer?mid=1dknwOmebSqXqdCN-Hus5sqc0Vq0
+
+* 網友整理的常見登機箱大小與各航空公司限制 - https://www.ptt.cc/bbs/Japan_Travel/M.1681527029.A.44E.html
+
+* 查詢各航空公司機型與座位分布建議 - https://www.seatguru.com/
 
 * 嬰兒票相關資訊
     * 嬰兒的定義在航空業裡面，是指搭乘日當天兩足歲以下（不含兩足歲）的小朋友
