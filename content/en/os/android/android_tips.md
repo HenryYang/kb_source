@@ -22,3 +22,11 @@ date: "2020-07-07"
 
 #### Android 手機透過 IMEI 查詢資訊
 * https://www.imei.info/
+
+
+</br>
+
+#### 下載 Google Play 的 APK
+
+* https://apps.evozi.com/apk-downloader/
+* https://apkpure.com/tw/
