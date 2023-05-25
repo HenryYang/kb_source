@@ -202,3 +202,9 @@ date: "2022-08-17"
 
 * ANA SFC 卡享有的 IHG 福利
     * [https://www.anaihghotels.co.jp/plan/anaprivilege.html](https://www.anaihghotels.co.jp/plan/anaprivilege.html)
+
+
+##### 旅遊記錄
+
+* 日本旅遊清單 - https://henrys-knowledge-base.notion.site/de7ed4bf9c6b400ca3aa20366a6fb3dd
+* Medium 旅遊記錄 - https://medium.com/亨利的科技美食旅遊
