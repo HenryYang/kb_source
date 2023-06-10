@@ -13,8 +13,8 @@ date: "2022-10-17"
 
 </br>
 
-* 飛行獎勵兌換表格
-    * https://www.asiamiles.com/zh/redeem-awards/flight-awards/flight-award-chart.html
+* 飛行獎勵換算表
+    * https://flights.cathaypacific.com/zh_HK/redeem-flights/flight-award-chart.html
 
 </br>
 
@@ -26,12 +26,11 @@ date: "2022-10-17"
 
 * 獎勵機票兌換頁面
     * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/redeem-flights/facade.html
-    * https://www.cathaypacific.com/cx/zh_HK/book-a-trip/redeem-flights/redeem-flight-awards.html?recent_search=rt&vs=2
 
 </br>
 
     
-* 亞萬開 CX/KA 里程票，機場有位子即可改簽，不需有 Z/U/X 等里程票相應艙等，收取 40 美金或等值的幣別改簽費用。
+* 亞萬開 CX 里程票，機場有位子即可改簽，不需有 Z/U/X 等里程票相應艙等，收取 40 美金或等值的幣別改簽費用。
     * 航班 Delay 超過五分鐘（以官方公布起飛時間為準）則維持免費改簽。
     * https://www.facebook.com/d3consulting.org/posts/2368549880071782
 
