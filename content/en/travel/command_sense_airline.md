@@ -46,44 +46,22 @@ date: "2023-06-09"
 * 中國信託里程兌換單（亞萬、長榮、華航、新航）- https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
 
 * 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）- https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
-
-* 國泰世華里程兌換單 - https://www.cathaybk.com.tw/cathaybk/personal/credit-card/discount/bonus/point-exchange/airmiles/
  
-* ANA 轉點時間（非第一次轉點）
-     * 中國信託: 1-3 天
-     * AMEX US: 2-4 天
-
-</br>
-
-* JAL 轉點時間（非第一次轉點）
-     * 華南銀行 -> 最短遇過 21 天，最長遇到 48 天
-     * 匯豐台灣 -> 4-14 天
-     * UUPON -> 10 天
-     * 日本 d points -> 30 天  
-        * Ponta, Matsukiyo 則是只能轉到日本區帳號
-
-</br>
-
-* Asia Miles 轉點時間（非第一次轉點）
-     * 玉山銀行 -> 3-14 天
-     * 中國信託 -> 4-6 天
-     * 星展銀行 -> 1-2 天
-     * 匯豐台灣 -> 10-14 天
-     * 國泰小樹點 -> 1-7 天
-     * 台灣花旗銀行 -> 當日
-     * 美國美國運通 -> 即時
-
 
 </br>
 
 * 網友分享轉點時間
     * 國泰 Cube 卡
-        * 長榮 -> 最快當天，慢一點約 5 天
+        * 長榮 -> 幾乎都是週四入帳
+        * 法航 -> 最快兩天後    
     * 台灣花旗
-        * 長榮 -> 每週一批次處理，總計需 3-7 工作天
+        * 長榮 -> 幾乎都是週一入帳
+    * Openpoint
+        * 長榮 -> 幾乎都是隔月 8 號入帳
     * 台灣匯豐
         * 長榮 -> 最快下一個工作天
         * 華航 -> 最快下一個工作天
+        * 法航 -> 最快兩天後
 
 
 </br>
