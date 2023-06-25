@@ -1,5 +1,5 @@
 ---
-title: "航空哩程常用資訊"
+title: "航空哩程 - 常用資訊"
 date: "2023-06-09"
 ---
 
@@ -29,11 +29,13 @@ date: "2023-06-09"
 
 * 第三方機位追蹤(用來等通知的) -  https://www.tripplus.cc/awardplus/scraping
 
-* 哩程界常用術語及縮寫 - https://blog.tripplus.cc/zh/31439 
+* 哩程界常用術語及縮寫 - https://blog.tripplus.cc/zh/31439   
 
 </br>
 
 ##### 累積與兌換比例/DP
+
+* 計算哩程存在每個計畫的比例 - https://www.wheretocredit.com  
 
 * 查詢與計算各家子艙等累積比例 - https://www.wheretocredit.com/calculator
 
