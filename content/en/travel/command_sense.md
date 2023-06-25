@@ -120,8 +120,10 @@ date: "2023-06-09"
 * 海外保險
     * 日本 (東京海上日動)(限定日本IP) - https://www.jnto.go.jp/emergency/chc/ov_travel_insurance.html  
     * 歐盟申根 (AXA) - https://www.axa-schengen.com/en
-    * 全球 (IMG) - https://www.imglobal.com/
-    * 全球 (多平台提供商) - https://www.visitorscoverage.com/get-quotes/
+    * 歐盟 (Allianz) - https://www.allianz-reiseversicherung.de/en_DE.html  
+    * 全球 (IMG) - https://www.imglobal.com  
+    * 全球 (多平台提供商) - https://www.visitorscoverage.com/get-quotes    
+    * 全球 (東京海上集團孫孫公司) - https://www.worldtrips.com    
 
 
 </br>
