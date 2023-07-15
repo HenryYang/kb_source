@@ -138,6 +138,8 @@ date: "2023-06-09"
 
 * 日本境內 NH / JL 機場分布圖 - https://www.google.com/maps/d/viewer?mid=1dknwOmebSqXqdCN-Hus5sqc0Vq0
 
+* 各種行李直掛與否的分析 - https://blog.tripplus.cc/zh/155792/through-check-baggage-policy
+
 * 網友整理的常見登機箱大小與各航空公司限制 - https://www.ptt.cc/bbs/Japan_Travel/M.1681527029.A.44E.html
 
 * 查詢各航空公司機型與座位分布建議 - https://www.seatguru.com/
