@@ -15,6 +15,7 @@ date: "2023-06-25"
 
 * 飛行獎勵換算表
     * https://flights.cathaypacific.com/zh_HK/redeem-flights/flight-award-chart.html
+    * https://flights.cathaypacific.com/zh_HK/redeem-flights/flight-award-chart-new.html (十月份新表格)
 
 </br>
 
@@ -26,6 +27,10 @@ date: "2023-06-25"
 
 * 獎勵機票兌換頁面
     * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/redeem-flights/facade.html
+
+
+* 線上更改亞萬開的國泰航空執飛航段（僅能改日期）
+    * https://www.cathaypacific.com/cx/en_HK/book-a-trip/redeem-flights/rebooking-list.html
 
 </br>
 
