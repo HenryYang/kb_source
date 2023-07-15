@@ -6,6 +6,10 @@ date: "2023-07-15"
 
 ##### 實用經驗
 
+
+* 超有料的 macOS 使用者部落格 
+    * https://mrmacintosh.com/
+
 * 實用 macOS 軟體清單
     * https://github.com/HenryYang/macOS-essential
 
