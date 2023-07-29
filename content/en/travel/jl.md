@@ -1,14 +1,20 @@
 ---
 title: "JL 哩程計畫 - 實用資訊"
-date: "2023-06-25"
+date: "2023-07-29"
 ---
 
 ##### 日本航空
 
 </br>
 
-* 自家與外航累積比例表
-    * https://www.tw.jal.co.jp/world/en/jalmile/flight/
+* JAL 國際線酬賓獎勵機票 所需哩程列表
+    * https://www.jal.co.jp/tw/zhtw/jalmile/use/jal/inter/routemiles.html  
+
+* JAL 計算 Sector mileage 工具
+    * https://www121.jal.co.jp/JmbWeb/JR/SectionMile_en.do
+
+* 伙伴航空哩程累積在 JAL 比例查詢
+    * https://www.jal.co.jp/jp/en/jmb/earn/travel/byflight/index.html
 
 * 國內線與國際線 FOP 計算表
     * https://www.jal.co.jp/cgi-bin/jal/milesearch/save/flt_mile_save.cgi?external=1&language=en
