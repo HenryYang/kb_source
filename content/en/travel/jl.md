@@ -28,6 +28,9 @@ date: "2023-07-29"
 * JGC 入會申請連結
     * https://www.jal.co.jp/jp/ja/jalmile/jgc/enroll_guide_world.html
 
+* 日航 YQ 燃油附加費 (Fuel Surcharge) 價目表
+    * https://www.jal.co.jp/jp/en/inter/fare/fuel/detail.html  
+
 </br>
 
 * 國際線隨身行李
