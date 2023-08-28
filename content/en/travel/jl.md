@@ -25,6 +25,9 @@ date: "2023-07-29"
 * 網友自制 JGC 修行里程計算器
     * https://www.jgcmileagerun.org/trilogy/mrgenerator
 
+* JGC 入會申請連結
+    * https://www.jal.co.jp/jp/ja/jalmile/jgc/enroll_guide_world.html
+
 </br>
 
 * 國際線隨身行李
