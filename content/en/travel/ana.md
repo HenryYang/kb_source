@@ -36,6 +36,9 @@ date: "2023-07-29"
 * 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
     * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
 
+* 查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
+    * https://ana-maas.val.jp/search  
+
 * 換票時間點
     * 最近可以開到的票：網站 96 小時前
         * 開票後
