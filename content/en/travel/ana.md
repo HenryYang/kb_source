@@ -39,6 +39,11 @@ date: "2023-07-29"
 * 查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
     * https://ana-maas.val.jp/search  
 
+* 長榮航空的行程管理頁面
+    * https://booking.evaair.com/flyeva/eva/b2c/manage-your-trip/log_in.aspx
+
+</br>
+
 * 換票時間點
     * 最近可以開到的票：網站 96 小時前
         * 開票後

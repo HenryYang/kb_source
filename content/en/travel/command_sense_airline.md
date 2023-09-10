@@ -39,7 +39,7 @@ date: "2023-09-10"
 
 * 查詢與計算各家子艙等累積比例 - https://www.wheretocredit.com/calculator
 
-* 查詢各航點用各計畫兌換所需哩程 - https://www.tripplus.cc/awardplus/redemption/s
+* 用地圖查各航點用各計畫兌換所需哩程 - https://www.tripplus.cc/awardplus/redemption/e
 
 * 網友自製日航寰宇一家 (Oneworld) 常用累積百分比表格 - https://www.wenamour.com/jal-jmb-jgc-jgp/
 
@@ -93,6 +93,8 @@ date: "2023-09-10"
 * 網友整理的常見登機箱大小與各航空公司限制 - https://www.ptt.cc/bbs/Japan_Travel/M.1681527029.A.44E.html
 
 * 查詢各航空公司機型與座位分布建議 - https://www.seatguru.com/
+
+* 全球航班發布第一手消息 - https://www.aeroroutes.com/
 
 * 嬰兒票相關資訊
     * 嬰兒的定義在航空業裡面，是指搭乘日當天兩足歲以下（不含兩足歲）的小朋友

@@ -54,7 +54,11 @@ date: "2023-09-10"
 
 ##### 飯店
 
-* 查各地區有哪些連鎖飯店 - https://awardmapper.com/
+* 全世界各大連鎖飯店分布 - https://awardmapper.com/
+
+* 洲際、萬豪、希爾頓點數 & 房價搜尋（免登入） - https://www.ustatz.com/hotelGroups/
+
+* 凱悅、洲際、萬豪、希爾頓點數 & 房價搜尋（要登入） - https://www.ustatz.com/member/hotelGroups/
 
 * 航空/酒店計畫哩程有效期限一覽 (2020 年版) - [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
 
