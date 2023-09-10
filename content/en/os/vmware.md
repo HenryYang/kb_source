@@ -20,6 +20,15 @@ date: "2021-03-27"
 
 </br>
 
+#### ESXi Web Client 的 SSL 憑證存放位置
+
+<pre class="shell">
+<span class="shell-prompt">$</span> <kbd>/etc/vmware/ssl/rui.crt</kbd>  # 權限 644
+<span class="shell-prompt">$</span> <kbd>/etc/vmware/ssl/rui.key </kbd> # 權限 400
+</pre>
+
+</br>
+
 
 #### 重新啟動 ESXi Web Client Service
 
@@ -33,7 +42,7 @@ date: "2021-03-27"
 #### 掛載 NFS 磁碟
 
 <pre class="shell">
-<span class="shell-prompt">$</span> <kbd>esxcfg-nas -a -o 1192.168.1.21 -s /DATA NAS_DATA</kbd>
+<span class="shell-prompt">$</span> <kbd>esxcfg-nas -a -o 192.168.1.21 -s /DATA NAS_DATA</kbd>
 </pre>
 
 
