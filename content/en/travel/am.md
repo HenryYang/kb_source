@@ -123,3 +123,13 @@ date: "2023-06-25"
     * 6/8 消費
     * 6/10 收到通知
     * 9/21 收到回饋
+
+
+</br>
+
+* 台灣各零售點數互轉亞萬表格
+    * https://agamilestravel.blogspot.com/2020/05/points-exchange.html
+
+</br>
+
+<img src="https://ppt.cc/fH6VGx" style="zoom:50%" />
