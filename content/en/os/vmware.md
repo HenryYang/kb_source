@@ -20,6 +20,14 @@ date: "2021-03-27"
 
 </br>
 
+#### ESXi SSH 公鑰存放位置
+
+<pre class="shell">
+<span class="shell-prompt">$</span> <kbd>/etc/ssh/keys-root/authorized_keys</kbd>
+</pre>
+
+</br>
+
 #### ESXi Web Client 的 SSL 憑證存放位置
 
 <pre class="shell">
