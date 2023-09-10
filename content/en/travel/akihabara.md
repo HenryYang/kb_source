@@ -1,6 +1,6 @@
 ---
 title: "秋業原二手電器店資訊"
-date: "2018-07-06"
+date: "2023-09-10"
 ---
 
 <img src="https://i.imgur.com/EOXYCV1.jpg)" style="zoom:50%" />
@@ -20,11 +20,11 @@ date: "2018-07-06"
 * https://twitter.com/GMlpc2jp
 * https://twitter.com/akibajunks
 * https://twitter.com/shonan_tsusho
-* 
 
 </br>
 
-##### 二手電器店散佈範圍
+##### 二手電器店散佈範圍與清單
+* https://maps.app.goo.gl/GZQ2jWWjBR7KBU3x5
 * https://maps.app.goo.gl/aNct4U9uGkot4VLr6
 * https://maps.app.goo.gl/hwkePXrh5rwJXr469
 
