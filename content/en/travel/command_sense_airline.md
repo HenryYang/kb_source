@@ -31,6 +31,8 @@ date: "2023-09-10"
 
 * 哩程界常用術語及縮寫 - https://blog.tripplus.cc/zh/31439   
 
+* 查詢航空公司各機型的位置推薦 - https://www.aerolopa.com  
+
 </br>
 
 ##### 累積與兌換比例/DP
