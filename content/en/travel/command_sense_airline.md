@@ -115,7 +115,8 @@ date: "2023-09-10"
     * https://www.facebook.com/d3consulting.org/posts/2253564971570274
     * https://www.facebook.com/d3consulting.org/posts/2253868764873228
     * http://d3consulting.org/2019-eva-strike-sop/
- 
+    * [關於更多索賠的細節說明](https://www.flyasia.co/2023/09/15/eu261/)
+
 </br>
 
  * 北約音標字母NATO phonetic alphabet
