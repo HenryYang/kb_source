@@ -31,3 +31,28 @@ date: "2020-07-07"
     * 請直接參考[官方最新版文件](https://support.apple.com/zh-tw/HT201295)，因為每款機型操作方式都不同。
 
 </br>
+
+
+##### iCloud 同步問題處理
+
+* 解決一直卡在上傳的狀態
+```shell
+# 停用服務
+$ killall bird
+
+# 刪除同步的暫存檔，完成後請重開機
+$ cd ~/Library/Application\ Support
+$ rm -rf CloudDocs
+```
+
+* 解決部分檔案下載不下來（好發在大型檔案）
+
+```shell
+# 找尋檔案清單
+$ find . -name '.*icloud'
+
+# 強迫下載檔案回來
+$ find . -name '.*icloud' | perl -pe 's|(.*)/.(.*).icloud|$1/$2|s' | while read file; do brctl download "$file"; done
+```
+
+[參考資料](https://www.facebook.com/htlin.lizard/posts/pfbid025u4jnAcDys9faxKbS2gY6HNaAWnBEww5EMoCMwHGnqtkt2UH45GxzqjG7EshAw7Fl)
