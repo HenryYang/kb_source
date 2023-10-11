@@ -23,11 +23,6 @@ date: "2020-07-05"
 
 </br>
 
-##### Crypto.com - MCO VISA Debit Card
-
-* https://s.hiy.tw/mco
-
-</br>
 
 ##### 匯豐銀行 - 旅人/現金回饋 信用卡
 
@@ -92,12 +87,6 @@ date: "2020-07-05"
 * https://s.hiy.tw/yoxi
 
 </br>
-
-##### 悠遊付 EasyWallet
-
-* 請輸入 `M2EC276130B` 來兌換 100 元回饋金
-
-</br> 
 
 ##### 台灣樂天商業銀行
 
