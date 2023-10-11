@@ -79,6 +79,7 @@ date: "2023-07-15"
 
 
 * 舊版 macOS 系統 App Store 下載連結
+    * [macOS 14.0 Sonamo](https://apps.apple.com/us/app/macos-sonoma/id6450717509)
     * [macOS 13.0 Ventura](https://apps.apple.com/tw/app/macos-ventura/id1638787999)
     * [macOS 12.0 Monterey](https://apps.apple.com/tw/app/macos-monterey/id1576738294)
     * [macOS 11.0 Big Sur](https://apps.apple.com/tw/app/macos-big-sur/id1526878132)
