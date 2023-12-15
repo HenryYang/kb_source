@@ -15,7 +15,9 @@ date: "2023-06-25"
 
 * 飛行獎勵換算表
     * https://flights.cathaypacific.com/zh_HK/redeem-flights/flight-award-chart.html
-    * https://flights.cathaypacific.com/zh_HK/redeem-flights/flight-award-chart-new.html (十月份新表格)
+
+* 查詢票等、會籍可托運的行李件數
+    * https://www.cathaypacific.com/cx/zh_TW/baggage.html
 
 </br>
 
