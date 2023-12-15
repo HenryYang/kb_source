@@ -39,6 +39,9 @@ date: "2023-09-10"
 
 #### 實用資訊
 
+* 入境桃園機場須要額外檢查非洲豬瘟 X 光的國家
+    * 中國、香港、澳門、泰國、柬埔寨、越南、韓國、俄羅斯、菲律賓、新加坡、馬來西亞、印尼、義大利、德國
+
 * 世界迷霧 記錄自己移動路徑的人生解鎖類遊戲 - [App Store](https://apps.apple.com/tw/app/id505367096) & [Google Play](https://play.google.com/store/apps/details?id=com.ollix.fogofworld)
 
 </br>
