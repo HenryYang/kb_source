@@ -31,6 +31,9 @@ date: "2023-07-29"
     * 經濟艙限重 20Kg，豪華艙限重 40Kg
     * 無件數限制
 
+* 超額行李可以使用點數付款 (限 ANA 出票的正航班)
+    * https://www.ana.co.jp/en/jp/guide/amc/overweight_baggage/
+
 </br>
 
 * 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
