@@ -42,6 +42,9 @@ date: "2023-07-29"
 * 長榮航空的行程管理頁面
     * https://booking.evaair.com/flyeva/eva/b2c/manage-your-trip/log_in.aspx
 
+* 手動申請實體會員卡
+    * https://www.ana.co.jp/ja/jp/mycampaign/status_card/
+
 </br>
 
 * 換票時間點
