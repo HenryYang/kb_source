@@ -76,3 +76,8 @@ date: "2023-07-29"
     * 日本 マツモトキヨシ -> 30 天
 
 
+</br>
+
+
+* IHG ANA Hotels Group Japan 飯店一覽
+    * https://www.ana.co.jp/zh/tw/amc/more-ways-to-use-miles/digital/ihg-ana-hotels-group-japan/ihg_pop/
