@@ -78,6 +78,8 @@ date: "2023-07-29"
 
 </br>
 
+* ANA 日本股東優惠券權益
+    * https://www.ana.co.jp/group/investors/personal/shareholder_return/
 
 * IHG ANA Hotels Group Japan 飯店一覽
     * https://www.ana.co.jp/zh/tw/amc/more-ways-to-use-miles/digital/ihg-ana-hotels-group-japan/ihg_pop/
