@@ -47,6 +47,9 @@ date: "2023-07-29"
 
 </br>
 
+* 國際線獎勵機票季節、所需哩程表
+    * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
+
 * 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
     * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
 
@@ -62,7 +65,8 @@ date: "2023-07-29"
 </br>
 
 * 換票時間點
-    * 最近可以開到的票：網站 96 小時前
+    * 最近可以開到的票：
+        * 網路開票：當下距離航班起飛超過 96 小時的航班
         * 開票後
             * 純 ANA 自家航班最近可以『改票』到出發前 24 小時
             * 星空聯盟伙伴機票則『改票』也是 96 小時
