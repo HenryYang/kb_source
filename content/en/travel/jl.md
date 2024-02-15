@@ -10,6 +10,9 @@ date: "2023-07-29"
 * JAL 國際線酬賓獎勵機票 所需哩程列表
     * https://www.jal.co.jp/tw/zhtw/jalmile/use/jal/inter/routemiles.html  
 
+* JAL 環球票 所需哩程列表
+    * https://www.jal.co.jp/twl/zhtw/jalmile/use/partner_air/oneworld/index.html
+
 * JAL 計算 Sector mileage 工具
     * https://www121.jal.co.jp/JmbWeb/JR/SectionMile_en.do
 
