@@ -31,6 +31,21 @@ date: "2023-07-29"
 * 日航 YQ 燃油附加費 (Fuel Surcharge) 價目表
     * https://www.jal.co.jp/jp/en/inter/fare/fuel/detail.html  
 
+* JEP 訂票頁面
+    * https://www.world.jal.co.jp/world/zhtw/japan_explorer_pass/tw/reservation/
+
+* 手動申請實體會員卡
+    * https://www.jal.co.jp/jp/en/jalmile/flyon/application-flow/
+    
+* 二等親關係圖
+    * https://www.jal.co.jp/en/jalmile/use/ticket.html
+
+* JL 機身編號小知識
+    * https://www.facebook.com/japanairlines.taiwan/posts/3750883411633528
+    
+* 艙等選位資訊
+    * https://www.facebook.com/d3consulting.org/posts/2123863891207050/
+
 </br>
 
 * 國際線隨身行李
@@ -61,10 +76,8 @@ date: "2023-07-29"
 * 使用亞萬開票後，要記得去日航行程登記手機跟 EMAIL
 
 </br>
-* 哩程票不能改票只能退票，然後退票手續費是 3100 JPY
 
-* 日航 YQ 燃油附加費 (Fuel Surcharge) 價目表
-    * https://www.jal.co.jp/jp/en/inter/fare/fuel/detail_overseas.html
+* 哩程票不能改票只能退票，然後退票手續費是 3100 JPY
 
 * 換票時間點
     * 最近可以訂到的票：網站 48 小時前，電話 24 小時前（如果電話客服下班就只能等上班）
@@ -91,19 +104,3 @@ date: "2023-07-29"
     * https://ecard.hsbc.com.tw/CH/chLogin
 
 </br>
-
-
-* JEP 訂票頁面
-    * https://www.world.jal.co.jp/world/zhtw/japan_explorer_pass/tw/reservation/
-
-* 手動申請實體會員卡
-    * https://www.jal.co.jp/jp/en/jalmile/flyon/application-flow/
-    
-* 二等親關係圖
-    * https://www.jal.co.jp/en/jalmile/use/ticket.html
-
-* JL 機身編號小知識
-    * https://www.facebook.com/japanairlines.taiwan/posts/3750883411633528
-    
-* 艙等選位資訊
-    * https://www.facebook.com/d3consulting.org/posts/2123863891207050/
