@@ -45,6 +45,8 @@ date: "2023-09-10"
 
 * 網友自製日航寰宇一家 (Oneworld) 常用累積百分比表格 - https://www.wenamour.com/jal-jmb-jgc-jgp/
 
+* 北美常見航空公司幫家人兌換規則 - https://www.uscreditcardguide.com/tips-redeem-award-flights-for-family-members/  
+
 * 網友自製各家航空/飯店可用轉點心智圖 - https://s.hiy.tw/miles
     
 * 中國信託里程兌換單（亞萬、長榮、華航、新航）- https://www.ctbcbank.com/content/dam/twrbo/pdf/creditcard/applyform/cc_bp_mileage_apply.pdf
