@@ -6,6 +6,8 @@ date: "2023-07-15"
 
 ##### 實用經驗
 
+* 預估蘋果設備官方維修報價
+    * https://selfservicerepair.com/en-US/order
 
 * 超有料的 macOS 使用者部落格 
     * https://mrmacintosh.com/
