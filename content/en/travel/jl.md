@@ -49,6 +49,9 @@ date: "2023-07-29"
 * 艙等選位資訊
     * https://www.facebook.com/d3consulting.org/posts/2123863891207050/
 
+* 網路上整理日航放票規律
+    * https://blog.tripplus.cc/zh/154646/jal-ticket-release-rules  
+
 </br>
 
 * 國際線隨身行李
