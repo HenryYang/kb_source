@@ -27,9 +27,14 @@ date: "2023-07-29"
 * ANA 日本股東優惠券權益
     * https://www.ana.co.jp/group/investors/personal/shareholder_return/
 
+* ANA COUCHii (ANA Couch) 只有 A380 有這服務
+    * https://www.ana.co.jp/zh/tw/travel-information/cabin/couchii/
+
 * IHG ANA Hotels Group Japan 飯店一覽
     * https://www.ana.co.jp/zh/tw/amc/more-ways-to-use-miles/digital/ihg-ana-hotels-group-japan/ihg_pop/
 
+* ANA 國內線，線上候補教學
+    * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
 
 
 </br>
