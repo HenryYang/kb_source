@@ -17,12 +17,10 @@ date: "2022-09-27"
 
 * 交易分期的銀行（ e.g. 在 PChome24hr 選擇 12 期 0 利率分期結帳）
     * 預設不給回饋
-        * 中信、凱基、渣打、星展、匯豐、新光、遠東、台新、永豐、玉山(2024/1/1開始)、華南(2024/1/1開始)、上海(2024/1/1開始)、兆豐(2024/1/10開始)、聯邦(2024/2/1開始)、國泰(2024/2/1開始)
+        * 中信、凱基、渣打、星展、匯豐、新光、遠東、台新、永豐、玉山、華南、上海、兆豐、聯邦、國泰
     * 預設有給回饋
         * 第一
         * 富邦
-    * 例外
-        * 中信剩下 LOL 聯名卡享有 6 期 0 利率且有給回饋
 
 </br>
 
@@ -79,6 +77,8 @@ date: "2022-09-27"
     * [玉山銀行](https://www.esunbank.com.tw/event/credit/notice/index.html)
     * [華南銀行](https://www.hncb.com.tw/wps/wcm/connect/6b9295c5-ea19-4ab8-9366-402084a12f8c/%E8%8F%AF%E5%8D%97%E9%8A%80%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B0%BD%E5%B8%B3%E5%8D%A1%E4%B8%80%E8%88%AC%E6%B6%88%E8%B2%BB%E5%AE%9A%E7%BE%A9.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-6b9295c5-ea19-4ab8-9366-402084a12f8c-nYw1bv5)
 
+* [玉山銀行活動登記網站](https://card.esunbank.com.tw/EsunCreditweb/txnservice/identify?PRJCD=ALLACTIV) 
+
 
 </br>
 
@@ -98,7 +98,3 @@ date: "2022-09-27"
 </br>
 
 </br>
-
-
-
-<img src="https://i.imgur.com/wqJKw8a.png)" style="zoom:50%" />
