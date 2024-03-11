@@ -14,6 +14,8 @@ date: "2023-09-09"
         * 豪經艙: 1 萬 miles 起
         * 商務艙: 1.5 萬 miles 起 
 
+* 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
+    * https://storefront.points.com/mileage-plan/en-US/buy
 
 * 獎勵機票(使用星宇自家點數)
     * 機票開立後即使已經搭成第一段也可以免費更改後面的時間和航點（只需補稅金差價）
