@@ -17,5 +17,6 @@ Apple 在用的 - http://captive.apple.com/
 日本航空 - http://www.jal-wifi.com  
 星宇航空 - http://capture.onboard.onair.aero  
 國泰航空 - http://connect.cathaypacific.com  
+全日空 - https://www.ana-inflight-wifi.com  
 
 </br>
