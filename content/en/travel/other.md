@@ -27,6 +27,9 @@ date: "2023-09-09"
     * 如果兩名頭等艙都搭乘同一台機場接送，另外一個額度是可以給被攜帶的一名非頭等艙的同班機成人旅客使用
     * 如果不使用環宇，改使用星宇自營頭等貴賓室，則是可以攜帶兩人
         * 這福利與 insighter 的攜伴人數『不可』合併使用
+
+* 網路上換 JX 哩程票知識
+    * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
  
 </br>
 
