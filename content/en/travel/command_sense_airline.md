@@ -33,6 +33,8 @@ date: "2023-09-10"
 
 * 查詢航空公司各機型的位置推薦 - https://www.aerolopa.com  
 
+* 查詢航空公司各機型的位置推薦 - https://seatmaps.com  
+
 </br>
 
 ##### 累積與兌換比例/DP
