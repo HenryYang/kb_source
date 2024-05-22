@@ -30,5 +30,10 @@ date: "2023-01-01"
 
 </br>
 
+##### 大阪連鎖二手電器店 - 難波日本橋
+* https://mobileai.net/2024/03/27/osaka-nipponbashi  
+
+</br>
+
 ##### 某位很愛逛秋葉原二手店的經驗分享噗
 * https://www.plurk.com/p/nl5wmq
