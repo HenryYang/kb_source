@@ -29,6 +29,13 @@ date: "2021-04-12"
 </br>
 
 
+##### Chrome 快速刪除 Cookie 方法
+
+在網址列輸入 `chrome://settings/content/all` 即可看到目前有留下 Cookie 的網站，依照需求刪除即可
+
+</br>
+
+
 ##### 買 SSD 要注意的兩個數值 
 
 `TBW (Terabytes Written)` 就是一個 SSD 的一輩子總共可以寫入多少 TB 的資料量  

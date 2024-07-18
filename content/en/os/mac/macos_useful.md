@@ -13,11 +13,11 @@ date: "2023-07-15"
     * https://mrmacintosh.com/
 
 * 實用 macOS 軟體清單
-    * https://github.com/HenryYang/macOS-essential
+    * https://github.com/HenryYang/macOS-essential  
 
 * macOS Office 365 授權移除
     * https://mobileai.net/2024/03/03/mac-office-365-reset
-    
+
 </br>
 
 * 手動下載 macOS 更新方式
