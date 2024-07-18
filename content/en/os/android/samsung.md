@@ -3,30 +3,60 @@ title: "Samsung 手機實用資訊"
 date: "2024-07-18"
 ---
 
-#### 下載 APK （已分割的 apk 檔案）
-* https://apk.support/zh_tw/apk-downloader
+#### 必裝客製化系統軟體 - Good Lock
+* https://apps.samsung.com/appquery/appDetail.as?appId=com.samsung.android.goodlock  
+* 軟體只有簡體中文跟英文，想看簡中需要把系統整個改成簡中（設定 -> 一般管理 -> 語言）
 
 </br>
 
-#### 安裝已分割的 apk 檔案
-* https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=zh_TW&gl=US
-
-
-</br>
-
-#### Google Pixel 保固查詢
-* https://store.google.com/repair
+#### Home Up (來自 Good Lock ) 調整 多工的選擇
+* 調整 多工切換時的樣式選擇、桌面行列上限數、分享功能的調整
 
 
 </br>
 
-#### Android 手機透過 IMEI 查詢資訊
-* https://www.imei.info/
+#### Nice Shot (來自 Good Lock ) 調整 螢幕截圖
+* 增加螢幕截圖後的刪除、錄影時通知勿擾
 
 
 </br>
 
-#### 下載 Google Play 的 APK
 
-* https://apps.evozi.com/apk-downloader/
-* https://apkpure.com/tw/
+#### LockStar (來自 Good Lock ) 調整 鎖定畫面
+* 調整 icon 樣式、通知樣式、時間格式、排版位置、增加小工具
+
+
+</br>
+
+
+#### RegiStar (來自 Good Lock ) 調整 設定頁面、側邊按鈕
+* 調整設定頁面的顯示方式、側邊按鈕執行的功能
+
+
+</br>
+
+
+#### Camera Assiatant (來自 Good Lock ) 調整 相機設定
+* 調整變焦變率、HDR、鏡頭切換、對焦的預設方式
+
+
+</br>
+
+* Samsung Wallet 加入載具，可以免解鎖給店員掃描
+
+</br>
+
+* 在設定內的 `模式與日常行程`，可以用時間設定行為
+    * 如：設定睡覺時關閉快充功能、連上車機後開啟神盾
+
+</br>
+
+* 主畫面空白處長壓，可以調整主畫面的排版格數到 5x6
+
+</br>
+
+* `設定` -> `進階功能` -> `動作與手勢` -> `拿起手機以喚醒`，可以設定拿起手機點亮螢幕
+
+</br>
+
+* `設定` -> `進階功能` -> `側邊按鈕` -> `長按`，可以設定長按電源關機
