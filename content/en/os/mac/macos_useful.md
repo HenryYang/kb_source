@@ -26,6 +26,13 @@ date: "2023-07-15"
 
 </br>
 
+
+* 移除 Microsoft 365 授權與相關檔案
+    * https://support.microsoft.com/zh-tw/office/b032c0f6-a431-4dad-83a9-6b727c03b193  
+    * https://office-reset.com/  
+
+</br>
+
 * 個人推薦的系統清理工具 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
     * 用於把系統各種快取與設定清除並且驗證系統檔案的工具。它清除完後第一次重開因為系統會重新建立一些快取所以前一小時電腦會很慢是正常狀況。
 
