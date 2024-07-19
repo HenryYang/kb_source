@@ -33,6 +33,16 @@ date: "2023-07-15"
 
 </br>
 
+* 檢查目前電腦內透過 homebrew 安裝軟體的相依樹狀圖
+    * `brew deps --tree --installed`
+
+</br>
+
+* 強制移除全部 homebrew 安裝包的快取並刪除為使用的相依性套件
+    * `brew cleanup --prune=all; brew autoremove` 
+
+</br>
+
 * 個人推薦的系統清理工具 - [OnyX](https://www.titanium-software.fr/en/onyx.html)
     * 用於把系統各種快取與設定清除並且驗證系統檔案的工具。它清除完後第一次重開因為系統會重新建立一些快取所以前一小時電腦會很慢是正常狀況。
 
