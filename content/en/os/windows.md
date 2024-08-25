@@ -85,3 +85,13 @@ reg add “HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\In
 ```
 
 </br>
+
+
+##### Windows 10 系統最佳化調整軟體
+
+* https://www.oo-software.com/en/shutup10  
+* https://github.com/hellzerg/optimizer  
+* https://github.com/W4RH4WK/Debloat-Windows-10  
+
+
+</br>
