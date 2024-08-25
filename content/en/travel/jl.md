@@ -109,8 +109,8 @@ date: "2023-07-29"
 
 * 日航在世界各地機場轉機資訊
 
-<img src="https://i.imgur.com/Tqwi9oC.jpeg" style="zoom:50%" />
+<img src="https://i.imgur.com/Tqwi9oC.jpeg" style="zoom:30%" />
 
-<img src="https://i.imgur.com/iRtipG5.jpeg" style="zoom:50%" />
+<img src="https://i.imgur.com/iRtipG5.jpeg" style="zoom:30%" />
 
-<img src="https://i.imgur.com/LeOFTMi.jpeg" style="zoom:50%" />
+<img src="https://i.imgur.com/LeOFTMi.jpeg" style="zoom:30%" />
