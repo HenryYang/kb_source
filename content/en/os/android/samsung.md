@@ -9,34 +9,34 @@ date: "2024-07-18"
 
 </br>
 
-#### Home Up (來自 Good Lock ) 調整 多工的選擇
+##### Home Up (來自 Good Lock ) 調整 多工的選擇
 * 調整 多工切換時的樣式選擇、桌面行列上限數、分享功能的調整
 
 
 </br>
 
-#### Nice Shot (來自 Good Lock ) 調整 螢幕截圖
+##### Nice Shot (來自 Good Lock ) 調整 螢幕截圖
 * 增加螢幕截圖後的刪除、錄影時通知勿擾
 
 
 </br>
 
 
-#### LockStar (來自 Good Lock ) 調整 鎖定畫面
+##### LockStar (來自 Good Lock ) 調整 鎖定畫面
 * 調整 icon 樣式、通知樣式、時間格式、排版位置、增加小工具
 
 
 </br>
 
 
-#### RegiStar (來自 Good Lock ) 調整 設定頁面、側邊按鈕
+##### RegiStar (來自 Good Lock ) 調整 設定頁面、側邊按鈕
 * 調整設定頁面的顯示方式、側邊按鈕執行的功能
 
 
 </br>
 
 
-#### Camera Assiatant (來自 Good Lock ) 調整 相機設定
+##### Camera Assiatant (來自 Good Lock ) 調整 相機設定
 * 調整變焦變率、HDR、鏡頭切換、對焦的預設方式
 
 </br>
