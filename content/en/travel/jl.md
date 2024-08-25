@@ -97,7 +97,7 @@ date: "2023-07-29"
     * 華南銀行 -> 最短遇過 21 天，最長遇到 48 天
     * 匯豐台灣 -> 4-14 天
     * 萬豪 -> 5-7 天
-    * 日本 d points -> 30 天
+    * 日本 d points -> 30 天(似乎現在不給換外國帳號了)
         * Ponta, Matsukiyo 則是只能轉到日本區帳號
 
 </br>
@@ -105,8 +105,12 @@ date: "2023-07-29"
 * 華南里程兌換單
     * https://bit.ly/2HYRb6U
 
-* 匯豐哩程兌換頁面
-    * https://ecard.hsbc.com.tw/EXT/travelPlus/redeem
-    * https://ecard.hsbc.com.tw/CH/chLogin
-
 </br>
+
+* 日航在世界各地機場轉機資訊
+
+<img src="https://i.imgur.com/Tqwi9oC.jpeg" style="zoom:50%" />
+
+<img src="https://i.imgur.com/iRtipG5.jpeg" style="zoom:50%" />
+
+<img src="https://i.imgur.com/LeOFTMi.jpeg" style="zoom:50%" />
