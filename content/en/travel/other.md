@@ -61,3 +61,12 @@ date: "2023-09-09"
             * 可以獲得天合聯盟通用的訂位編號
             * 可以在 捷克航空 選位
             * 可以在登機前 36 小時在 捷克航空 做 Online check-in
+
+
+##### 其他資訊
+
+* 主流航空給家人換哩程票資訊
+    * https://www.uscreditcardguide.com/tips-redeem-award-flights-for-family-members/
+
+* 主流航空全家統資訊
+    * https://www.uscreditcardguide.com/how-to-combine-or-transfer-airline-miles-between-family-members-part-3
