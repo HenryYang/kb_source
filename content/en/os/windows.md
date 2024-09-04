@@ -9,6 +9,12 @@ fsutil volume diskfree c:
 
 </br>
 
+##### PowerShell 執行原則修改
+```shell
+Set-ExecutionPolicy RemoteSigned
+```
+
+</br>
 
 ##### 開啟虛擬化 (WSL2 需要)
 ```shell
