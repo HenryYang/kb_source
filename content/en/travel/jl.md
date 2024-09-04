@@ -43,6 +43,9 @@ date: "2023-07-29"
 * 二等親關係圖
     * https://www.jal.co.jp/en/jalmile/use/ticket.html
 
+* 國際線航班運行通知
+    *https://www.jal.co.jp/jp/ja/other/weather_info_int/  
+
 * JL 機身編號小知識
     * https://www.facebook.com/japanairlines.taiwan/posts/3750883411633528
     
