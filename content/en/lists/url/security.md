@@ -77,6 +77,10 @@ U2F 支援程度清單 - https://www.dongleauth.info/
 
 </br>
 
+查詢 ip 是否在詐欺犯罪黑名單 - https://scamalytics.com/ip
+
+</br>
+
 Adobe 的線上編輯 PDF 服務 - https://www.adobe.com/tw/acrobat/online.html  
 
 </br>
