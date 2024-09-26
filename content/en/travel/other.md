@@ -63,6 +63,11 @@ date: "2023-09-09"
             * 可以在登機前 36 小時在 捷克航空 做 Online check-in
 
 
+##### 長榮航空
+
+* 搭常長榮的實用資訊
+    * https://blog.jesselin.com/archives/68429/eva_air_travel_essential_guide/
+
 ##### 其他資訊
 
 * 主流航空給家人換哩程票資訊

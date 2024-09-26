@@ -6,6 +6,9 @@ date: "2023-07-29"
 ##### 全日空
 
 
+* 羽田機場第二航廈，管制區內商店與餐廳
+    * https://blog.jesselin.com/archives/70849/haneda-airport-terminal-2-international-line-control-area-store-options/
+
 * 國際線獎勵機票季節、所需哩程表
     * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
 
