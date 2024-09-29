@@ -93,8 +93,10 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 
 </br>
 
-把縮網址還原回原本網址 - https://unshorten.it/
+把縮網址還原回原本網址 - https://unshorten.it/  
 把縮網址還原回原本網址 - https://checkshorturl.com/
 
 </br>
+
+超強的正規表示式產生器 -https://regexgpt.app/
 
