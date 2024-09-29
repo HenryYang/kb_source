@@ -30,3 +30,10 @@ date: "2020-07-07"
 
 * https://apps.evozi.com/apk-downloader/
 * https://apkpure.com/tw/
+
+
+</br>
+
+#### 實用軟體推薦
+
+* 刪除照片的 EXIF - https://play.google.com/store/apps/details?id=com.jarsilio.android.scrambledeggsif
