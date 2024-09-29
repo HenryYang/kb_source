@@ -17,6 +17,9 @@ date: "2023-09-09"
 * 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
     * https://storefront.points.com/mileage-plan/en-US/buy
 
+* 使用AS里程開星宇機票，是可以更改航班或取消的。取消行程只有夥伴訂票費(Partner Award Booking Fee) 12.5 USD不會退回
+    * 如果只是要把星宇改成搭日航，那直接更改旅程(change trip)，所需哩程相同的話可以直接更改，不足的話就補哩程即可，不會再被額外收取稅金與服務費。
+
 * 獎勵機票(使用星宇自家點數)
     * 機票開立後即使已經搭成第一段也可以免費更改後面的時間和航點（只需補稅金差價）
     * 星宇的獎勵機票，開票後，不論第一段是否已經使用，都可以改日期、改航點。僅需付稅金差額
@@ -67,6 +70,10 @@ date: "2023-09-09"
 
 * 搭常長榮的實用資訊
     * https://blog.jesselin.com/archives/68429/eva_air_travel_essential_guide/
+* 兌換長榮自家獎勵機票
+    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/online-reservation/award-ticket/select-itinerary.aspx
+* 兌換星空聯盟獎勵機票
+    * https://booking.evaair.com/flyeva/EVA/B2C/plan-your-journey/online-reservation/staralliance-award-ticket/select-itinerary.aspx
 
 ##### 其他資訊
 
