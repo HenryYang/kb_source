@@ -198,3 +198,19 @@ last <使用者名稱>
 ```
 
 </br>
+
+
+##### 重新把使用者密碼更新上 FileVault2 的解密權限
+
+```shell
+# 參考連結 https://gist.github.com/TomCan/8c5976d62523b57ddeb13705af54c45d
+
+sudo fdesetup remove -user username
+sudo fdesetup add -usertoadd username
+Enter the user name: adminusername
+Enter the password for user 'adminusername':
+Enter the password for the added user 'username':
+
+```
+
+</br>
