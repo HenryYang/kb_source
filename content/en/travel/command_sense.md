@@ -72,6 +72,13 @@ date: "2023-09-10"
 * ANA SFC 卡享有的 IHG 福利
     * [https://www.anaihghotels.co.jp/plan/anaprivilege.html](https://www.anaihghotels.co.jp/plan/anaprivilege.html)
 
+* Agoda 訂房付款幣別資訊 （避免被收額外 5% 的費用）
+    * 到店付款 -> 網頁幣別與結帳畫面都選 飯店當地貨幣
+    * 網路扣款，選 延後付款 -> 網頁幣別與結帳畫面都選 飯店當地貨幣
+    * 網路扣款，選 立即付款 -> 皆可，網頁選什麼幣別結帳頁面就刷什麼幣別
+
+* Booking 的預先付款都是刷當地貨幣結帳
+
 
 ##### 旅遊記錄
 
