@@ -11,9 +11,8 @@ date: "2023-06-25"
 * 查詢國泰本家航班近七天所使用機材
     * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/timetable.html
 
-* 據說國泰內部的升等順序（有兩種說法）
-    * 可信度比較高的：CX銀>OW綠寶
-    * 未經證實的：CX鑽石>OW綠寶>CX金>OW藍寶>CX銀>OW紅寶
+* 查詢國泰本家航班狀態
+    * https://www.cathaypacific.com/cx/zh_TW/prepare-trip/flight-status.html#/flight-status
 
 </br>
 
@@ -46,7 +45,12 @@ date: "2023-06-25"
 
 </br>
 
-    
+* 據說國泰內部的升等順序（有兩種說法）
+    * 可信度比較高的：CX銀>OW綠寶
+    * 未經證實的：CX鑽石>OW綠寶>CX金>OW藍寶>CX銀>OW紅寶
+
+</br>
+
 * 亞萬開 CX 里程票，機場有位子即可改簽，不需有 Z/U/X 等里程票相應艙等，收取 40 美金或等值的幣別改簽費用。
     * 航班 Delay 超過五分鐘（以官方公布起飛時間為準）則維持免費改簽。
     * https://www.facebook.com/d3consulting.org/posts/2368549880071782
