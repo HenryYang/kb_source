@@ -5,6 +5,20 @@ date: "2023-09-09"
 
 ##### 星宇航空
 
+* 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
+    * https://storefront.points.com/mileage-plan/en-US/buy
+
+* 網路上換 JX 哩程票知識
+    * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
+
+* 對於單姓、單名，統一輸入在姓，名輸入 FNU
+    * https://meiyacommonfile.oss-cn-shenzhen.aliyuncs.com/policy/contenta6320a1724227608202.pdf
+
+* 班機動態查詢
+    * https://www.starlux-airlines.com/zh-TW/flight-status  
+
+</br>
+
 * 獎勵機票(使用阿拉斯加航空點數)
     * A321neo 機型執飛 -> 通常會釋出 1 經濟艙、1 商務艙
     * A350-900、A330-900neo 機型執飛 -> 通常會釋出 2 經濟艙、1 豪經艙、1 商務艙
@@ -13,9 +27,6 @@ date: "2023-09-09"
         * 經濟艙: 7500 miles 起
         * 豪經艙: 1 萬 miles 起
         * 商務艙: 1.5 萬 miles 起 
-
-* 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
-    * https://storefront.points.com/mileage-plan/en-US/buy
 
 * 使用AS里程開星宇機票，是可以更改航班或取消的。取消行程只有夥伴訂票費(Partner Award Booking Fee) 12.5 USD不會退回
     * 如果只是要把星宇改成搭日航，那直接更改旅程(change trip)，所需哩程相同的話可以直接更改，不足的話就補哩程即可，不會再被額外收取稅金與服務費。
@@ -30,14 +41,6 @@ date: "2023-09-09"
     * 如果兩名頭等艙都搭乘同一台機場接送，另外一個額度是可以給被攜帶的一名非頭等艙的同班機成人旅客使用
     * 如果不使用環宇，改使用星宇自營頭等貴賓室，則是可以攜帶兩人
         * 這福利與 insighter 的攜伴人數『不可』合併使用
-
-* 網路上換 JX 哩程票知識
-    * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
-
-* 對於單姓、單名，統一輸入在姓，名輸入 FNU
-    * https://meiyacommonfile.oss-cn-shenzhen.aliyuncs.com/policy/contenta6320a1724227608202.pdf
-
-
 
  
 </br>
