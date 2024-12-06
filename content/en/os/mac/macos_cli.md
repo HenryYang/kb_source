@@ -33,7 +33,13 @@ security import 要匯入的憑證 -k ~/Library/Keychains/login.keychain-db
 https://developer.apple.com/download/more/
 
 # 使用 xip 指令直接安裝
-xip -x ~/Download/Xcode_12.xip
+xip -x ~/Download/Xcode_15.xip
+
+# 下載 iOS 17.2 Simulator Runtime
+https://download.developer.apple.com/Developer_Tools/iOS_17.2_Simulator_Runtime/iOS_17.2_Simulator_Runtime.dmg
+
+# 安裝 Simulator Runtime
+xcrun simctl runtime add "~/Downloads/iOS_17.2_Simulator_Runtime.dmg"
 
 ```
 
