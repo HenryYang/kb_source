@@ -33,6 +33,12 @@ date: "2023-09-09"
 
 * 網路上換 JX 哩程票知識
     * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
+
+* 對於單姓、單名，統一輸入在姓，名輸入 FNU
+    * https://meiyacommonfile.oss-cn-shenzhen.aliyuncs.com/policy/contenta6320a1724227608202.pdf
+
+
+
  
 </br>
 
