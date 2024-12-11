@@ -44,7 +44,7 @@ date: "2023-07-29"
     * https://www.jal.co.jp/en/jalmile/use/ticket.html
 
 * 國際線航班運行通知
-    *https://www.jal.co.jp/jp/ja/other/weather_info_int/  
+    * https://www.jal.co.jp/jp/ja/other/weather_info_int/  
 
 * JL 機身編號小知識
     * https://www.facebook.com/japanairlines.taiwan/posts/3750883411633528
@@ -54,6 +54,9 @@ date: "2023-07-29"
 
 * 網路上整理日航放票規律
     * https://blog.tripplus.cc/zh/154646/jal-ticket-release-rules  
+
+* 商務艙申請免費 WiFi 的網址
+    * https://cloud.email.jal.com/free_wi-fi?lang=en  
 
 </br>
 
