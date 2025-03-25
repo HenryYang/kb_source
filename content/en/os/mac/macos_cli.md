@@ -1,6 +1,6 @@
 ---
 title: "macOS CLI / macOS 指令"
-date: "2020-07-07"
+date: "2025-03-25"
 ---
 
 ##### 顯示從 Keychain 匯出的 .p12 中的公私鑰
@@ -104,6 +104,13 @@ sudo spctl --master-disable
 </br>
 
 
+##### 手動刪除系統的快取檔案 （危險，風險自負）
+```shell
+rm -rf ~/Library/Caches
+```
+
+</br>
+
 
 ##### 擴充（找回）未使用的硬碟空間
 
@@ -180,6 +187,13 @@ rm -rf /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core; brew update
 #####  備份 homebrew 安裝的軟體清單
 ```shell
 brew bundle dump
+```
+
+</br>
+
+#####  強制移除 homebrew 安裝的軟體
+```shell
+brew uninstall --cask --force 安裝的軟體
 ```
 
 </br>
