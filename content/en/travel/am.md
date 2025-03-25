@@ -14,27 +14,17 @@ date: "2023-06-25"
 * 查詢國泰本家航班狀態
     * https://www.cathaypacific.com/cx/zh_TW/prepare-trip/flight-status.html#/flight-status
 
-</br>
-
 * 飛行獎勵換算表
     * https://flights.cathaypacific.com/zh_HK/redeem-flights/flight-award-chart.html
 
 * 查詢票等、會籍可托運的行李件數
     * https://www.cathaypacific.com/cx/zh_TW/baggage.html
 
-</br>
-
-
 * 國泰航空 寰宇一家 環球票小幫手
     * https://cxplanner.jayliu.net/
 
-</br>
-
 * 國泰會籍與飛行獎勵相關條款
     * https://www.cathaypacific.com/cx/zh_HK/legal-and-privacy/cathay-membership-terms-and-conditions.html
-
-</br>
-
 
 * 獎勵機票兌換頁面
     * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/redeem-flights/facade.html
@@ -84,14 +74,6 @@ date: "2023-06-25"
             * 如開商務艙票中途某段只訂到經濟艙，之後放出票後可改至商務艙，需付改票手續費
             * 全程未使用，可以退里程與稅金，但要手續費。只要一開始使用就只能退稅金
 
-</br>      
-
-```
-香港時間 00:00 AM 放當天「整天全部」的航班，意思就是台灣時間 00:00 AM 準時放票 
-標準賞，無會籍，換『外航』機票：最遠可以訂到的票: 第 360 天的票
-標準賞，無會籍，換『國泰』機票：最遠可以訂到的票: 第 353 天的票
-標準賞，銀卡（含）以上會籍且有信用卡聯名卡，換『國泰』機票：最遠可以訂到的票: 第 356 天的票
-```
 
 </br>
 
@@ -125,7 +107,6 @@ date: "2023-06-25"
     * 中國信託 -> 4-6 天
     * 星展銀行 -> 1-2 天
     * 匯豐台灣 -> 10-14 天
-    * 台灣花旗銀行 -> 當日
     * 美國美國運通 -> 即時
     * 臺灣美國運通 -> 下一個工作天
     * 國泰世華小數點 -> 1-2 天 
@@ -139,6 +120,14 @@ date: "2023-06-25"
     * 6/10 收到通知
     * 9/21 收到回饋
 
+</br>      
+
+```
+香港時間 00:00 AM 放當天「整天全部」的航班，意思就是台灣時間 00:00 AM 準時放票 
+標準賞，無會籍，換『外航』機票：最遠可以訂到的票: 第 360 天的票
+標準賞，無會籍，換『國泰』機票：最遠可以訂到的票: 第 353 天的票
+標準賞，銀卡（含）以上會籍且有信用卡聯名卡，換『國泰』機票：最遠可以訂到的票: 第 356 天的票
+```
 
 </br>
 
