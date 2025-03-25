@@ -37,6 +37,8 @@ date: "2023-09-10"
 
 * 查詢航空公司發給旅行社的公告 - https://www.sabretn.com.tw/News/FlightList  
 
+* 各航空公司的行李箱尺寸規定 - https://blog.jesselin.com/archives/88311/baggage-allowance  
+
 </br>
 
 ##### 累積與兌換比例/DP
