@@ -98,6 +98,8 @@ date: "2025-03-25"
     * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/online-reservation/award-ticket/select-itinerary.aspx
 * 兌換星空聯盟獎勵機票
     * https://booking.evaair.com/flyeva/EVA/B2C/plan-your-journey/online-reservation/staralliance-award-ticket/select-itinerary.aspx
+* 導購賺點 EVA Mileage Mall
+    * https://mall.brmile.com/zh  
 * 轉點時間
     * 台灣匯豐旅人 -> 最快當下入帳
     * OpenPoint -> 幾乎都是隔月 8 號入帳
