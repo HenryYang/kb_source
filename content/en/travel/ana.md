@@ -45,6 +45,9 @@ date: "2023-07-29"
 * ANA 集團理賠申請網頁
     * https://comp-s.ana.co.jp
 
+* ANA 自費升級經濟艙餐點
+    * https://www.ana.co.jp/zh/tw/travel-information/meals/#anchor-paid-exclusive-dining
+    
 
 
 
