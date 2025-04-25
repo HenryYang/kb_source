@@ -8,6 +8,9 @@ date: "2025-03-25"
 
 * 國泰香港客服電話 [+85227473333](tel:+85227473333)
 
+* 網友整理 2025/4/15 後亞萬所需哩程對照表
+    * https://www.ptt.cc/bbs/Aviation/M.1744662391.A.9EB.html  
+
 * 查詢國泰本家航班近七天所使用機材
     * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/timetable.html
 
