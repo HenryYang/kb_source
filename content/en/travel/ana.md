@@ -49,9 +49,12 @@ date: "2023-07-29"
     * https://www.ana.co.jp/zh/tw/travel-information/meals/#anchor-paid-exclusive-dining
     
 
-
-
 </br>
+
+* 退改規定
+    * 改票：免費，但必須在航班起飛前 96 小時修改
+    * 退票：扣 3000 miles，且必須在航班起飛前取消
+
 
 * 里程票子艙等
     * 經濟艙 X
