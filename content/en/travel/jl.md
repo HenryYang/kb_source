@@ -49,8 +49,10 @@ date: "2025-03-25"
 * 網路上整理日航放票規律
     * https://blog.tripplus.cc/zh/154646/jal-ticket-release-rules  
 
-* 商務艙申請免費 WiFi 的網址
+* 商務艙申請免費 WiFi 的網址  
     * https://cloud.email.jal.com/free_wi-fi?lang=en  
+* JAL 線上升等經濟艙餐食  
+    * https://www.jal.co.jp/tw/zhtw/offers/service/optional/paidmeal/
 
 
 </br>
