@@ -13,4 +13,5 @@ date: "2022-10-07"
 * 網頁版抽獎程式 (可以顯示全部人名單) - https://apan1121.github.io/luckydraw/  
 * 推估 App 營收數量 - https://app.sensortower.com  
 * 離線去除 EXIF 與模糊化照片 - https://everestpipkin.github.io/image-scrubber/  
+* 免費、臨時用的 FTP 儲存服務 - https://sftpcloud.io/tools/free-ftp-server  
 </br>
