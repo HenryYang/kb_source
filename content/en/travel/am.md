@@ -33,6 +33,9 @@ date: "2025-03-25"
 * 線上更改亞萬開的國泰航空執飛航段（僅能改日期）
     * https://www.cathaypacific.com/cx/en_HK/book-a-trip/redeem-flights/rebooking-list.html
 
+* 國泰合作的訂房平台（能額外賺亞萬）
+    * https://tw.holidaydeals.cathaypacific.com/
+
 </br>
 
 * 據說國泰內部的升等順序（有兩種說法）
