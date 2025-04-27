@@ -28,6 +28,13 @@ date: "2020-07-07"
 
 </br>
 
+
+##### 電腦批次下載 iCloud Photo 工具
+* https://github.com/icloud-photos-downloader/icloud_photos_downloader
+
+</br>
+
+
 ##### 停用 Finder 提示通知的 iOS Update
 ```shell
 # 雖然 10.15 後沒有 iTunes 但還是用這服務來看設定值 （要重開機）
