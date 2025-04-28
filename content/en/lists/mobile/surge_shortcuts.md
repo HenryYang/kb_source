@@ -1,5 +1,5 @@
 ---
-title: "iOS Surge Module & Shortcuts List  / iOS Surge 模組與捷徑的實用清單"
+title: "iOS Surge 模組與捷徑的實用清單"
 date: "2020-07-07"
 ---
 
