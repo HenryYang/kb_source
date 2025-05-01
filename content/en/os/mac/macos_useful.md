@@ -26,6 +26,11 @@ date: "2023-07-15"
 
 </br>
 
+* 各版本 M 系列 Mac 還原用 ipsw 下載
+    * https://mrmacintosh.com/apple-silicon-m1-full-macos-restore-ipsw-firmware-files-database/
+
+</br>
+
 
 * 移除 Microsoft 365 授權與相關檔案
     * https://support.microsoft.com/zh-tw/office/b032c0f6-a431-4dad-83a9-6b727c03b193  
