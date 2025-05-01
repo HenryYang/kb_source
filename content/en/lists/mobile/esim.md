@@ -3,60 +3,25 @@ title: "eSIM 各類知識"
 date: "2025-04-28"
 ---
 
+* 台灣販售的三星不支援 eSIM，所以市場上就出現了把 eSIM 資料寫入 SIM 卡的卡片與工具
 
-##### 這邊說說觀光客可以買到的各種 eSIM/SIM 清單
+* 關於 eSIM 轉實體 SIM 的背景知識
+    * https://iecho.cc/2023/10/20/convert-esim-to-physical-sim  
 
-#### eSIM 
+* 網路賣卡的賣家寫的相關教學
+    * https://www.wenziwanka.com/simcard/e-sim  
 
-* [DJB - eSIM 暢日卡](https://esim.djbcard.com/product/esim-japan-standard/)
-    * ICCID 前八碼：89860012
-    * 「需」開啟數據漫遊
-    * 簽卡國家：中國的中國電信
-    * 使用電信：DoCoMo (實測連上沒訊號) / SoftBank / AU (連不上)
-        * 有拿到日本 020 開頭門號，實際測試出口是日本 IP
+* 某家已倒的 eSIM 實體卡如何使用第三方寫卡教學
+    * https://zhuanlan.zhihu.com/p/28089359721
 
-</br>
+* Android 常用寫卡軟體
+    * 需 root 但全品牌卡都可寫 - https://github.com/estkme-group/openeuicc
+    * 免 root，僅支援特定卡 - https://gitea.angry.im/PeterCxy/OpenEUICC/releases
 
-* [Airalo - Moshi Moshi](https://www.airalo.com/zh/japan-esim/moshi-moshi-7days-1gb)
-    * ICCID 前八碼：89371088
-    * 「需」開啟數據漫遊
-    * 簽卡國家：拉脫維亞的 SIA IZZI
-    * 使用電信：AU
+* iOS 常用寫卡軟體 (需讀卡機)
+    * https://apps.apple.com/us/app/nekokolpa/id6738007885
 
-</br>
+* Windows/ MacOS / Linux 常見的 GUI 寫卡軟體
+    * https://github.com/creamlike1024/EasyLPAC  
 
-#### 實體 SIM 卡
-
-* [WiHo - 日本5日無流量限制 SoftBank 電信](https://www.telecomsquare.tw/Product/Info/62b54df812841)
-    * ICCID 前八碼：89852800
-    * 「需」開啟數據漫遊
-    * 簽卡國家：香港的電訊盈科   
-    * 使用電信：SoftBank
-
-</br>
-
-
-* [WiHo - 日本 30 日 50GB Docomo 電信](https://www.telecomsquare.tw/Product/Info/62e8a83c4ddb5)
-    * ICCID 前八碼：89810300
-    * 「不用」開啟數據漫遊
-    * 簽卡國家：日本的 IIJ
-    * 使用電信：DoCoMo
-
-</br>
-
-
-* [b-mobile S 190PadSIM](https://www.bmobile.ne.jp/190sim/)
-    * ICCID 前八碼：<待補>
-    * 「不用」開啟數據漫遊
-    * 簽卡國家：日本的 IIJ
-    * 使用電信：DoCoMo
-        * [iOS Mobileconfig](https://www.bmobile.ne.jp/devices/bmobileCelluar_ios.mobileconfig)、[APN 資訊](https://www.bmobile.ne.jp/190sim/support_apn_setting_docomo.html)
-
-</br>
-
-* [BBエキサイト 格安SIM](https://bb.excite.co.jp/exmb/sim/)
-    * ICCID 前八碼：<待補>
-    * 「不用」開啟數據漫遊
-    * 簽卡國家：日本
-    * 使用電信：AU
-        * [iOS Mobileconfig](https://bb.excite.co.jp/exmb/sim/apn/data/excitemobile-LTE(cellular).mobileconfig)、[APN 資訊](https://bb.excite.co.jp/exmb/sim/apn/)
+    
