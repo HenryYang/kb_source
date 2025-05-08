@@ -1,5 +1,5 @@
 ---
-title: "Disable LINE personal AD identifier  / 停用 LINE 的個人化廣告偏好"
+title: "停用 LINE 的個人化廣告偏好"
 date: "2021-04-14"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Crypto.com Fiat Wallet notes/ Crypto.com 的 Fiat Wallet 記錄"
+title: "Crypto.com 的 Fiat Wallet 記錄"
 date: "2020-08-16"
 ---
 

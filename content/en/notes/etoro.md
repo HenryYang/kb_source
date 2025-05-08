@@ -1,5 +1,5 @@
 ---
-title: "eToro withdraw via Paypal  / eToro 透過 Paypal 記錄"
+title: "eToro 透過 Paypal 記錄"
 date: "2020-08-16"
 ---
 

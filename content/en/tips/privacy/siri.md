@@ -1,5 +1,5 @@
 ---
-title: "Disable Siri 'Learn from App' & Delete request history / 限制 Siri 從其他 App 學習功能與刪除聽寫紀錄"
+title: "限制 Siri 從其他 App 學習功能與刪除聽寫紀錄"
 date: "2021-04-14"
 ---
 
