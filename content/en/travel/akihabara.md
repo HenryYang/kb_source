@@ -14,12 +14,14 @@ date: "2023-01-01"
 </br>
 
 ##### 常會貼超值二手電器的店家 Twitter
-* https://twitter.com/MlcStaff/
-* https://twitter.com/kandasoubi
-* https://twitter.com/akihabalast
-* https://twitter.com/GMlpc2jp
-* https://twitter.com/akibajunks
-* https://twitter.com/shonan_tsusho
+* https://x.com/MlcStaff/
+* https://x.com/kandasoubi
+* https://x.com/akihabalast
+* https://x.com/GMlpc2jp
+* https://x.com/akibajunks
+* https://x.com/shonan_tsusho
+* https://x.com/AKI_GRACE_2006  
+* https://x.com/etal_akiba  
 
 </br>
 
