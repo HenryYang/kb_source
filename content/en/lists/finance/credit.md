@@ -1,6 +1,6 @@
 ---
 title: "台灣信用卡的實用知識"
-date: "2022-09-27"
+date: "2025-05-08"
 ---
 
 * 『國際交易手續費』會出現的原因是『信用卡發卡銀行』與『收單行銀行』屬於不同國家
@@ -16,35 +16,27 @@ date: "2022-09-27"
 </br>
 
 * 交易分期的銀行（ e.g. 在 PChome24hr 選擇 12 期 0 利率分期結帳）
-    * 預設不給回饋
-        * 中信、凱基、渣打、星展、匯豐、新光、遠東、台新、永豐、玉山、華南、上海、兆豐、聯邦、國泰
-    * 預設有給回饋
-        * 第一
-        * 富邦
+    * 有沒有回饋可以參考[ CardU 整理的資訊](https://www.cardu.com.tw/message/detail.php?44743)
+    * 目前分期有給回饋的多為公股銀行，非公股有回饋的如下
+        * 國泰世華、渣打、元大、樂天
 
 </br>
 
 
 * 歐盟實體消費不給回饋清單
+    * 有沒有回饋可以參考[ CardU 整理的資訊](https://www.cardu.com.tw/message/detail.php?50056)
     * 預設不給回饋
-        * 聯邦(2024/2/1開始)
-            * 全卡別不給回饋
-        * 中信(2024/1/1開始)
-            * 僅 12 張頂卡給回饋，剩餘皆不給
-        * 永豐(2024/1/1開始)
-            * [特定 18 張不給回饋，其餘都給](https://bank.sinopac.com/sinopacBT/webevents/creditpdf/2024%E5%B9%B4H1%E6%AC%8A%E7%9B%8A%E6%88%96%E6%9C%8D%E5%8B%99%E8%AA%BF%E6%95%B4.pdf)
-        * 星展
-            * [官方清單內卡不給回饋](https://www.dbs.com.tw/iwov-resources/pdf/Latest%20News/other-cards-version.pdf)
-        * 匯豐
-            * 僅 現金回饋御璽卡 無回饋
-        * 台新
-            * [官方有列出給回饋的卡](https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-000616/)
+        * 新光 -> 全卡別不給回饋  
+        * 聯邦 -> 全卡別不給回饋  
+        * 富邦 -> 僅 Costco 聯名卡給回饋，剩餘皆不給  
+        * 中信 -> 僅特定卡給回饋，剩餘皆不給  
+        * 滙豐 -> 僅 現金回饋御璽卡 無回饋  
+        * 永豐 -> [特定卡不給回饋，其餘都給](https://bank.sinopac.com/sinopacBT/webevents/creditpdf/2024%E5%B9%B4H1%E6%AC%8A%E7%9B%8A%E6%88%96%E6%9C%8D%E5%8B%99%E8%AA%BF%E6%95%B4.pdf)
+        * 星展 -> [官方清單內卡不給回饋](https://www.dbs.com.tw/iwov-resources/pdf/Latest%20News/other-cards-version.pdf)
+        * 台新 -> [官方有列出給回饋的卡](https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-000616/)
     * 歐洲經濟區 (EEA) 定義 
         * 奧地利、比利時、保加利亞、克羅埃西亞、賽普勒斯、捷克、丹麥、愛沙尼亞、芬蘭、法國、德國、希臘、匈牙利、愛爾蘭、義大利、拉脫維亞、立陶宛、盧森堡、馬爾他、荷蘭、波蘭、葡萄牙、羅馬尼亞、斯洛伐克、斯洛維尼亞、西班牙、瑞典、英國、冰島、列支敦斯登和挪威
-    * 中信給回饋的 12 張
-        * 中信商務卡/雙幣商務卡、LEXUS 聯名卡、台北 101 尊榮鼎極卡、中華航空鼎尊無限卡/璀璨無限卡、ANA 極緻卡/無限卡/晶緻卡/商務御璽卡、大中華攜手飛無限卡/商務御璽卡
-    * 永豐不給回饋的 18 張
-        * 美安聯名卡、三井聯名卡、Me卡、永豐55688聯名卡、Vouge聯名卡、美樂家聯名卡、永豐卓越卡、財富無限卡、鈦豐卡、世界卡、豐富卡、八通卡、美麗華聯名卡、保倍卡、購物卡、永豐e卡、中興大學認同卡、MMA金融信用卡
+
 
 </br>
 
@@ -83,18 +75,10 @@ date: "2022-09-27"
 </br>
 
 
-* 各家銀行信用卡 3D 驗證方式
-    * 富邦 -> SMS、EMail
-    * 匯豐 -> SMS、EMail
-    * 國泰 -> SMS、EMail
-    * 華南 -> SMS、App 推播
-    * 中信 -> SMS、App 推播
-    * 台新 -> SMS & EMail
-    * 永豐 -> SMS & EMail
-    * 新光 -> SMS & EMail
-    * 玉山 -> SMS & EMail
-    * LineBank -> SMS 
-
-</br>
-
-</br>
+* 信用卡貨幣轉換匯率
+    * VISA, Master 現在都改為以取授權當下的匯率為主，而 JCB 還是以清算是（俗稱請款日）當天匯率為主
+    * VISA [https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html](https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html)
+    * Mastercard [https://www.mastercard.us/en-us/personal/get-support/convert-currency.html](https://www.mastercard.us/en-us/personal/get-support/convert-currency.html)
+    * JCB - JPY [https://www.jcb.jp/rate/jpy.html](https://www.jcb.jp/rate/jpy.html)
+    * JCB - USD [https://www.jcb.jp/rate/usd.html](https://www.jcb.jp/rate/usd.html) 
+    * 現成的比較網站  [https://www.bestxrate.com/](https://www.bestxrate.com/)
