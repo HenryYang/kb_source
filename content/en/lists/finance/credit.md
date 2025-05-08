@@ -69,6 +69,8 @@ date: "2025-05-08"
     * [玉山銀行](https://www.esunbank.com.tw/event/credit/notice/index.html)
     * [華南銀行](https://www.hncb.com.tw/wps/wcm/connect/6b9295c5-ea19-4ab8-9366-402084a12f8c/%E8%8F%AF%E5%8D%97%E9%8A%80%E8%A1%8C%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B0%BD%E5%B8%B3%E5%8D%A1%E4%B8%80%E8%88%AC%E6%B6%88%E8%B2%BB%E5%AE%9A%E7%BE%A9.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-6b9295c5-ea19-4ab8-9366-402084a12f8c-nYw1bv5)
 
+</br>
+
 * [玉山銀行活動登記網站](https://card.esunbank.com.tw/EsunCreditweb/txnservice/identify?PRJCD=ALLACTIV) 
 
 
@@ -77,8 +79,8 @@ date: "2025-05-08"
 
 * 信用卡貨幣轉換匯率
     * VISA, Master 現在都改為以取授權當下的匯率為主，而 JCB 還是以清算是（俗稱請款日）當天匯率為主
-    * VISA [https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html](https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html)
-    * Mastercard [https://www.mastercard.us/en-us/personal/get-support/convert-currency.html](https://www.mastercard.us/en-us/personal/get-support/convert-currency.html)
-    * JCB - JPY [https://www.jcb.jp/rate/jpy.html](https://www.jcb.jp/rate/jpy.html)
-    * JCB - USD [https://www.jcb.jp/rate/usd.html](https://www.jcb.jp/rate/usd.html) 
+    * VISA： [https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html](https://www.visa.com.tw/travel-with-visa/exchange-rate-calculator.html)
+    * Master： [https://www.mastercard.us/en-us/personal/get-support/convert-currency.html](https://www.mastercard.us/en-us/personal/get-support/convert-currency.html)
+    * JCB - JPY： [https://www.jcb.jp/rate/jpy.html](https://www.jcb.jp/rate/jpy.html)
+    * JCB - USD： [https://www.jcb.jp/rate/usd.html](https://www.jcb.jp/rate/usd.html) 
     * 現成的比較網站  [https://www.bestxrate.com/](https://www.bestxrate.com/)
