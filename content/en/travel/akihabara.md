@@ -1,6 +1,6 @@
 ---
 title: "秋業原二手電器店資訊"
-date: "2023-01-01"
+date: "2025-05-12"
 ---
 
 <img src="https://i.imgur.com/EOXYCV1.jpg)" style="zoom:50%" />
@@ -22,6 +22,7 @@ date: "2023-01-01"
 * https://x.com/shonan_tsusho
 * https://x.com/AKI_GRACE_2006  
 * https://x.com/etal_akiba  
+* https://x.com/worldmobile0022  
 
 </br>
 
