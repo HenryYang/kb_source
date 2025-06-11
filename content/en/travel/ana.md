@@ -5,6 +5,7 @@ date: "2023-07-29"
 
 ##### 全日空
 
+* * 開放網路報到時間:出發前 24hr 
 
 * 羽田機場第二航廈，管制區內商店與餐廳
     * https://blog.jesselin.com/archives/70849/haneda-airport-terminal-2-international-line-control-area-store-options/

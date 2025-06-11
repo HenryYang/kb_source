@@ -7,6 +7,8 @@ date: "2025-03-25"
 
 </br>
 
+* 開放網路報到時間:出發前 24hr 
+
 * JAL 國際線酬賓獎勵機票 所需哩程列表
     * https://www.jal.co.jp/tw/zhtw/jalmile/use/jal/inter/routemiles.html  
 
