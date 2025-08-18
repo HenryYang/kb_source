@@ -128,7 +128,7 @@ date: "2025-03-25"
 * JAL 與 ANA 國內線航點
     * 參考資料 https://x.com/okamiler_pn/status/1909450440397537643
 
-<img src="https://pbs.twimg.com/media/Gn-6ocobwAIYurX?format=jpg&name=large" style="zoom:30%" />
+<img src="https://pbs.twimg.com/media/Gn-6ocobwAIYurX?format=jpg&name=large" style="zoom:60%" />
 
 </br>
 
