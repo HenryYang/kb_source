@@ -125,6 +125,13 @@ date: "2025-03-25"
 
 </br>
 
+* JAL 與 ANA 國內線航點
+    * 參考資料 https://x.com/okamiler_pn/status/1909450440397537643
+
+<img src="https://pbs.twimg.com/media/Gn-6ocobwAIYurX?format=jpg&name=large" style="zoom:30%" />
+
+</br>
+
 * 日航在世界各地機場轉機資訊
 
 <img src="https://i.imgur.com/Tqwi9oC.jpeg" style="zoom:30%" />

@@ -64,6 +64,8 @@ date: "2025-03-25"
 
 * Flightradar24 可以查詢航班歷史軌跡、執飛機材，更可以用 AR 查天空上的飛機資訊 - [App Store](https://apps.apple.com/us/app/flightradar24-flight-tracker/id382233851) & [Google Play](https://play.google.com/store/apps/details?id=com.flightradar24free&hl=zh_TW&gl=US)
 
+* 查詢航班位置與下載 KML - https://globe.adsbexchange.com  
+
 * 日本境內 NH / JL 機場分布圖 - https://www.google.com/maps/d/viewer?mid=1dknwOmebSqXqdCN-Hus5sqc0Vq0
 
 * 全球航班發布第一手消息 - https://www.aeroroutes.com/
