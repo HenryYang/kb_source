@@ -33,10 +33,6 @@ date: "2025-03-25"
 
 </br>
 
-* 世界迷霧 記錄自己移動路徑的人生解鎖類遊戲 - [App Store](https://apps.apple.com/tw/app/id505367096) & [Google Play](https://play.google.com/store/apps/details?id=com.ollix.fogofworld)
-
-</br>
-
  * 北約音標字母NATO phonetic alphabet
     * https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
     * https://www.youtube.com/watch?v=f28fAVRL5Jg&t=1s 
