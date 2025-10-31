@@ -32,7 +32,7 @@ date: "2021-03-27"
 
 <pre class="shell">
 <span class="shell-prompt">$</span> <kbd>/etc/vmware/ssl/rui.crt</kbd>  # 權限 644
-<span class="shell-prompt">$</span> <kbd>/etc/vmware/ssl/rui.key </kbd> # 權限 400
+<span class="shell-prompt">$</span> <kbd>/etc/vmware/ssl/rui.key </kbd> # 權限 600
 </pre>
 
 </br>
@@ -43,6 +43,9 @@ date: "2021-03-27"
 <pre class="shell">
 <span class="shell-prompt">$</span> <kbd>/etc/init.d/hostd restart</kbd>
 <span class="shell-prompt">$</span> <kbd>/etc/init.d/vpxa restart</kbd>
+<span class="shell-prompt">$</span> <kbd># 如果沒效可以嘗試重起全部服務</kbd>
+<span class="shell-prompt">$</span> <kbd>/sbin/services.sh restart</kbd>
+
 </pre>
 
 </br>
