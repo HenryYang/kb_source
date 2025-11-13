@@ -10,6 +10,9 @@ date: "2025-03-25"
 * 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
     * https://storefront.points.com/mileage-plan/en-US/buy
 
+* 阿拉斯加舊版獎勵機票以月曆方式查詢位置
+    * https://www.alaskaair.com/planbook/shoppingstart
+
 * 網路上換 JX 哩程票知識
     * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
 
