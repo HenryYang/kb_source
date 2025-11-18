@@ -1,6 +1,6 @@
 ---
-title: "VMware info & notes / VMware 相關資訊筆記 "
-date: "2021-03-27"
+title: "VMware 相關資訊筆記 "
+date: "2025-11-16"
 ---
 
 #### VMwave 虛擬磁碟格式
@@ -45,7 +45,6 @@ date: "2021-03-27"
 <span class="shell-prompt">$</span> <kbd>/etc/init.d/vpxa restart</kbd>
 <span class="shell-prompt">$</span> <kbd># 如果沒效可以嘗試重起全部服務</kbd>
 <span class="shell-prompt">$</span> <kbd>/sbin/services.sh restart</kbd>
-
 </pre>
 
 </br>
