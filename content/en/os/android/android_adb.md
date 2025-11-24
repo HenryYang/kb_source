@@ -1,5 +1,5 @@
 ---
-title: "Android adb Tips / Android adb 相關資訊"
+title: "Android adb 相關資訊"
 date: "2020-10-27"
 ---
 

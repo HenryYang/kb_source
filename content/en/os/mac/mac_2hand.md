@@ -1,5 +1,5 @@
 ---
-title: "Check list for Used Mac Device / 二手蘋果電腦驗機方式"
+title: "二手蘋果電腦驗機方式"
 date: "2018-07-06"
 ---
 

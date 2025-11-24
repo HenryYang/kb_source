@@ -1,5 +1,5 @@
 ---
-title: "MacOS Debug / MacOS 除錯設定"
+title: "MacOS Debug 技巧"
 date: "2020-07-07"
 ---
 

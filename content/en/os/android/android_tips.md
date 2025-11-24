@@ -1,5 +1,5 @@
 ---
-title: "Android Tips / Android 實用資訊"
+title: "Android 實用資訊"
 date: "2020-07-07"
 ---
 

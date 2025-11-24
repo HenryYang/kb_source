@@ -1,5 +1,5 @@
 ---
-title: "macOS CLI / macOS 指令"
+title: "macOS CLI 指令"
 date: "2025-03-25"
 ---
 
