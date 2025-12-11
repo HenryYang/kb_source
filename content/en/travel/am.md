@@ -5,7 +5,7 @@ date: "2025-03-25"
 
 ##### 國泰航空
 
-* 開放網路報到時間: 48hr 
+* 開放網路報到時間:出發前 48hr 
 
 * 國泰香港客服電話 [+85227473333](tel:+85227473333)
 
@@ -39,6 +39,9 @@ date: "2025-03-25"
 
 * 國泰合作的訂房平台（能額外賺亞萬）
     * https://tw.holidaydeals.cathaypacific.com/
+
+* 補登 會籍積分及／亞洲萬里通
+    * https://www.cathaypacific.com/cx/zh_HK/membership/my-account/miles-and-points/manage-miles/claim-missing-miles/flight-booking.html
 
 </br>
 
