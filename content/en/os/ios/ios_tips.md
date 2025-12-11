@@ -5,6 +5,8 @@ date: "2025-10-01"
 
 ### 關於 ipa 部分
 
+</br>
+
 ##### 舊版 iTunes 12.6.5 下載（還可以載 .ipa 的版本）
 * https://support.apple.com/en-us/HT208079
 
@@ -17,6 +19,8 @@ date: "2025-10-01"
 </br>
 
 ### 關於驗機、設備資訊
+
+</br>
 
 ##### 中國知呼的 iPhone 驗機與注意事項
 * https://www.zhihu.com/question/279981966/answer/1487316109
@@ -56,6 +60,8 @@ date: "2025-10-01"
 
 ### 工具類
 
+</br>
+
 
 ##### 電腦批次下載 iCloud Photo 工具
 * https://github.com/icloud-photos-downloader/icloud_photos_downloader
@@ -71,6 +77,7 @@ date: "2025-10-01"
 
 ### 實用指令
 
+</br>
 
 ##### 快速切換 App Store 顯示國家
 * [美國](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143441&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=us)
@@ -79,6 +86,13 @@ date: "2025-10-01"
 
 [參考資料](http://switchr.imagility.io)、[參考資料](https://as.dogged.cn/)
 
+
+##### 查詢 iPhone 手機訊號
+```shell
+# 先關閉 WiFi 後打開電話撥打下面號碼。
+＊3001＃12345＃＊
+```
+[參考資料](https://mrmad.com.tw/iphone-ftm-dashboard)
 
 
 ##### 停用 Finder 提示通知的 iOS Update
@@ -94,6 +108,7 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 
 ### 冷知識
 
+</br>
 
 ##### Apple ID 註冊國家注意事項
 
