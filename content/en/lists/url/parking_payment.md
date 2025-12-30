@@ -23,6 +23,7 @@ date: "2025-11-18"
 * [南港國小停車場](https://npcs.youparking.com.tw/parkingcharge/?siteserial=B0445011)
 * [臺灣科技大學研揚大樓](https://api.rtd.com.tw/scan_to_pay/entrance/PSS_YA21103)
 * [宏匯廣場](https://pay.pss-group.com/#/?site_id=PSS_IC0723)
+* [松山機場第三停車場](https://transactionservice.altob.com.tw/PaymentServiceWeb/ServiceMenu?siteId=50037)
 
 
  ##### 充電車位
