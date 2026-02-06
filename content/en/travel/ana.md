@@ -41,13 +41,16 @@ date: "2023-07-29"
     * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
 
 * 網友整理的 ANA 哩程票冷知識
-    * https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips/
+    * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
 
 * ANA 集團理賠申請網頁
     * https://comp-s.ana.co.jp
 
 * ANA 自費升級經濟艙餐點
     * https://www.ana.co.jp/zh/tw/travel-information/meals/#anchor-paid-exclusive-dining
+
+* ANA 聊天機器人查詢候補人數
+    * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
     
 
 </br>
