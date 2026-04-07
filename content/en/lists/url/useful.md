@@ -10,6 +10,7 @@ date: "2022-10-07"
 * LINE POINTS 點數網頁版兌換 - https://points.line.me/pointcode?pincode=序號  
 * 查詢 ICCID 所屬電信 - http://phone.fyicenter.com/1155_ICCID_SIM_Card_Number_Checker_Decoder.html  
 * 大人學值得重讀兩次以上的書單 - https://reurl.cc/kr91Nx  
+* 圖書館電子書 查詢平台 - https://taiwanlibrarysearch.herokuapp.com/  
 * 網頁版抽獎程式 (可以顯示全部人名單) - https://apan1121.github.io/luckydraw/  
 * 推估 App 營收數量 - https://app.sensortower.com  
 * 離線去除 EXIF 與模糊化照片 - https://everestpipkin.github.io/image-scrubber/  
