@@ -1,6 +1,6 @@
 ---
-title: "其他哩程計畫 - 實用資訊"
-date: "2025-03-25"
+title: "JX/BR/CI/SQ/Other 哩程計畫 - 實用資訊"
+date: "2026-04-13"
 ---
 
 ##### 星宇航空
@@ -9,9 +9,6 @@ date: "2025-03-25"
 
 * 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
     * https://storefront.points.com/mileage-plan/en-US/buy
-
-* 阿拉斯加舊版獎勵機票以月曆方式查詢位置
-    * https://www.alaskaair.com/planbook/shoppingstart
 
 * 網路上換 JX 哩程票知識
     * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
@@ -25,8 +22,6 @@ date: "2025-03-25"
 </br>
 
 * 獎勵機票(使用阿拉斯加航空點數)
-    * A321neo 機型執飛 -> 通常會釋出 1 經濟艙、1 商務艙
-    * A350-900、A330-900neo 機型執飛 -> 通常會釋出 2 經濟艙、1 豪經艙、1 商務艙
     * 最遠只能兌330天後的機位
     * 臺灣 <-> 日本（北海道除外）（單程）
         * 經濟艙: 7500 miles 起
@@ -47,13 +42,52 @@ date: "2025-03-25"
 </br>
 
 * 星宇頭等艙
-    * 每位頭等艙旅客，可以攜帶一名非頭等艙的同班機成人旅客一同使用環宇通關與貴賓室服務
+    * 每位頭等艙旅客，可以攜帶一名非頭等艙的同班機成人旅客一同使用環宇通關或貴賓室服務
         * 如果是未滿 12 歲的小孩，則無人數限制
+        * 在台灣轉機的旅客，僅有抵台可以使用環宇通關，離境時僅能使用頭等貴賓室
     * 如果兩名頭等艙都搭乘同一台機場接送，另外一個額度是可以給被攜帶的一名非頭等艙的同班機成人旅客使用
     * 如果不使用環宇，改使用星宇自營頭等貴賓室，則是可以攜帶兩人
         * 這福利與 insighter 的攜伴人數『不可』合併使用
 
  
+</br>
+
+
+##### 中華航空
+
+* 使用 維珍航空 點數開票
+    * 到 捷克航空 的[行程管理](https://www.csa.cz/kr-en/my-bookings/) 輸入六位數訂位編號
+        * 再輸入 eTicket Number 跟 姓氏，就可以成功登入
+            * 可以獲得天合聯盟通用的訂位編號
+            * 可以在 捷克航空 選位
+            * 可以在登機前 36 小時在 捷克航空 做 Online check-in
+* 轉點時間
+    * 台灣匯豐旅人 -> 最快下一個工作天
+
+</br>
+
+
+##### 長榮航空
+
+* 開放網路報到時間:出發前 48hr 
+
+* 改票：純改時間免費，改路線 50 USD
+
+* 退票：50 USD
+
+* 搭長榮的實用資訊
+    * https://blog.jesselin.com/archives/68429/eva_air_travel_essential_guide/
+* 兌換長榮自家獎勵機票
+    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/online-reservation/award-ticket/select-itinerary.aspx
+* 兌換星空聯盟獎勵機票
+    * https://booking.evaair.com/flyeva/EVA/B2C/plan-your-journey/online-reservation/staralliance-award-ticket/select-itinerary.aspx
+* 長榮自家以週查詢獎勵機票/升等位置
+    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/award-upgrade-availability/login.aspx  
+* 轉點時間
+    * 台灣匯豐旅人 -> 最快當下入帳
+    * OpenPoint -> 幾乎都是隔月 8 號入帳
+    * 國泰 Cube -> 幾乎都是週四入帳
+
 </br>
 
 ##### 新加坡航空
@@ -84,56 +118,11 @@ date: "2025-03-25"
 
 </br>
 
-
     * 倫敦 <-> 新加坡 （單程）
         * 經濟艙: 4.2 萬 or 7 萬 miles
         * 豪經艙: 7.1 萬 miles
         * 商務艙: 10.35 萬 or 12.3 萬 miles  
         * 頭等艙: 14.1 萬 or 22.55 萬 miles 
-
-
-</br>
-
-##### 中華航空
-
-* 使用 維珍航空 點數開票
-    * 到 捷克航空 的[行程管理](https://www.csa.cz/kr-en/my-bookings/) 輸入六位數訂位編號
-        * 再輸入 eTicket Number 跟 姓氏，就可以成功登入
-            * 可以獲得天合聯盟通用的訂位編號
-            * 可以在 捷克航空 選位
-            * 可以在登機前 36 小時在 捷克航空 做 Online check-in
-* 轉點時間
-    * 台灣匯豐旅人 -> 最快下一個工作天
-
-
-##### 長榮航空
-
-* 開放網路報到時間:出發前 48hr 
-
-* 改票：純改時間免費，改路線 50 USD
-
-* 退票：50 USD
-
-* 搭長榮的實用資訊
-    * https://blog.jesselin.com/archives/68429/eva_air_travel_essential_guide/
-* 兌換長榮自家獎勵機票
-    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/online-reservation/award-ticket/select-itinerary.aspx
-* 兌換星空聯盟獎勵機票
-    * https://booking.evaair.com/flyeva/EVA/B2C/plan-your-journey/online-reservation/staralliance-award-ticket/select-itinerary.aspx
-* 長榮自家以週查詢獎勵機票/升等位置
-    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/award-upgrade-availability/login.aspx  
-* 導購賺點 EVA Mileage Mall
-    * https://mall.brmile.com/zh  
-* 轉點時間
-    * 台灣匯豐旅人 -> 最快當下入帳
-    * OpenPoint -> 幾乎都是隔月 8 號入帳
-    * 國泰 Cube -> 幾乎都是週四入帳
-
-
-##### 其他航空
-
-* 各航空退票/改票手續費
-    * https://blog.tripplus.cc/zh/119485/randy_newbie_award_tickets_change_cancellation_fee_guide_new
 
 
 </br>
@@ -191,3 +180,6 @@ date: "2025-03-25"
 
 * 主流航空全家統資訊
     * https://www.uscreditcardguide.com/how-to-combine-or-transfer-airline-miles-between-family-members-part-3
+
+* 各航空退票/改票手續費
+    * https://blog.tripplus.cc/zh/119485/randy_newbie_award_tickets_change_cancellation_fee_guide_new
