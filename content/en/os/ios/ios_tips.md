@@ -1,6 +1,6 @@
 ---
 title: "iOS 冷知識與實用網站"
-date: "2025-10-01"
+date: "2026-04-13"
 ---
 
 ### 關於 ipa 部分
@@ -22,6 +22,12 @@ date: "2025-10-01"
 
 </br>
 
+##### 中國查手機 GSX (微信登入)
+* https://www.ybcheck.com  
+
+##### 英國查手機 IMEI
+* https://ifreeicloud.co.uk  
+
 ##### 中國知呼的 iPhone 驗機與注意事項
 * https://www.zhihu.com/question/279981966/answer/1487316109
 
@@ -34,7 +40,7 @@ date: "2025-10-01"
 ##### 詳細 Apple 產品規格參數
 * https://hubweb.cn
 
-##### iOS 設備上直接查詢 UDiD 資訊 (需安裝網站方的描述檔)
+##### iOS 設備上直接查詢 UDID 資訊 (需安裝網站方的描述檔)
 * https://showmyudid.com/
 
 ##### 查詢設備啟用相關資訊 
