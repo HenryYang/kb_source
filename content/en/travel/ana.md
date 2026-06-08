@@ -1,6 +1,6 @@
 ---
 title: "NH 哩程計畫 - 實用資訊"
-date: "2023-07-29"
+date: "2026-06-08"
 ---
 
 ##### 全日空
@@ -51,6 +51,9 @@ date: "2023-07-29"
 
 * ANA 聊天機器人查詢候補人數
     * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
+
+* ANA 受天氣影響符合特殊退票機場
+    * https://www.ana.co.jp/asw/ncf_info?lang=en     
     
 
 </br>

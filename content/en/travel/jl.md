@@ -1,6 +1,6 @@
 ---
 title: "JL 哩程計畫 - 實用資訊"
-date: "2025-03-25"
+date: "2025-06-08"
 ---
 
 ##### 日本航空
@@ -54,8 +54,12 @@ date: "2025-03-25"
 
 * 商務艙申請免費 WiFi 的網址  
     * https://cloud.email.jal.com/free_wi-fi?lang=en  
+
 * JAL 線上升等經濟艙餐食  
     * https://www.jal.co.jp/tw/zhtw/offers/service/optional/paidmeal/
+
+* JAL 航空券の特別な取り扱い対象空港について  
+    * https://www.jal.co.jp/cms/other/ja/info.html  
 
 
 </br>
