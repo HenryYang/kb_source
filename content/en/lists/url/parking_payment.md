@@ -26,8 +26,10 @@ date: "2025-11-18"
 * [松山機場第三停車場](https://transactionservice.altob.com.tw/PaymentServiceWeb/ServiceMenu?siteId=50037)  
 * [八德立體停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=pAx6jV1Q%2Fl0qOFhUt3HpGg)  
 * [桃園機場 P1 停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=qLAgeDVp1Ul7ZykYl%2FrVPw)  
-* [信義廣場地下停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=E7htp6XZG9QZoxAMpVOa2A)    
-* [城市車旅永康二站](https://api.rtd.com.tw/scan_to_pay/entrance/lcEDZsR7aUrgzVid)   
+* [嘟嘟房 信義廣場地下停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=E7htp6XZG9QZoxAMpVOa2A)    
+* [城市車旅 永康二站](https://api.rtd.com.tw/scan_to_pay/entrance/lcEDZsR7aUrgzVid)   
+* [城市車旅 台北轉運站](https://pay.pss-group.com/#/?site_id=PSS_YA357)   
+
 
  ##### 充電車位
 
