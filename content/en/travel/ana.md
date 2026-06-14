@@ -46,6 +46,9 @@ date: "2026-06-08"
 * 網友整理的 ANA 哩程票冷知識
     * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
 
+* ANA 批次查詢哩程票候補狀態
+    * https://cam.ana.co.jp/psz/tokutencal/form_e.jsp  
+
 * ANA 集團理賠申請網頁
     * https://comp-s.ana.co.jp
 
