@@ -36,6 +36,10 @@ date: "2025-06-08"
 
 * 手動申請實體會員卡
     * https://www.jal.co.jp/jp/en/jalmile/flyon/application-flow/
+
+* 帶額外同行者進入貴賓室，一律現場扣哩程，不要事先官網兌換
+    * SAKURA LOUNGE 直接去貴賓室請櫃台人員扣哩程入場。非自營則是在「報到櫃台」詢問，通常是報到時扣哩程並提供對應數量的入場券。
+    * https://www.jal.co.jp/jp/en/jalmile/flyon/lounge_coupon.html#tabs
     
 * 二等親關係圖
     * https://www.jal.co.jp/en/jalmile/use/ticket.html
