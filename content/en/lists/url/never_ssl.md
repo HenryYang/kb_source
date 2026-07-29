@@ -14,8 +14,8 @@ Apple 在用的 - http://captive.apple.com/
 ##### 各航空公司機上 WiFi 的 Captive Portal
 
 長榮航空 - http://www.evawifi.com  
-日本航空 - http://www.jal-wifi.com  &   https://inflight.pacwisp.net/JapanAirlines/
-星宇航空 - http://capture.onboard.onair.aero  
+日本航空 - http://www.jal-wifi.com & https://inflight.pacwisp.net/JapanAirlines/  
+星宇航空 - http://capture.onboard.onair.aero & https://starlux.viasat.com  
 國泰航空 - http://connect.cathaypacific.com  
 全日空 - https://www.ana-inflight-wifi.com  
 
