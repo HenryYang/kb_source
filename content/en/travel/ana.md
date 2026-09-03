@@ -5,7 +5,7 @@ date: "2026-06-08"
 
 ##### 全日空
 
-* * 開放網路報到時間:出發前 24hr 
+* 開放網路報到時間:出發前 24hr 
 
 * 國內線預辦登機手續
     * https://www.ana.co.jp/en/jp/guide/boarding-procedures/checkin/domestic/online-checkin/  
@@ -60,6 +60,9 @@ date: "2026-06-08"
 
 * ANA 受天氣影響符合特殊退票機場
     * https://www.ana.co.jp/asw/ncf_info?lang=en     
+
+* 每日 17:00-19:00 國內線貴賓室會有咖喱飯
+
     
 
 </br>
