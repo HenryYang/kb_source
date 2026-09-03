@@ -67,6 +67,20 @@
     padding-top: 48px; /* Space for fixed navbar */
 }
 
+.post-content {
+    li {
+	margin-bottom: 1.5rem;
+    }
+
+    li:last-child {
+	margin-bottom: 0;
+    }
+
+    li > p {
+	margin-bottom: .25rem;
+    }
+}
+
 /*
  * Navbar
  */
