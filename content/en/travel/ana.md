@@ -24,12 +24,17 @@ date: "2026-06-08"
     * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
 
 * 換票時間點
-    * 最近可以開到的票：
-        * 網路開票：當下距離航班起飛超過 96 小時的航班
-        * 開票後
-            * 純 ANA 自家航班最近可以『改票』到出發前 24 小時
-            * 星空聯盟伙伴機票則『改票』也是 96 小時
-    * 最遠可以訂到的票：第 355 天
+
+    <table class="table table-sm table-bordered table-striped">
+    <thead class="thead-dark"><tr><th>項目</th><th>時間</th></tr></thead>
+    <tbody>
+    <tr><td>網路開票</td><td>距離航班起飛超過 96 小時</td></tr>
+    <tr><td>改票(純 ANA 自家航班)</td><td>出發前 24 小時</td></tr>
+    <tr><td>改票(星空聯盟伙伴機票)</td><td>出發前 96 小時</td></tr>
+    <tr><td>最遠可訂到的票</td><td>第 355 天</td></tr>
+    </tbody>
+    </table>
+
     * 即使「外站出發」，還是用出發地的日曆日計算天數 (意思就是以航班起飛之「當地日期」來釋出放票)
     * 日本時間 09:00 AM 放當天日本出發「整天全部」的航班，意思就是台灣時間 08:00 AM 準時放票
     * 雖然長榮放票是 360 天，且日本時間 355 天的 00:00 AM 就可以看到長榮票，但走到稅金那一步還是會出錯。一樣要等日本時間 09:00 AM 才能換
