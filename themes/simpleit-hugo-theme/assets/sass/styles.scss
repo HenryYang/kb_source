@@ -68,11 +68,11 @@
 }
 
 .toc-card {
-    max-width: 600px;
+    max-width: 650px;
 }
 
 .post-content {
-    max-width: 600px;
+    max-width: 650px;
 
     h1, h2, h3, h4, h5, h6 {
 	scroll-margin-top: 64px;
@@ -86,12 +86,29 @@
 	margin-bottom: 0;
     }
 
+    li li {
+	margin-bottom: .5rem;
+    }
+
     li > p {
 	margin-bottom: .25rem;
     }
 
     .table-striped tbody tr:nth-of-type(odd) {
 	background-color: rgba(0, 0, 0, .12);
+    }
+
+    .table-compact-text {
+	font-size: .8rem;
+
+	th, td {
+	    text-align: center;
+	}
+    }
+
+    table {
+	table-layout: fixed;
+	word-wrap: break-word;
     }
 }
 

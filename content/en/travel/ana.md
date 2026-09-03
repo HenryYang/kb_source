@@ -7,6 +7,8 @@ date: "2026-06-08"
 
 * 開放網路報到時間:出發前 24hr 
 
+* 每日 17:00-19:00 國內線貴賓室會有咖喱飯
+
 * 國內線預辦登機手續
     * https://www.ana.co.jp/en/jp/guide/boarding-procedures/checkin/domestic/online-checkin/  
 
@@ -16,12 +18,11 @@ date: "2026-06-08"
 * 查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
     * https://ana-maas.val.jp/search  
 
-* 每日 17:00-19:00 國內線貴賓室會有咖喱飯
-
 ## 哩程兌換與候補查詢
 
-* 國際線獎勵機票季節、所需哩程表
-    * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
+* 如果換非星盟夥伴航空，那來回都要是同一家，不能混星盟或是 ANA
+
+* 兌換獎勵機票時，AFA 帳號的總點數要 >= 機票兌換所需點數 Confirmation 才會顯示所有AFA的點數。
 
 * 換票時間點
 
@@ -42,14 +43,24 @@ date: "2026-06-08"
 * ANA 如果換國內線獎勵機票，最近期可以換到的是隔天
     * 如果要換當天的 ANA 國內線獎勵機票，可以考慮用 UA 點數計畫，單程 5500 miles + 5USD 起，重點可以換當天的。
 
-* 如果換非星盟夥伴航空，那來回都要是同一家，不能混星盟或是 ANA
-
-* 兌換獎勵機票時，AFA 帳號的總點數要 >= 機票兌換所需點數 Confirmation 才會顯示所有AFA的點數。
-
 * 哩程升等
     * 候補自家 ANA 航班，當下不會扣點，有候補到才會扣點
     * 候補星空聯盟航班，候補當下就扣點
         * 需要等出發後的 10 天內才會退點 
+
+* 里程票子艙等：
+    <span class="badge badge-secondary">經濟艙 X</span>
+    <span class="badge badge-secondary">商務艙 I</span>
+    <span class="badge badge-secondary">頭等艙 O</span>
+
+* 可以從電子機票中的 fare basis 看出開票時的艙等
+    * 範例 YBP00ST、CBP00ST、OLBP00NH、OKBP00NH
+    * 像是第一碼的 Y C O 分別代表經濟、商務、頭等
+    * 像是末兩碼的 ST NH 表示星空聯盟或 ANA 自家票
+        * 其中 ANA 票中的第二碼 L K 表示淡季或標準的換票季節  
+
+* 國際線獎勵機票季節、所需哩程表
+    * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
 
 * ANA 國內線，線上候補教學
     * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
@@ -59,17 +70,6 @@ date: "2026-06-08"
 
 * ANA 聊天機器人查詢候補人數
     * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
-
-* 里程票子艙等
-    * 經濟艙 X
-    * 商務艙 I
-    * 頭等艙 O
-
-* 可以從電子機票中的 fare basis 看出開票時的艙等
-    * 範例 YBP00ST、CBP00ST、OLBP00NH、OKBP00NH
-    * 像是第一碼的 Y C O 分別代表經濟、商務、頭等
-    * 像是末兩碼的 ST NH 表示星空聯盟或 ANA 自家票
-        * 其中 ANA 票中的第二碼 L K 表示淡季或標準的換票季節  
 
 * 網友整理的 ANA 哩程票冷知識
     * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
@@ -85,12 +85,12 @@ date: "2026-06-08"
 
 ## 費用與退改規定
 
-* 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
-    * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
-
 * 退改規定
     * 改票：免費，但必須在航班起飛前 96 小時修改
     * 退票：扣 3000 miles，且必須在航班起飛前取消
+
+* 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
+    * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
 
 * ANA 受天氣影響符合特殊退票機場
     * https://www.ana.co.jp/asw/ncf_info?lang=en     
@@ -100,31 +100,19 @@ date: "2026-06-08"
 
 ## 行李規定
 
+<table class="table table-sm table-bordered table-striped table-compact-text">
+<thead class="thead-dark"><tr><th>行李類型</th><th>三邊尺寸總和 CM</th><th>單邊尺寸上限 CM</th><th>重量上限</th><th>備註</th></tr></thead>
+<tbody>
+<tr><td>國際線隨身行李</td><td>≤115</td><td>寬 55×高 40×長 25</td><td>≤10 公斤（22 磅）</td><td>—</td></tr>
+<tr><td>國際線托運行李</td><td>≤158</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>國內線隨身行李 （超過 100 個座位的）</td><td>≤115</td><td>寬 55×高 40×長 25</td><td>≤10 公斤（22 磅）</td><td>—</td></tr>
+<tr><td>國內線隨身行李 （少於 100 個座位的）</td><td>≤100</td><td>寬 45×高 35×長 20</td><td>≤10 公斤（22 磅）</td><td>—</td></tr>
+<tr><td>國內線托運行李</td><td>≤203</td><td>—</td><td>—</td><td>經濟艙 20Kg／頭等艙 40Kg，無件數限制</td></tr>
+</tbody>
+</table>
+
 * 超額行李可以使用點數付款 (限 ANA 出票的正航班)
     * https://www.ana.co.jp/en/jp/guide/amc/overweight_baggage/
-
-* 國際線隨身行李
-    * 三邊尺寸總和（長+寬+高）不超過 115 CM
-    * 單邊尺寸上限: 寬 55、高 40、長 25 CM
-    * 重量上限: 不超過 10 公斤（22 磅）
-
-* 國際線托運行李
-    * 三邊尺寸總和（長+寬+高）不超過 158 CM
-
-* 國內線隨身行李 （超過 100 個座位的）
-    * 三邊尺寸總和（長+寬+高）不超過 115 CM
-    * 單邊尺寸上限: 寬 55、高 40、長 25 CM
-    * 重量上限: 不超過 10 公斤（22 磅）
-
-* 國內線隨身行李 （少於 100 個座位的）
-    * 三邊尺寸總和（長+寬+高）不超過 100 CM
-    * 單邊尺寸上限: 寬 45、高 35、長 20 CM
-    * 重量上限: 不超過 10 公斤（22 磅）
-
-* 國內線托運行李
-    * 三邊尺寸總和（長+寬+高）不超過 203 CM
-    * 經濟艙限重 20Kg，豪華艙限重 40Kg
-    * 無件數限制
 
 ## 會員權益與合作服務
 
