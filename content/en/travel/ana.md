@@ -3,7 +3,7 @@ title: "NH 哩程計畫 - 實用資訊"
 date: "2026-06-08"
 ---
 
-##### 全日空
+## 報到與登機
 
 * 開放網路報到時間:出發前 24hr 
 
@@ -13,77 +13,15 @@ date: "2026-06-08"
 * 羽田機場第二航廈，管制區內商店與餐廳
     * https://blog.jesselin.com/archives/70849/haneda-airport-terminal-2-international-line-control-area-store-options/
 
-* 國際線獎勵機票季節、所需哩程表
-    * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
-
-* 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
-    * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
-
 * 查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
     * https://ana-maas.val.jp/search  
 
-* 超額行李可以使用點數付款 (限 ANA 出票的正航班)
-    * https://www.ana.co.jp/en/jp/guide/amc/overweight_baggage/
-
-* 手動申請實體會員卡
-    * https://www.ana.co.jp/ja/jp/mycampaign/status_card/
-
-* 長榮航空的行程管理頁面
-    * https://booking.evaair.com/flyeva/eva/b2c/manage-your-trip/log_in.aspx
-
-* ANA 日本股東優惠券權益
-    * https://www.ana.co.jp/group/investors/personal/shareholder_return/
-
-* ANA COUCHii (ANA Couch) 只有 A380 有這服務
-    * https://www.ana.co.jp/zh/tw/travel-information/cabin/couchii/
-
-* IHG ANA Hotels Group Japan 飯店一覽
-    * https://www.ana.co.jp/zh/tw/amc/more-ways-to-use-miles/digital/ihg-ana-hotels-group-japan/ihg_pop/
-
-* ANA 國內線，線上候補教學
-    * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
-
-* 網友整理的 ANA 哩程票冷知識
-    * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
-
-* ANA 批次查詢哩程票候補狀態
-    * https://cam.ana.co.jp/psz/tokutencal/form_e.jsp  
-
-* ANA 集團理賠申請網頁
-    * https://comp-s.ana.co.jp
-
-* ANA 自費升級經濟艙餐點
-    * https://www.ana.co.jp/zh/tw/travel-information/meals/#anchor-paid-exclusive-dining
-
-* ANA 聊天機器人查詢候補人數
-    * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
-
-* ANA 受天氣影響符合特殊退票機場
-    * https://www.ana.co.jp/asw/ncf_info?lang=en     
-
 * 每日 17:00-19:00 國內線貴賓室會有咖喱飯
 
-    
+## 哩程兌換與候補查詢
 
----
-
-* 退改規定
-    * 改票：免費，但必須在航班起飛前 96 小時修改
-    * 退票：扣 3000 miles，且必須在航班起飛前取消
-
-
-* 里程票子艙等
-    * 經濟艙 X
-    * 商務艙 I
-    * 頭等艙 O
-
-* 可以從電子機票中的 fare basis 看出開票時的艙等
-    * 範例 YBP00ST、CBP00ST、OLBP00NH、OKBP00NH
-    * 像是第一碼的 Y C O 分別代表經濟、商務、頭等
-    * 像是末兩碼的 ST NH 表示星空聯盟或 ANA 自家票
-        * 其中 ANA 票中的第二碼 L K 表示淡季或標準的換票季節  
-
----
+* 國際線獎勵機票季節、所需哩程表
+    * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
 
 * 換票時間點
     * 最近可以開到的票：
@@ -108,6 +46,30 @@ date: "2026-06-08"
     * 候補星空聯盟航班，候補當下就扣點
         * 需要等出發後的 10 天內才會退點 
 
+* ANA 國內線，線上候補教學
+    * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
+
+* ANA 批次查詢哩程票候補狀態
+    * https://cam.ana.co.jp/psz/tokutencal/form_e.jsp  
+
+* ANA 聊天機器人查詢候補人數
+    * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
+
+* 里程票子艙等
+    * 經濟艙 X
+    * 商務艙 I
+    * 頭等艙 O
+
+* 可以從電子機票中的 fare basis 看出開票時的艙等
+    * 範例 YBP00ST、CBP00ST、OLBP00NH、OKBP00NH
+    * 像是第一碼的 Y C O 分別代表經濟、商務、頭等
+    * 像是末兩碼的 ST NH 表示星空聯盟或 ANA 自家票
+        * 其中 ANA 票中的第二碼 L K 表示淡季或標準的換票季節  
+
+* 網友整理的 ANA 哩程票冷知識
+    * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
+
+## 點數轉入
 
 * 轉點時間經驗談（非第一次轉點）
     * 華南銀行 -> 每月 2、17 日銀行把資料提交給 ANA，約五天入帳
@@ -116,7 +78,25 @@ date: "2026-06-08"
     * 日本 樂天 -> 3 天
     * 日本 マツモトキヨシ -> 30 天
 
----
+## 費用與退改規定
+
+* 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
+    * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
+
+* 退改規定
+    * 改票：免費，但必須在航班起飛前 96 小時修改
+    * 退票：扣 3000 miles，且必須在航班起飛前取消
+
+* ANA 受天氣影響符合特殊退票機場
+    * https://www.ana.co.jp/asw/ncf_info?lang=en     
+
+* ANA 集團理賠申請網頁
+    * https://comp-s.ana.co.jp
+
+## 行李規定
+
+* 超額行李可以使用點數付款 (限 ANA 出票的正航班)
+    * https://www.ana.co.jp/en/jp/guide/amc/overweight_baggage/
 
 * 國際線隨身行李
     * 三邊尺寸總和（長+寬+高）不超過 115 CM
@@ -141,11 +121,29 @@ date: "2026-06-08"
     * 經濟艙限重 20Kg，豪華艙限重 40Kg
     * 無件數限制
 
----
+## 會員權益與合作服務
+
+* 手動申請實體會員卡
+    * https://www.ana.co.jp/ja/jp/mycampaign/status_card/
+
+* 長榮航空的行程管理頁面
+    * https://booking.evaair.com/flyeva/eva/b2c/manage-your-trip/log_in.aspx
+
+* ANA 日本股東優惠券權益
+    * https://www.ana.co.jp/group/investors/personal/shareholder_return/
+
+* ANA COUCHii (ANA Couch) 只有 A380 有這服務
+    * https://www.ana.co.jp/zh/tw/travel-information/cabin/couchii/
+
+* IHG ANA Hotels Group Japan 飯店一覽
+    * https://www.ana.co.jp/zh/tw/amc/more-ways-to-use-miles/digital/ihg-ana-hotels-group-japan/ihg_pop/
+
+* ANA 自費升級經濟艙餐點
+    * https://www.ana.co.jp/zh/tw/travel-information/meals/#anchor-paid-exclusive-dining
+
+## 航點資訊
 
 * ANA 與 JAL 國內線航點
     * 參考資料 https://x.com/okamiler_pn/status/1909450440397537643
 
 <img src="https://pbs.twimg.com/media/Gn-6ocobwAIYurX?format=jpg&name=large" style="zoom:60%" />
-
----

@@ -9,6 +9,15 @@
             
 	    {{ partial "post_header.html" . }}
 
+	    {{ if .TableOfContents }}
+	    <div class="card toc-card mb-4">
+		<div class="card-body">
+		    <h2 class="h5 card-title"><i class="fas fa-list"></i> 快速導覽</h2>
+		    {{ .TableOfContents }}
+		</div>
+	    </div>
+	    {{ end }}
+
 	    {{ partial "single/precontent.html" . }}
 	    <div class="post-content">{{.Content}}</div>
 	    {{ partial "single/postcontent.html" . }}
