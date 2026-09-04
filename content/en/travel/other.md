@@ -1,57 +1,7 @@
 ---
-title: "JX/BR/CI/SQ/Other 哩程計畫 - 實用資訊"
+title: "CI/Other 哩程計畫 - 實用資訊"
 date: "2026-04-13"
 ---
-
-##### 星宇航空
-
-* 開放網路報到時間:出發前 48hr 
-
-* 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
-    * https://storefront.points.com/mileage-plan/en-US/buy
-
-* 網路上換 JX 哩程票知識
-    * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
-
-* 對於單姓、單名，統一輸入在姓，名輸入 FNU
-    * https://meiyacommonfile.oss-cn-shenzhen.aliyuncs.com/policy/contenta6320a1724227608202.pdf
-
-* 班機動態查詢
-    * https://www.starlux-airlines.com/zh-TW/flight-status  
-
-</br>
-
-* 獎勵機票(使用阿拉斯加航空點數)
-    * 最遠只能兌330天後的機位
-    * 臺灣 <-> 日本（北海道除外）（單程）
-        * 經濟艙: 7500 miles 起
-        * 豪經艙: 1 萬 miles 起
-        * 商務艙: 1.5 萬 miles 起 
-
-</br>
-
-* 使用AS里程開星宇機票，是可以更改航班或取消的。取消行程只有夥伴訂票費(Partner Award Booking Fee) 12.5 USD不會退回
-    * 如果只是要把星宇改成搭日航，那直接更改旅程(change trip)，所需哩程相同的話可以直接更改，不足的話就補哩程即可，不會再被額外收取稅金與服務費。
-
-</br>
-
-* 獎勵機票(使用星宇自家點數)
-    * 機票開立後即使已經搭成第一段也可以免費更改後面的時間和航點（只需補稅金差價）
-    * 星宇的獎勵機票，開票後，不論第一段是否已經使用，都可以改日期、改航點。僅需付稅金差額
-
-</br>
-
-* 星宇頭等艙
-    * 每位頭等艙旅客，可以攜帶一名非頭等艙的同班機成人旅客一同使用環宇通關或貴賓室服務
-        * 如果是未滿 12 歲的小孩，則無人數限制
-        * 在台灣轉機的旅客，僅有抵台可以使用環宇通關，離境時僅能使用頭等貴賓室
-    * 如果兩名頭等艙都搭乘同一台機場接送，另外一個額度是可以給被攜帶的一名非頭等艙的同班機成人旅客使用
-    * 如果不使用環宇，改使用星宇自營頭等貴賓室，則是可以攜帶兩人
-        * 這福利與 insighter 的攜伴人數『不可』合併使用
-
- 
-</br>
-
 
 ##### 中華航空
 
@@ -67,67 +17,7 @@ date: "2026-04-13"
 </br>
 
 
-##### 長榮航空
-
-* 開放網路報到時間:出發前 48hr 
-
-* 改票：純改時間免費，改路線 50 USD
-
-* 退票：50 USD
-
-* 搭長榮的實用資訊
-    * https://blog.jesselin.com/archives/68429/eva_air_travel_essential_guide/
-* 兌換長榮自家獎勵機票
-    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/online-reservation/award-ticket/select-itinerary.aspx
-* 兌換星空聯盟獎勵機票
-    * https://booking.evaair.com/flyeva/EVA/B2C/plan-your-journey/online-reservation/staralliance-award-ticket/select-itinerary.aspx
-* 長榮自家以週查詢獎勵機票/升等位置
-    * https://booking.evaair.com/flyeva/eva/b2c/plan-your-journey/award-upgrade-availability/login.aspx  
-* 轉點時間
-    * 台灣匯豐旅人 -> 最快當下入帳
-    * OpenPoint -> 幾乎都是隔月 8 號入帳
-    * 國泰 Cube -> 幾乎都是週四入帳
-
-</br>
-
-##### 新加坡航空
-
-* 開放網路報到時間:出發前 48hr 
-
-* 改票：
-    * 改日期（自營航班）：Saver $25、Advantage 免費
-    * 改航線／艙位（自營航班）：皆為 $25
-    * 夥伴航空：皆為 $50
-
-* 退票：
-    * Saver：$75
-    * Advantage：$50
-
-* 獎勵機票
-    * 臺灣 <-> 新加坡 （單程）
-        * 經濟艙: 1.65 萬 or 3 萬 miles
-        * 商務艙: 3.4 萬 or 5 萬 miles
-
-</br>
-
-    * 東京 <-> 新加坡 （單程）(成田有機會 A380)
-        * 經濟艙: 2.7 萬 or 4.5 萬 miles
-        * 豪經艙: 3.5 萬 miles
-        * 商務艙: 5.2 萬 or 7 萬 miles  
-        * 頭等艙: 14.1 萬 or 22.55 萬 miles     
-
-</br>
-
-    * 倫敦 <-> 新加坡 （單程）
-        * 經濟艙: 4.2 萬 or 7 萬 miles
-        * 豪經艙: 7.1 萬 miles
-        * 商務艙: 10.35 萬 or 12.3 萬 miles  
-        * 頭等艙: 14.1 萬 or 22.55 萬 miles 
-
-
-</br>
-
-###### 加拿大航空（哩程票）
+##### 加拿大航空（哩程票）
 
 * 改票：必須在起飛前兩小時
     * Standard：每段 CAD $100（+稅費）
@@ -141,7 +31,7 @@ date: "2026-04-13"
 
 </br>
 
-###### 法航、荷航（哩程票）
+##### 法航、荷航（哩程票）
 
 * 改票、退票皆為每張機票 €50 
 
@@ -149,7 +39,7 @@ date: "2026-04-13"
 
 </br>
 
-###### 阿拉斯加航空（哩程票）
+##### 阿拉斯加航空（哩程票）
 
 * 改票：必須在航班起飛前修改
     * 自家 Saver 不可以改票
@@ -163,7 +53,7 @@ date: "2026-04-13"
 
 </br>
 
-###### 美國航空（哩程票）
+##### 美國航空（哩程票）
 
 * 不可改票，僅可免費退票 
 
