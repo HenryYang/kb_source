@@ -54,10 +54,10 @@ date: "2026-06-08"
     <span class="badge badge-secondary">頭等艙 O</span>
 
 * 可以從電子機票中的 fare basis 看出開票時的艙等
-    * 範例 YBP00ST、CBP00ST、OLBP00NH、OKBP00NH
-    * 像是第一碼的 Y C O 分別代表經濟、商務、頭等
-    * 像是末兩碼的 ST NH 表示星空聯盟或 ANA 自家票
-        * 其中 ANA 票中的第二碼 L K 表示淡季或標準的換票季節  
+    * 範例 <code>YBP00ST</code>、<code>CBP00ST</code>、<code>OLBP00NH</code>、<code>OKBP00NH</code>
+    * 像是第一碼的 <code>Y</code> <code>C</code> <code>O</code> 分別代表經濟、商務、頭等
+    * 像是末兩碼的 <code>ST</code> <code>NH</code> 表示星空聯盟或 ANA 自家票
+        * 其中 ANA 票中的第二碼 <code>L</code> <code>K</code> 表示淡季或標準的換票季節  
 
 * 國際線獎勵機票季節、所需哩程表
     * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
@@ -77,17 +77,30 @@ date: "2026-06-08"
 ## 點數轉入
 
 * 轉點時間經驗談（非第一次轉點）
-    * 華南銀行 -> 每月 2、17 日銀行把資料提交給 ANA，約五天入帳
-    * 中信 ANA 聯名卡 ->  2 天
-    * 美國 美國運通 MR -> 3 天
-    * 日本 樂天 -> 3 天
-    * 日本 マツモトキヨシ -> 30 天
+
+    <table class="table table-sm table-bordered table-striped">
+    <thead class="thead-dark"><tr><th>轉入來源</th><th>入帳時間</th></tr></thead>
+    <tbody>
+    <tr><td>華南銀行</td><td>每月 2、17 日銀行把資料提交給 ANA，約五天入帳</td></tr>
+    <tr><td>中信 ANA 聯名卡</td><td>2 天</td></tr>
+    <tr><td>美國 美國運通 MR</td><td>3 天</td></tr>
+    <tr><td>日本 樂天</td><td>3 天</td></tr>
+    <tr><td>日本 マツモトキヨシ</td><td>30 天</td></tr>
+    <tr><td>OpenPoints</td><td>通常為次月九號之後入帳</td></tr>
+    </tbody>
+    </table>
 
 ## 費用與退改規定
 
 * 退改規定
-    * 改票：免費，但必須在航班起飛前 96 小時修改
-    * 退票：扣 3000 miles，且必須在航班起飛前取消
+
+    <table class="table table-sm table-bordered table-striped">
+    <thead class="thead-dark"><tr><th>項目</th><th>說明</th></tr></thead>
+    <tbody>
+    <tr><td>改票</td><td>免費，但必須在航班起飛前 96 小時修改</td></tr>
+    <tr><td>退票</td><td>扣 3000 miles，且必須在航班起飛前取消</td></tr>
+    </tbody>
+    </table>
 
 * 全日空 YQ 燃油附加費 (Fuel Surcharge) 價目表
     * https://www.ana.co.jp/en/jp/book-plan/charge/fuelsurcharge/
