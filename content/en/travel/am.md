@@ -32,7 +32,7 @@ date: "2025-03-25"
     <table class="table table-sm table-bordered table-striped">
     <thead class="thead-dark"><tr><th>類型</th><th>適用情境</th><th>處理方式與費用</th></tr></thead>
     <tbody>
-    <tr><td>Re-Book</td><td>只改時間，航空公司、地點、艙等、獎勵類別都 "不變"</td><td>可網路處理，但跟電話處理相同金額，US$50 / 7,500 哩</td></tr>
+    <tr><td>Re-Book</td><td>只改時間，航空公司、地點、艙等、獎勵類別都 "不變"</td><td>可網路處理(限國泰航空執飛航段，見下方「線上更改亞萬開的國泰航空執飛航段」)，但跟電話處理相同金額，US$50 / 7,500 哩</td></tr>
     <tr><td>Re-Issue</td><td>當碰到改地點、改艙等、改獎勵類別時就只能選這種</td><td>只能電話處理，US$50 / 7,500 哩，</td></tr>
     <tr><td>Refund</td><td>當還碰到改航空公司時，就只能退票重開</td><td>只能電話處理，US$120 / 17,000 哩，</td></tr>
     </tbody>

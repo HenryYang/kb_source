@@ -106,7 +106,8 @@ date: "2026-06-08"
     <table class="table table-sm table-bordered table-striped">
     <thead class="thead-dark"><tr><th>項目</th><th>說明</th></tr></thead>
     <tbody>
-    <tr><td>改票</td><td>免費，但必須在航班起飛前 <strong>96 小時</strong>修改</td></tr>
+    <tr><td>改票(純 ANA 自家航班)</td><td>免費，但必須在航班起飛前 <strong>24 小時</strong>修改</td></tr>
+    <tr><td>改票(星空聯盟伙伴機票)</td><td>免費，但必須在航班起飛前 <strong>96 小時</strong>修改</td></tr>
     <tr><td>退票</td><td>扣 <strong>3000 miles</strong>，且必須在航班起飛前取消</td></tr>
     </tbody>
     </table>
@@ -129,7 +130,7 @@ date: "2026-06-08"
 <tr><td>國際線托運行李</td><td>≤158</td><td>—</td><td>—</td><td>—</td></tr>
 <tr><td>國內線隨身行李 （超過 100 個座位的）</td><td>≤115</td><td>寬 55×高 40×長 25</td><td>≤10 公斤（22 磅）</td><td>—</td></tr>
 <tr><td>國內線隨身行李 （少於 100 個座位的）</td><td>≤100</td><td>寬 45×高 35×長 20</td><td>≤10 公斤（22 磅）</td><td>—</td></tr>
-<tr><td>國內線托運行李</td><td>≤203</td><td>—</td><td>—</td><td>經濟艙 20Kg／頭等艙 40Kg，無件數限制</td></tr>
+<tr><td>國內線托運行李</td><td>≤203</td><td>—</td><td>經濟艙 20Kg／頭等艙 40Kg</td><td>無件數限制</td></tr>
 </tbody>
 </table>
 
