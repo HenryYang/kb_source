@@ -20,6 +20,8 @@ date: "2026-06-08"
 
 ## 哩程兌換與候補查詢
 
+### 換票規則與時間
+
 * <i class="fas fa-exclamation-triangle"></i>如果換非星盟夥伴航空，那來回都要是同一家，不能混星盟或是 ANA
 
 * 兌換獎勵機票時，AFA 帳號的總點數要 >= 機票兌換所需點數 Confirmation 才會顯示所有AFA的點數。
@@ -43,10 +45,23 @@ date: "2026-06-08"
 * ANA 如果換國內線獎勵機票，最近期可以換到的是隔天
     * 如果要換當天的 ANA 國內線獎勵機票，可以考慮用 UA 點數計畫，單程 <mark>5500 miles + 5USD</mark> 起，重點可以換當天的。
 
+### 候補與升等
+
 * 哩程升等
     * 候補自家 ANA 航班，當下不會扣點，有候補到才會扣點
     * <i class="fas fa-exclamation-triangle"></i>候補星空聯盟航班，候補當下就扣點
         * 需要等出發後的 <mark>10 天內</mark>才會退點 
+
+* ANA 國內線，線上候補教學
+    * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
+
+* ANA 批次查詢哩程票候補狀態
+    * https://cam.ana.co.jp/psz/tokutencal/form_e.jsp  
+
+* ANA 聊天機器人查詢候補人數
+    * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
+
+### 艙等與 fare basis
 
 * 里程票子艙等：
     <span class="badge badge-secondary">經濟艙 X</span>
@@ -59,20 +74,14 @@ date: "2026-06-08"
     * 像是末兩碼的 <code>ST</code> <code>NH</code> 表示星空聯盟或 ANA 自家票
         * 其中 ANA 票中的第二碼 <code>L</code> <code>K</code> 表示淡季或標準的換票季節  
 
+### 哩程表與參考資料
+
 * 國際線獎勵機票季節、所需哩程表
     * https://www.ana.co.jp/zh/tw/amc/international-flight-awards/#anchor-terms-required-mileage-charts
 
-* ANA 國內線，線上候補教學
-    * https://www.ana.co.jp/ja/jp/guide/reservation/domestic/vacant/
-
-* ANA 批次查詢哩程票候補狀態
-    * https://cam.ana.co.jp/psz/tokutencal/form_e.jsp  
-
-* ANA 聊天機器人查詢候補人數
-    * https://www.ana.co.jp/en/jp/guide/amc/award/international/application/  
-
 * 網友整理的 ANA 哩程票冷知識
     * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
+
 
 ## 點數轉入
 
