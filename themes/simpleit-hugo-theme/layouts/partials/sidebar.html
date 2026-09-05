@@ -1,0 +1,15 @@
+{{/* 常駐側邊目錄:只在 lg 以上顯示,lg 以下由 single.html 的 .toc-card 接手,兩者斷點互斥。
+     注意:不能用 {{ if .TableOfContents }} 判斷 —— 當頁面只有超出 startLevel/endLevel 範圍的
+     標題(例如整頁都是 H5)時,Hugo 仍會輸出退化的空殼 <ul><li><ul><li></li></ul></li></ul>,
+     該字串非空會被判定為真,導致空側欄。改為直接檢查裡面有沒有真的連結。 */}}
+{{ $toc := .TableOfContents }}
+{{ if strings.Contains $toc "<a " }}
+<aside class="col-lg-3 d-none d-lg-block sidebar" aria-label="頁面目錄">
+    <div class="sidebar-sticky">
+	<div class="sidebar-heading px-3 pt-2 pb-1 text-muted">
+	    <i class="fas fa-list"></i> 快速導覽
+	</div>
+	{{ $toc }}
+    </div>
+</aside>
+{{ end }}

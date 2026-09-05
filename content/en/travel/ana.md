@@ -15,12 +15,12 @@ date: "2026-06-08"
 * 羽田機場第二航廈，管制區內商店與餐廳
     * https://blog.jesselin.com/archives/70849/haneda-airport-terminal-2-international-line-control-area-store-options/
 
-* 查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
+* <i class="fas fa-exclamation-triangle"></i>查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
     * https://ana-maas.val.jp/search  
 
 ## 哩程兌換與候補查詢
 
-* 如果換非星盟夥伴航空，那來回都要是同一家，不能混星盟或是 ANA
+* <i class="fas fa-exclamation-triangle"></i>如果換非星盟夥伴航空，那來回都要是同一家，不能混星盟或是 ANA
 
 * 兌換獎勵機票時，AFA 帳號的總點數要 >= 機票兌換所需點數 Confirmation 才會顯示所有AFA的點數。
 
@@ -37,16 +37,16 @@ date: "2026-06-08"
     </table>
 
     * 即使「外站出發」，還是用出發地的日曆日計算天數 (意思就是以航班起飛之「當地日期」來釋出放票)
-    * 日本時間 09:00 AM 放當天日本出發「整天全部」的航班，意思就是台灣時間 08:00 AM 準時放票
-    * 雖然長榮放票是 360 天，且日本時間 355 天的 00:00 AM 就可以看到長榮票，但走到稅金那一步還是會出錯。一樣要等日本時間 09:00 AM 才能換
+    * 日本時間 <mark>09:00 AM</mark> 放當天日本出發「整天全部」的航班，意思就是台灣時間 <mark>08:00 AM</mark> 準時放票
+    * <i class="fas fa-exclamation-triangle"></i>雖然長榮放票是 360 天，且日本時間 355 天的 00:00 AM 就可以看到長榮票，但走到稅金那一步還是會出錯。一樣要等日本時間 09:00 AM 才能換
 
 * ANA 如果換國內線獎勵機票，最近期可以換到的是隔天
-    * 如果要換當天的 ANA 國內線獎勵機票，可以考慮用 UA 點數計畫，單程 5500 miles + 5USD 起，重點可以換當天的。
+    * 如果要換當天的 ANA 國內線獎勵機票，可以考慮用 UA 點數計畫，單程 <mark>5500 miles + 5USD</mark> 起，重點可以換當天的。
 
 * 哩程升等
     * 候補自家 ANA 航班，當下不會扣點，有候補到才會扣點
-    * 候補星空聯盟航班，候補當下就扣點
-        * 需要等出發後的 10 天內才會退點 
+    * <i class="fas fa-exclamation-triangle"></i>候補星空聯盟航班，候補當下就扣點
+        * 需要等出發後的 <mark>10 天內</mark>才會退點 
 
 * 里程票子艙等：
     <span class="badge badge-secondary">經濟艙 X</span>
@@ -81,12 +81,12 @@ date: "2026-06-08"
     <table class="table table-sm table-bordered table-striped">
     <thead class="thead-dark"><tr><th>轉入來源</th><th>入帳時間</th></tr></thead>
     <tbody>
-    <tr><td>華南銀行</td><td>每月 2、17 日銀行把資料提交給 ANA，約五天入帳</td></tr>
+    <tr><td>華南銀行</td><td>每月 2、17 日銀行把資料提交給 ANA，<strong>約五天入帳</strong></td></tr>
     <tr><td>中信 ANA 聯名卡</td><td>2 天</td></tr>
     <tr><td>美國 美國運通 MR</td><td>3 天</td></tr>
     <tr><td>日本 樂天</td><td>3 天</td></tr>
     <tr><td>日本 マツモトキヨシ</td><td>30 天</td></tr>
-    <tr><td>OpenPoints</td><td>通常為次月九號之後入帳</td></tr>
+    <tr><td>OpenPoints</td><td>通常為<strong>次月九號</strong>之後入帳</td></tr>
     </tbody>
     </table>
 
@@ -97,8 +97,8 @@ date: "2026-06-08"
     <table class="table table-sm table-bordered table-striped">
     <thead class="thead-dark"><tr><th>項目</th><th>說明</th></tr></thead>
     <tbody>
-    <tr><td>改票</td><td>免費，但必須在航班起飛前 96 小時修改</td></tr>
-    <tr><td>退票</td><td>扣 3000 miles，且必須在航班起飛前取消</td></tr>
+    <tr><td>改票</td><td>免費，但必須在航班起飛前 <strong>96 小時</strong>修改</td></tr>
+    <tr><td>退票</td><td>扣 <strong>3000 miles</strong>，且必須在航班起飛前取消</td></tr>
     </tbody>
     </table>
 

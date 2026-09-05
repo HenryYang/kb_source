@@ -30,6 +30,38 @@
     .nav-link.active .feather {
 	color: inherit;
     }
+
+    /* 對齊 main(col-lg-9)左側留下的空白 */
+    width: 25%;
+
+    /* Hugo 的 .TableOfContents 輸出的是裸 ul/li/a,套不到上面 .nav-link 的樣式 */
+    #TableOfContents {
+	ul {
+	    padding-left: 0;
+	    margin-bottom: 0;
+	    list-style: none;
+	}
+
+	ul ul {
+	    padding-left: .75rem;
+	}
+
+	a {
+	    display: block;
+	    padding: .3rem .75rem;
+	    color: $gray-700;
+	    font-size: .9rem;
+	    line-height: 1.35;
+	    border-left: 2px solid transparent;
+
+	    &:hover {
+		color: $danger;
+		background-color: rgba(0, 0, 0, .03);
+		border-left-color: $danger;
+		text-decoration: none;
+	    }
+	}
+    }
 }
 
 .sidebar-sticky {
@@ -92,6 +124,33 @@
 
     li > p {
 	margin-bottom: .25rem;
+    }
+
+    /* 整行只有一條裸網址的項目:壓低視覺權重,讓標籤浮出來 */
+    li > a:only-child {
+	font-size: .82em;
+	color: $gray-700;
+	word-break: break-all;
+    }
+
+    /* 重點標記語彙(全站共用,勿再增加第五種):
+       mark = 回來時要找的答案數字 / .fa-exclamation-triangle = 不知道會踩雷的例外
+       badge = 代碼與分類 / <code> = 原文字串 */
+    mark {
+	background-color: theme-color-level("warning", -10);
+	padding: 0 .2em;
+	border-radius: 2px;
+    }
+
+    /* BS4 的 text-warning(#ffc107)在白底對比不足,壓深 */
+    .fa-exclamation-triangle {
+	color: #b8860b;
+	margin-right: .25em;
+    }
+
+    /* table-sm 的小字下,<strong> 預設的 bolder 不夠明顯 */
+    table strong {
+	font-weight: 700;
     }
 
     .table-striped tbody tr:nth-of-type(odd) {

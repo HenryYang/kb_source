@@ -9,8 +9,9 @@
             
 	    {{ partial "post_header.html" . }}
 
-	    {{ if .TableOfContents }}
-	    <div class="card toc-card mb-4">
+	    {{/* 同 sidebar.html:必須檢查目錄裡真的有連結,不能只判斷字串非空 */}}
+	    {{ if strings.Contains .TableOfContents "<a " }}
+	    <div class="card toc-card mb-4 d-lg-none">
 		<div class="card-body">
 		    <h2 class="h5 card-title"><i class="fas fa-list"></i> 快速導覽</h2>
 		    {{ .TableOfContents }}
