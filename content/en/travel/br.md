@@ -3,15 +3,17 @@ title: "BR 哩程計畫 - 實用資訊"
 date: "2026-04-13"
 ---
 
-## 報到與費用
+## 報到與登機
 
 * 開放網路報到時間:出發前 48hr 
+
+## 費用與退改規定
 
 * 改票：純改時間免費，改路線 50 USD
 
 * 退票：50 USD
 
-## 官方連結與工具
+## 查詢工具與連結
 
 * 搭長榮的實用資訊
     * https://blog.jesselin.com/archives/68429/eva_air_travel_essential_guide/
