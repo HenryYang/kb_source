@@ -1,5 +1,5 @@
 baseURL = "https://kb.hiy.tw/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Henry's Knowledge Base"
 theme = 'simpleit-hugo-theme'
 #disqusShortname = "simpleit-hugo-theme"
@@ -19,7 +19,7 @@ pygmentsCodefencesGuessSyntax = true
 [languages]
   [languages.en]
     contentDir = "content/en"
-    languageName = "English"
+    label = "English"
     weight = 10
     bio = "OSS enthusiast."
     page_about_me_relurl = "/about/"
