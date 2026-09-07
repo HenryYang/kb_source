@@ -18,7 +18,7 @@ date: "2026-06-08"
 * <i class="fas fa-exclamation-triangle"></i>查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
     * https://ana-maas.val.jp/search  
 
-## 哩程兌換與候補查詢
+## 哩程兌換與換票規則
 
 ### 換票規則與時間
 

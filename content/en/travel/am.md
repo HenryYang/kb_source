@@ -3,7 +3,7 @@ title: "AM 哩程計畫 - 實用資訊"
 date: "2025-03-25"
 ---
 
-## 報到與客服聯絡
+## 報到與登機
 
 * 開放網路報到時間:出發前 48hr 
 
@@ -76,7 +76,7 @@ date: "2025-03-25"
     * https://epicurean.pixnet.net/blog/post/44084742
     * https://goo.gl/e5mUUU
 
-## 航班與行李查詢工具
+## 查詢工具與連結
 
 * 查詢國泰本家航班近七天所使用機材
     * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/timetable.html
