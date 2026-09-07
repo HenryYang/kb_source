@@ -21,8 +21,7 @@ date: "2025-03-25"
 
 * 查詢各機場所營運的航線 - https://www.flightsfrom.com/  
 
-
-</br>
+---
 
 ##### 累積與兌換比例/DP
 
@@ -39,9 +38,8 @@ date: "2025-03-25"
 * 網友自製各家航空/飯店可用轉點心智圖 - https://s.hiy.tw/miles
     
 * 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）- https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
- 
 
-</br>
+---
 
 * 長榮哩程自願降艙
     * 原本商務排候補先自願降等豪經+候補商務艙
@@ -49,14 +47,13 @@ date: "2025-03-25"
     * 當剩餘 36 小時時，確認沒候補到就可以在 36-24hr 之間打電話去改票
     * 等於是花費 50USD 改票費就可以拿回差額哩程與稅金差
 
-</br>
+---
 
 * ANA 退票處理時間
     * 打美國客服退票: 3-21 天後點數回來
     * 打日本客服退票: 有機會當下點數回來
 
-</br>
-
+---
 
 #### 實用資訊
 
@@ -102,7 +99,7 @@ date: "2025-03-25"
     * 嬰兒票並不是單獨開票，是必須掛在成人機票代號下面去開票
     * https://blog.tripplus.cc/zh/10058/infant-award-ticket-guide
 
-</br>
+---
 
 #### 實用 App
 
@@ -114,11 +111,7 @@ date: "2025-03-25"
 
 * 查詢航班位置與下載 KML - https://globe.adsbexchange.com  
 
-
-</br>
-
-
-</br>
+---
 
 #### EU261 條件
 
@@ -133,12 +126,8 @@ date: "2025-03-25"
 * http://d3consulting.org/2019-eva-strike-sop/
 * [關於更多索賠的細節說明](https://www.flyasia.co/2023/09/15/eu261/)
 
- 
- </br>
+---
 
 ![](https://i.imgur.com/JIHqwAd.png)
 
 [圖片來源](https://news.housefun.com.tw/news/article/157509209005.html)
-
-</br>
-

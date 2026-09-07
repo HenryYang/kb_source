@@ -22,7 +22,7 @@ date: "2020-07-07"
 * iOSGods iTunes App Info - 查詢 App Bundle ID、最低版本等相關資訊
     * https://armconverter.com/appinfo
 
-</br>
+---
 
 * 關於 M1 macOS 設備運行 .ipa 相關資訊
     * 砸殼 -> 重簽名 -> 轉成 M1 格式並安裝  
@@ -32,6 +32,3 @@ date: "2020-07-07"
     * 安裝 .ipa 到設備上（用 Apple ID Sideload 似乎失效 ） -> https://sideloadly.io/  
 
 [參考資料](http://webcache.googleusercontent.com/search?q=cache:pVYEC4j6P3QJ:www.bilibili.com/read/cv11269731+&cd=1&hl=zh-TW&ct=clnk&gl=tw)
-
-
-</br>

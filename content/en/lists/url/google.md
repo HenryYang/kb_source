@@ -8,5 +8,3 @@ date: "2022-10-07"
 Google Drive 剩餘空間查詢 - https://one.google.com/storage/management  
 Google Photo 剩餘空間查詢 - https://photos.google.com/storage  
 Google Suite 教育帳號資料轉移 - https://takeout.google.com/transfer  
-
-</br>

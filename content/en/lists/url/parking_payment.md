@@ -10,10 +10,7 @@ date: "2025-11-18"
 * [uTagGO易付](https://utaggoif.utaggo.com.tw)
 * [台北市路邊停車位查詢](https://itaipeiparking.pma.gov.taipei/)
 
-
-
-
-</br>
+---
 
  ##### 常用停車場繳費
 
@@ -36,7 +33,3 @@ date: "2025-11-18"
  * [高島屋 B2 DARA 充電機器人](https://ev.darapower.com/qrcode/387515)
  * [查詢公有充電樁](https://www.opendata.vip/tdx/evParking/Taipei)
  * [北市好停車](https://itaipeiparking.pma.gov.taipei/)
-
-</br>
-
-

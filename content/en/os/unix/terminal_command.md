@@ -7,9 +7,7 @@ date: "2020-07-07"
 
 <img src="https://i.imgur.com/fMhqUc6.jpg" style="zoom:50%" />
 
-
-
-</br>
+---
 
 ##### Terminal 快速前後
 ```
@@ -26,7 +24,7 @@ date: "2020-07-07"
 
 <img src="https://i.imgur.com/NjgZC6m.png" style="zoom:30%" />
 
-</br>
+---
 
 參考資訊：
 

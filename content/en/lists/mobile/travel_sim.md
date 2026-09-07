@@ -15,7 +15,7 @@ date: "2022-10-24"
     * 使用電信：DoCoMo (實測連上沒訊號) / SoftBank / AU (連不上)
         * 有拿到日本 020 開頭門號，實際測試出口是日本 IP
 
-</br>
+---
 
 * [Airalo - Moshi Moshi](https://www.airalo.com/zh/japan-esim/moshi-moshi-7days-1gb)
     * ICCID 前八碼：89371088
@@ -23,7 +23,7 @@ date: "2022-10-24"
     * 簽卡國家：拉脫維亞的 SIA IZZI
     * 使用電信：AU
 
-</br>
+---
 
 #### 實體 SIM 卡
 
@@ -33,8 +33,7 @@ date: "2022-10-24"
     * 簽卡國家：香港的電訊盈科   
     * 使用電信：SoftBank
 
-</br>
-
+---
 
 * [WiHo - 日本 30 日 50GB Docomo 電信](https://www.telecomsquare.tw/Product/Info/62e8a83c4ddb5)
     * ICCID 前八碼：89810300
@@ -42,8 +41,7 @@ date: "2022-10-24"
     * 簽卡國家：日本的 IIJ
     * 使用電信：DoCoMo
 
-</br>
-
+---
 
 * [b-mobile S 190PadSIM](https://www.bmobile.ne.jp/190sim/)
     * ICCID 前八碼：<待補>
@@ -52,7 +50,7 @@ date: "2022-10-24"
     * 使用電信：DoCoMo
         * [iOS Mobileconfig](https://www.bmobile.ne.jp/devices/bmobileCelluar_ios.mobileconfig)、[APN 資訊](https://www.bmobile.ne.jp/190sim/support_apn_setting_docomo.html)
 
-</br>
+---
 
 * [BBエキサイト 格安SIM](https://bb.excite.co.jp/exmb/sim/)
     * ICCID 前八碼：<待補>

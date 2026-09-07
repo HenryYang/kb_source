@@ -18,5 +18,3 @@ Apple 在用的 - http://captive.apple.com/
 星宇航空 - http://capture.onboard.onair.aero & https://starlux.viasat.com  
 國泰航空 - http://connect.cathaypacific.com  
 全日空 - https://www.ana-inflight-wifi.com  
-
-</br>

@@ -11,7 +11,7 @@ date: "2025-03-25"
 
 * 外交部領事局 - 查詢中華民國護照進出各國是否需要簽證 - https://www.boca.gov.tw/sp-foof-countrylp-01-1.html
 
-</br>
+---
 
 * 海外保險
     * 日本 (東京海上日動)(限定日本IP) - https://www.jnto.go.jp/emergency/chc/ov_travel_insurance.html  
@@ -31,16 +31,13 @@ date: "2025-03-25"
 * 入境桃園機場須要額外檢查非洲豬瘟 X 光的國家
     * 中國、香港、澳門、泰國、柬埔寨、越南、韓國、俄羅斯、菲律賓、新加坡、馬來西亞、印尼、義大利、德國
 
-</br>
+---
 
  * 北約音標字母NATO phonetic alphabet
     * https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
     * https://www.youtube.com/watch?v=f28fAVRL5Jg&t=1s 
- 
 
-</br>
-
-
+---
 
 ##### 飯店
 

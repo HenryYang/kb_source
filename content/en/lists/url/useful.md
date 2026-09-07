@@ -19,5 +19,3 @@ date: "2022-10-07"
 * Viber Out打電話時可以正確地送出數字鍵功能 - https://blog.kojuro.date/2025/09/20250922-viber-out-dtmf  
 * 台北捷運單程票 - https://ticket.metro.taipei/Home   
 * 下載 SNS 影片跟移除浮水印 - https://dy.kukutool.com/  
-
-</br>

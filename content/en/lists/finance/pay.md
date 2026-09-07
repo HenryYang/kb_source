@@ -5,7 +5,7 @@ date: "2022-08-17"
 
 ##### 台灣常見行動支付 對應表
 
-</br>
+---
 
 | 銀行/支付系統 | Apple Pay | Google Pay | Samsung Pay | Garmin Pay | Fitbit Pay | | 支援家數 |
 | -- | -- | -- | -- | -- | -- | -- | -- |
@@ -39,14 +39,15 @@ date: "2022-08-17"
 | |   |  |  |   |   |   |  |
 | 支援家數 |15 | 17 | 12 | 7 | 7 |
 
-</br>
+---
+
 ## 備註
 
 Apple Pay 目前支援 JCB 卡的銀行僅有：永豐銀行、中國信託、玉山銀行、第一銀行、華南銀行、聯邦銀行、兆豐銀行、台北富邦
 
 Fitbit Pay 如綁定 中國信託、台新銀行、聯邦銀行 的一卡通聯名卡則可以啟用自動加值的虛擬一卡通聯名卡 
 
-</br>
+---
 
 ### 資料來源
 * Apple Pay <https://support.apple.com/zh-tw/HT206638>
@@ -55,7 +56,7 @@ Fitbit Pay 如綁定 中國信託、台新銀行、聯邦銀行 的一卡通聯�
 * Garmin Pay <http://www.garmin.com.tw/minisite/garmin-pay/#bank>
 * Fitbit Pay [https://www.fitbit.com/tw/fitbit-pay/banks](https://www.fitbit.com/global/tw/technology/fitbit-pay/banks)
 
-</br>
+---
 
 ### 最後更新時間
 2022/08/17

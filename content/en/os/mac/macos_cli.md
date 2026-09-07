@@ -11,8 +11,7 @@ openssl pkcs12 -info -in INFILE.p12 -nodes
 
 [憑證格式相關資訊](https://support.ssl.com/index.php?/Knowledgebase/Article/View/19/0/der-vs-crt-vs-cer-vs-pem-certificates-and-how-to-convert-them)
 
-</br>
-
+---
 
 ##### 在 CLI 匯入憑證到 Keychain
 
@@ -24,7 +23,7 @@ security unlock-keychain -p 電腦的密碼 ~/Library/Keychains/login.keychain-d
 security import 要匯入的憑證 -k ~/Library/Keychains/login.keychain-db
 ```
 
-</br>
+---
 
 ##### 手動安裝 Xcode
 
@@ -43,7 +42,7 @@ xcrun simctl runtime add "~/Downloads/iOS_17.2_Simulator_Runtime.dmg"
 
 ```
 
-</br>
+---
 
 ##### 執行 macOS 取消到期通知指令
 
@@ -51,8 +50,7 @@ xcrun simctl runtime add "~/Downloads/iOS_17.2_Simulator_Runtime.dmg"
 sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpirationDays 0
 ```
 
-</br>
-
+---
 
 ##### 手動把帳戶加入 Mobile Account 方法
 
@@ -60,8 +58,7 @@ sudo defaults write /Library/Preferences/com.apple.loginwindow PasswordExpiratio
 sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmobileaccount -P -v -n 使用者帳戶
 ```
 
-</br>
-
+---
 
 ##### 手動更新 FileVault2 的開機解鎖密碼
 
@@ -69,15 +66,14 @@ sudo /System/Library/CoreServices/ManagedClient.app/Contents/Resources/createmob
 sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id -un | awk -F',' '{print $2}')
 ```
 
-</br>
+---
 
 ##### macOS Network Location 設定檔存放位置
 ```shell
 /Library/Preferences/SystemConfiguration/preferences.plist
 ```
 
-</br>
-
+---
 
 ##### 讓 Terminal 的 sudo 可以使用 Touch ID 驗證
 ```shell
@@ -85,7 +81,7 @@ sudo diskutil apfs changePassphrase disk1s1 -user $(sudo fdesetup list | grep id
 auth sufficient pam_tid.so
 ```
 
-</br>
+---
 
 ##### 重起 Touch Bar 的服務
 ```shell
@@ -93,24 +89,21 @@ sudo pkill TouchBarServer
 sudo killall "ControlStrip"
 ```
 
-</br>
-
+---
 
 ##### 允許 macOS 安裝任何來源軟體（危險，風險自負）
 ```shell
 sudo spctl --master-disable
 ```
 
-</br>
-
+---
 
 ##### 手動刪除系統的快取檔案 （危險，風險自負）
 ```shell
 rm -rf ~/Library/Caches
 ```
 
-</br>
-
+---
 
 ##### 擴充（找回）未使用的硬碟空間
 
@@ -130,9 +123,7 @@ sudo diskutil apfs resizeContainer disk0s2 200G
 
 ```
 
-</br>
-
-
+---
 
 ##### 在根目錄建立超連結到其他路徑上
 
@@ -143,7 +134,8 @@ sudo nano /etc/synthetic.conf
 # bar 那邊是預期的資料夾名稱，而 tab 後面則是路徑，記得第一個 / 不需要加
 bar     System/Volumes/Data/bar
 ```
-</br>
+
+---
 
 #####  製作 macOS Monterey 安裝隨身碟
 ```shell
@@ -152,15 +144,14 @@ sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstall
 
 [各版本指令與下載連結](https://support.apple.com/zh-tw/HT201372)
 
-
-</br>
+---
 
 #####  解決 Mac AppStore 下載轉圈圈不停問題
 ```shell
 kill -9 $(ps -A | grep appstoreagent | awk '{print $1}' | head -1)
 ```
 
-</br>
+---
 
 #####  掛載 Ext4 磁碟
 ```shell
@@ -175,28 +166,28 @@ diskutil list
 sudo ext4fuse /dev/disk3s1 ~/MY_DISK -o allow_other
 ```
 
-</br>
+---
 
 #####  解決 homebrew 找不到 Formulae 問題
 ```shell
 rm -rf /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core; brew update
 ```
 
-</br>
+---
 
 #####  備份 homebrew 安裝的軟體清單
 ```shell
 brew bundle dump
 ```
 
-</br>
+---
 
 #####  強制移除 homebrew 安裝的軟體
 ```shell
 brew uninstall --cask --force 安裝的軟體
 ```
 
-</br>
+---
 
 ##### 查詢最近關機、重開、登入紀錄
 
@@ -211,8 +202,7 @@ last reboot
 last <使用者名稱>
 ```
 
-</br>
-
+---
 
 ##### 重新把使用者密碼更新上 FileVault2 的解密權限
 
@@ -226,5 +216,3 @@ Enter the password for user 'adminusername':
 Enter the password for the added user 'username':
 
 ```
-
-</br>

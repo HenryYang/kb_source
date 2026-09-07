@@ -5,7 +5,7 @@ date: "2026-04-13"
 
 ### 關於 ipa 部分
 
-</br>
+---
 
 ##### 舊版 iTunes 12.6.5 下載（還可以載 .ipa 的版本）
 * https://support.apple.com/en-us/HT208079
@@ -16,11 +16,11 @@ date: "2026-04-13"
 ##### 網路上找到的共用 Apple ID 服務 （請慎用
 * https://pastebin.com/GACW3aC4
 
-</br>
+---
 
 ### 關於驗機、設備資訊
 
-</br>
+---
 
 ##### 中國查手機 GSX (微信登入)
 * https://www.ybcheck.com  
@@ -60,14 +60,11 @@ date: "2026-04-13"
     * 美國是 `LL`
     * 中國是 `CH`
 
-
-</br>
-
+---
 
 ### 工具類
 
-</br>
-
+---
 
 ##### 電腦批次下載 iCloud Photo 工具
 * https://github.com/icloud-photos-downloader/icloud_photos_downloader
@@ -78,12 +75,11 @@ date: "2026-04-13"
 ##### 各版本的 ipsw 下載
 * https://ipsw.me/
 
-
-</br>
+---
 
 ### 實用指令
 
-</br>
+---
 
 ##### 快速切換 App Store 顯示國家
 * [美國](https://itunes.apple.com/WebObjects/MZStore.woa/wa/resetAndRedirect?dsf=143441&mt=8&url=/WebObjects/MZStore.woa/wa/viewSoftware?cc=us)
@@ -107,14 +103,11 @@ date: "2026-04-13"
 defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
 ```
 
-
-</br>
-
-
+---
 
 ### 冷知識
 
-</br>
+---
 
 ##### Apple ID 註冊國家注意事項
 
@@ -122,4 +115,3 @@ defaults write com.apple.itunes disableCheckForDeviceUpdates -bool YES
     * 這意味一旦 Apple ID 帳戶歸屬到中國或是印度，裡面的手機號碼就只能綁定該國的手機號碼
 
 [參考資料](https://support.apple.com/zh-tw/HT207944)
-
