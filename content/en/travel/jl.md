@@ -14,8 +14,6 @@ date: "2025-06-08"
 
 * 使用亞萬開票後，要記得去日航行程登記手機跟 Email
 
-* 哩程票不能改票只能退票，然後退票手續費是 3100 JPY
-
 * ​​拿日航國內線機票 PNR 去 BA 行程管理查詢，可以看到子艙等
 
 * 換票時間點
@@ -50,13 +48,17 @@ date: "2025-06-08"
 * 國內線與國際線 FOP 計算表
     * https://www.jal.co.jp/cgi-bin/jal/milesearch/save/flt_mile_save.cgi?external=1&language=en
 
-## 會員與費用
+## 費用與退改規定
 
-* JGC 入會申請連結
-    * https://www.jal.co.jp/jp/ja/jalmile/jgc/enroll_guide_world.html
+* 哩程票不能改票只能退票，然後退票手續費是 3100 JPY
 
 * 日航 YQ 燃油附加費 (Fuel Surcharge) 價目表
     * https://www.jal.co.jp/jp/en/inter/fare/fuel/detail.html  
+
+## 會籍與入會
+
+* JGC 入會申請連結
+    * https://www.jal.co.jp/jp/ja/jalmile/jgc/enroll_guide_world.html
 
 * JEP 訂票頁面
     * https://www.world.jal.co.jp/world/zhtw/japan_explorer_pass/tw/reservation/
