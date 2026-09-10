@@ -37,10 +37,10 @@ XXXXXXXX.com:80 193.XXX.XXX.XXX - - [26/Jan/2017:00:07:56 +0000] "POST /wp-conte
 This command will automatically set the following configuration in
 your [`~/.gitconfig_global`](https://git-scm.com/docs/git-config#git-config-gitconfig) file.
 
-~~~
+```ini
 [core]
         excludesfile = /home/user/.gitignore_global
-~~~
+```
 
 
 > Patterns which a user wants Git to ignore in all situations (e.g.,

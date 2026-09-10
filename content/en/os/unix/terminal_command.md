@@ -10,15 +10,13 @@ date: "2020-07-07"
 ---
 
 ##### Terminal 快速前後
-```
-按 Ctrl 跟 a 跳到「整串」最「前面」
-按 Ctrl 跟 e 跳到「整串」最「後面」
-按 Ctrl 跟 w 直接「刪除」一組「單詞」
 
-# macOS iTerm2 需要修改設定值 
-按 Option/Alt 跟 b 往回跳「上一個」單詞
-按 Option/Alt 跟 f 往後跳「下一個」單詞
-```
+* 按 <kbd>Ctrl</kbd> 跟 <kbd>a</kbd> 跳到「整串」最「前面」
+* 按 <kbd>Ctrl</kbd> 跟 <kbd>e</kbd> 跳到「整串」最「後面」
+* 按 <kbd>Ctrl</kbd> 跟 <kbd>w</kbd> 直接「刪除」一組「單詞」
+* macOS iTerm2 需要修改設定值
+    * 按 <kbd>Option/Alt</kbd> 跟 <kbd>b</kbd> 往回跳「上一個」單詞
+    * 按 <kbd>Option/Alt</kbd> 跟 <kbd>f</kbd> 往後跳「下一個」單詞
 
 在 iTerm2 中  Preference -> Profiles -> Keys 把 Left 與 Right Option Key 設定值都改為 Esc+.
 

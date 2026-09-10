@@ -148,9 +148,7 @@ del cache:gitlab:rack::attack:allow2ban:ban:<ip>
 
 ##### Firefox 開啟強制 https 模式
 
-```
 偏好設定 -> 隱私權與安全性 -> 純 HTTPS 模式 -> 在所有視窗都開啟純 HTTPS 模式
-```
 
 ---
 
@@ -169,7 +167,7 @@ https://blog.gtwang.org/linux/tar-command-examples-in-linux-1/
 
 ##### 把 Git Repo 搬移到另外一個全新的 Repo 中
 
-```
+```shell
 cd existing_repo
 git branch -r | grep -v '\->' | sed "s,\x1B\[[0-9;]*[a-zA-Z],,g" | while read remote; do git branch --track "${remote#origin/}" "$remote"; done
 git fetch --all
@@ -185,6 +183,6 @@ git push -u origin --tags
 
 ##### 查詢當下目錄中各資料夾的大小
 
-```
+```shell
 du -sh /<PATH>/* | sort -rn
 ```

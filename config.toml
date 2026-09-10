@@ -78,6 +78,3 @@ unsafe= true
 startLevel = 2
 endLevel = 3
 
-# syntax highlighting
-[markup.highlight]
-guessSyntax = true
