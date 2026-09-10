@@ -5,39 +5,54 @@ date: "2025-03-25"
 
 ##### 距離/查票/航點
 
-* GCMAP - 用來查飛行距離 - http://www.gcmap.com/
+* GCMAP - 用來查飛行距離
+    * http://www.gcmap.com/
 
-* 舊版 ITA 查詢系統 - https://oldmatrix.itasoftware.com  
+* 舊版 ITA 查詢系統
+    * https://oldmatrix.itasoftware.com  
 
-* Expertflyer(付費) - 就是那個大家熟知要付錢的服務 - https://www.expertflyer.com/main.do
+* Expertflyer(付費) - 就是那個大家熟知要付錢的服務
+    * https://www.expertflyer.com/main.do
 
-* SeatSpy(付費) - 查詢跨大西洋航線各航空里程票數量 - https://www.seatspy.com/
+* SeatSpy(付費) - 查詢跨大西洋航線各航空里程票數量
+    * https://www.seatspy.com/
 
-* ANA 官方里程票日曆圖（僅限日本出發） - https://cam.ana.co.jp/psz/tokutencal/form.jsp
+* ANA 官方里程票日曆圖（僅限日本出發）
+    * https://cam.ana.co.jp/psz/tokutencal/form.jsp
 
-* 離線查詢各航空/聯盟營運航點的 Windows 軟體 - http://arm.64hosts.com/
+* 離線查詢各航空/聯盟營運航點的 Windows 軟體
+    * http://arm.64hosts.com/
 
-* 查詢各航空/聯盟營運航點 - https://www.flightconnections.com/
+* 查詢各航空/聯盟營運航點
+    * https://www.flightconnections.com/
 
-* 查詢各機場所營運的航線 - https://www.flightsfrom.com/  
+* 查詢各機場所營運的航線
+    * https://www.flightsfrom.com/  
 
 ---
 
 ##### 累積與兌換比例/DP
 
-* 計算哩程存在每個計畫的比例/各路線實際累積數  - https://www.wheretocredit.com  
+* 計算哩程存在每個計畫的比例/各路線實際累積數
+    * https://www.wheretocredit.com  
 
-* 用地圖查各航點用各計畫兌換所需哩程 - https://www.tripplus.cc/awardplus/redemption/e
+* 用地圖查各航點用各計畫兌換所需哩程
+    * https://www.tripplus.cc/awardplus/redemption/e
 
-* 有提供中停的哩程計畫 - https://blog.tripplus.cc/zh/166899/
+* 有提供中停的哩程計畫
+    * https://blog.tripplus.cc/zh/166899/
 
-* 哩程界常用術語及縮寫 - https://blog.tripplus.cc/zh/31439   
+* 哩程界常用術語及縮寫
+    * https://blog.tripplus.cc/zh/31439   
 
-* 北美常見航空公司幫家人兌換規則 - https://www.uscreditcardguide.com/tips-redeem-award-flights-for-family-members/  
+* 北美常見航空公司幫家人兌換規則
+    * https://www.uscreditcardguide.com/tips-redeem-award-flights-for-family-members/  
 
-* 網友自製各家航空/飯店可用轉點心智圖 - https://s.hiy.tw/miles
+* 網友自製各家航空/飯店可用轉點心智圖
+    * https://s.hiy.tw/miles
     
-* 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）- https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
+* 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）
+    * https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
 
 ---
 
@@ -78,21 +93,29 @@ date: "2025-03-25"
     * 常見單走道飛機           
         * A319, A320, A321, 737, 737 Max, A320neo
 
-* 日本境內 NH / JL 機場分布圖 - https://www.google.com/maps/d/viewer?mid=1dknwOmebSqXqdCN-Hus5sqc0Vq0
+* 日本境內 NH / JL 機場分布圖
+    * https://www.google.com/maps/d/viewer?mid=1dknwOmebSqXqdCN-Hus5sqc0Vq0
 
-* 全球航班發布第一手消息 - https://www.aeroroutes.com/
+* 全球航班發布第一手消息
+    * https://www.aeroroutes.com/
 
-* 查詢航空公司各機型的位置推薦 (有座位模擬圖) - https://www.aerolopa.com  
+* 查詢航空公司各機型的位置推薦 (有座位模擬圖)
+    * https://www.aerolopa.com  
 
-* 查詢航空公司各機型的位置推薦 (有機艙內實際照) - https://seatmaps.com  
+* 查詢航空公司各機型的位置推薦 (有機艙內實際照)
+    * https://seatmaps.com  
 
-* 查詢航空公司發給旅行社的公告 - https://www.sabretn.com.tw/News/FlightList  
+* 查詢航空公司發給旅行社的公告
+    * https://www.sabretn.com.tw/News/FlightList  
 
-* 常見航空公司行李計算方式 - https://blog.jesselin.com/archives/43143/
+* 常見航空公司行李計算方式
+    * https://blog.jesselin.com/archives/43143/
 
-* 各航空公司的行李箱尺寸規定 - https://blog.jesselin.com/archives/88311/baggage-allowance  
+* 各航空公司的行李箱尺寸規定
+    * https://blog.jesselin.com/archives/88311/baggage-allowance  
 
-* 網友整理的常見登機箱大小與各航空公司限制 - https://www.ptt.cc/bbs/Japan_Travel/M.1681527029.A.44E.html
+* 網友整理的常見登機箱大小與各航空公司限制
+    * https://www.ptt.cc/bbs/Japan_Travel/M.1681527029.A.44E.html
 
 * 嬰兒票相關資訊
     * 嬰兒的定義在航空業裡面，是指搭乘日當天兩足歲以下（不含兩足歲）的小朋友
@@ -109,7 +132,8 @@ date: "2025-03-25"
 
 * 世界迷霧 - [App Store](https://apps.apple.com/tw/app/id505367096) & [Google Play](https://play.google.com/store/apps/details?id=com.ollix.fogofworld)
 
-* 查詢航班位置與下載 KML - https://globe.adsbexchange.com  
+* 查詢航班位置與下載 KML
+    * https://globe.adsbexchange.com  
 
 ---
 
