@@ -45,9 +45,9 @@ date: "2025-03-25"
 
 * 凱悅、洲際、萬豪、希爾頓點數 & 房價搜尋（要登入） - https://www.ustatz.com/member/hotelGroups/
 
-* 航空/酒店計畫哩程有效期限一覽 (更新版) - [https://blog.tripplus.cc/zh/120732](https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020)
+* 航空/酒店計畫哩程有效期限一覽 (更新版，web.archive 存檔) - https://web.archive.org/web/20210217134701/https://blog.tripplus.cc/zh/120732/randy_newbie_airline_miles_hotel_points_expiration_date_2020
 
-* 訂房網站找三人房且三張床教學 - [https://www.facebook.com/100090362747085/](https://www.facebook.com/100090362747085/posts/pfbid0h7hb3LT5v25ZsCeAG8iDQK4bqzVHhRAJG4M4qHiaY8fH7CF1gmCS5cZkcd1i9PEAl/)
+* 訂房網站找三人房且三張床教學 - https://www.facebook.com/100090362747085/posts/pfbid0h7hb3LT5v25ZsCeAG8iDQK4bqzVHhRAJG4M4qHiaY8fH7CF1gmCS5cZkcd1i9PEAl/
 
 * Agoda 訂房付款幣別資訊 （避免被收額外 5% 的費用）
     * 到店付款 -> 網頁幣別與結帳畫面都選 飯店當地貨幣

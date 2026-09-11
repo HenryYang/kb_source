@@ -12,29 +12,11 @@
     padding: 60px 0 0; /* Height of navbar 48px */
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
 
-    .nav-link {
-	font-weight: 500;
-	color: #333;
-    }
-
-    .nav-link .feather {
-	margin-right: 4px;
-	color: #999;
-    }
-
-    .nav-link.active {
-	color: #007bff;
-    }
-
-    .nav-link:hover .feather,
-    .nav-link.active .feather {
-	color: inherit;
-    }
 
     /* 對齊 main(col-lg-9)左側留下的空白 */
     width: 25%;
 
-    /* Hugo 的 .TableOfContents 輸出的是裸 ul/li/a,套不到上面 .nav-link 的樣式 */
+    /* Hugo 的 .TableOfContents 輸出的是裸 ul/li/a,沒有任何 class 可掛,只能靠元素選擇器 */
     #TableOfContents {
 	ul {
 	    padding-left: 0;
@@ -85,7 +67,8 @@
     text-transform: uppercase;
 }
 
-#TableOfContents{
+/* 手機版目錄卡片(側邊欄那份的樣式在 .sidebar 區塊裡) */
+#TableOfContentsMobile {
     ul {
 	padding-left: 10%;
     }
@@ -182,38 +165,7 @@
     background-color: rgba(0, 0, 0, .25);
     box-shadow: inset -1px 0 0 rgba(0, 0, 0, .25);
 
-    .form-control {
-	padding: .75rem 1rem;
-	border-width: 0;
-	border-radius: 0;
-    }
 }
-
-.form-control-dark {
-    color: #fff;
-    background-color: rgba(255, 255, 255, .1);
-    border-color: rgba(255, 255, 255, .1);
-}
-
-.form-control-dark:focus {
-    border-color: transparent;
-    box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
-}
-
-/*
- * Author box
- */
-.author-footer {
-    border-top: 1px solid #eee;
-    margin: 2em auto;
-    padding-top: 2em;
-
-    img {
-	border: 1px solid #eee;
-	padding: 2px;
-    }    
-}
-
 
 
 /*
@@ -223,15 +175,6 @@
     padding: 15px
 }
 
-.homepage_branding {
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
-    margin: 2em auto;
-    padding-top: 2em;
-    font-size: large;
-
-}
-
 
 /*
  * Footer
@@ -239,14 +182,6 @@
 .site-footer {
     border-top: 2px solid $gray-300;
     margin-top: 5em;
-
-    .footer-nav {
-	list-style-type: none;
-    }
-
-    .footer-nav li .fa {
-	padding-right: 5px;
-    }
 }
 
 /*
@@ -263,10 +198,6 @@
     .shell-prompt {
 	color: #0c0;
 	font-weight: bold;
-    }
-
-    .shell-comment {
-	color: grey;
     }
 
     .shell kbd {
@@ -330,10 +261,6 @@ blockquote{
     }
 }
 
-
-.a-social {
-    padding-right: 5px;
-}
 
 /*
   Fix Problem:  

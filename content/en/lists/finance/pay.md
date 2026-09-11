@@ -54,7 +54,7 @@ Fitbit Pay 如綁定 中國信託、台新銀行、聯邦銀行 的一卡通聯�
 * Google Pay <https://support.google.com/pay/answer/7404680?hl=zh-Hant>
 * Samsung Pay <http://www.samsung.com/tw/samsungpay/#collabor-banks>
 * Garmin Pay <http://www.garmin.com.tw/minisite/garmin-pay/#bank>
-* Fitbit Pay [https://www.fitbit.com/tw/fitbit-pay/banks](https://www.fitbit.com/global/tw/technology/fitbit-pay/banks)
+* Fitbit Pay <https://www.fitbit.com/global/tw/technology/fitbit-pay/banks>
 
 ---
 

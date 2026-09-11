@@ -89,7 +89,7 @@ Unicode 字元辨識 (用畫的來辨識可能的字元) - https://shapecatcher.
 
 ---
 
-算 Netmask 數值 - [http://jodies.de/ipcalc](http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=)  
+算 Netmask 數值 - http://jodies.de/ipcalc?host=192.168.0.1&mask1=24&mask2=  
 
 ---
 

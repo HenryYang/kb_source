@@ -14,7 +14,9 @@
 	    <div class="card toc-card mb-4 d-lg-none">
 		<div class="card-body">
 		    <h2 class="h5 card-title"><i class="fas fa-list"></i> 快速導覽</h2>
-		    {{ .TableOfContents }}
+		    {{/* 側邊欄同樣渲染 .TableOfContents，Hugo 固定輸出 id="TableOfContents"。
+		         兩份都在 DOM 裡(只是各自被 CSS 隱藏一份)，不改名就會是重複 id。*/}}
+		    {{ .TableOfContents | replaceRE "id=\"TableOfContents\"" "id=\"TableOfContentsMobile\"" | safeHTML }}
 		</div>
 	    </div>
 	    {{ end }}
