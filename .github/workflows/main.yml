@@ -8,6 +8,10 @@ jobs:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
+        with:
+          # enableGitInfo 需要完整 history 才能取到每個檔案真正的最後修改時間。
+          # 預設的 fetch-depth: 1 會讓所有頁面的 Last modified 都變成最後一次 commit 的時間。
+          fetch-depth: 0
       
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
