@@ -22,17 +22,18 @@ date: "2025-05-08"
 
 ---
 
-* 歐盟實體消費不給回饋清單
+* 歐盟實體消費回饋規則
     * 有沒有回饋可以參考[ CardU 整理的資訊](https://www.cardu.com.tw/message/detail.php?50056)
-    * 預設不給回饋
+    * 預設不給回饋（例外才給）
         * 新光 -> 全卡別不給回饋  
         * 聯邦 -> 全卡別不給回饋  
         * 富邦 -> 僅 Costco 聯名卡給回饋，剩餘皆不給  
         * 中信 -> 僅特定卡給回饋，剩餘皆不給  
+        * 台新 -> [僅特定卡給回饋，剩餘皆不給](https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-000616/)
+    * 預設給回饋（例外才不給）
         * 滙豐 -> 僅 現金回饋御璽卡 無回饋  
         * 永豐 -> [特定卡不給回饋，其餘都給](https://bank.sinopac.com/sinopacBT/webevents/creditpdf/2024%E5%B9%B4H1%E6%AC%8A%E7%9B%8A%E6%88%96%E6%9C%8D%E5%8B%99%E8%AA%BF%E6%95%B4.pdf)
         * 星展 -> [官方清單內卡不給回饋](https://www.dbs.com.tw/iwov-resources/pdf/Latest%20News/other-cards-version.pdf)
-        * 台新 -> [官方有列出給回饋的卡](https://www.taishinbank.com.tw/TSB/personal/common/important-notice/TSBankImportantNotice-000616/)
     * 歐洲經濟區 (EEA) 定義 
         * 奧地利、比利時、保加利亞、克羅埃西亞、賽普勒斯、捷克、丹麥、愛沙尼亞、芬蘭、法國、德國、希臘、匈牙利、愛爾蘭、義大利、拉脫維亞、立陶宛、盧森堡、馬爾他、荷蘭、波蘭、葡萄牙、羅馬尼亞、斯洛伐克、斯洛維尼亞、西班牙、瑞典、英國、冰島、列支敦斯登和挪威
 
