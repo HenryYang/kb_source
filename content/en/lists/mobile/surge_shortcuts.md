@@ -14,9 +14,9 @@ date: "2020-07-07"
 * https://surge.clai.tw/rules/MitM.sgmodule
 
 
-##### Chris 維護的 Surge 清單
+##### 捷徑清單
 * Share Clean URL
-	* https://www.icloud.com/shortcuts/a388b20ef2fe47f4b51e88b74ce17b12
+    * https://www.icloud.com/shortcuts/a388b20ef2fe47f4b51e88b74ce17b12
 * Copy Clean URL 
-	* https://www.icloud.com/shortcuts/6ac0f4f75cfb410cb1768d2350d4f1ff
+    * https://www.icloud.com/shortcuts/6ac0f4f75cfb410cb1768d2350d4f1ff
 
