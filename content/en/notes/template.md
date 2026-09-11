@@ -35,7 +35,7 @@ XXXXXXXX.com:80 193.XXX.XXX.XXX - - [26/Jan/2017:00:07:56 +0000] "POST /wp-conte
 </pre>
 
 This command will automatically set the following configuration in
-your [`~/.gitconfig_global`](https://git-scm.com/docs/git-config#git-config-gitconfig) file.
+your [`~/.gitconfig`](https://git-scm.com/docs/git-config#git-config-gitconfig) file.
 
 ```ini
 [core]

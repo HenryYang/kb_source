@@ -23,13 +23,9 @@ date: "2020-07-07"
 
 * `\` -> backslash
 
-* `*` -> star symbol
+* `*` -> star symbol / asterisk
 
 * `~` -> tilde
-
-* `()` -> brackets
-
-* `*` -> asterisk
 
 * `’` -> apostrophe
 
