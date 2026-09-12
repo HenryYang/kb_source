@@ -112,11 +112,11 @@ date: "2025-06-08"
     <tr><td>華南銀行</td><td>最短遇過 21 天，最長遇到 48 天</td></tr>
     <tr><td>匯豐台灣</td><td>4-14 天</td></tr>
     <tr><td>萬豪</td><td>5-7 天</td></tr>
-    <tr><td>日本 d points</td><td>30 天(似乎現在不給換外國帳號了)</td></tr>
+    <tr><td>日本 d points</td><td>30 天</td></tr>
     </tbody>
     </table>
 
-    * Ponta, Matsukiyo 則是只能轉到日本區帳號
+    * 日本 d points、Ponta、Matsukiyo 都只能轉到日本區帳號
 
 ## 冷知識與小工具
 
