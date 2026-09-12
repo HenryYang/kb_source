@@ -31,7 +31,8 @@ date: "2026-06-08"
     <table class="table table-sm table-bordered table-striped">
     <thead class="thead-dark"><tr><th>項目</th><th>時間</th></tr></thead>
     <tbody>
-    <tr><td>網路開票</td><td>距離航班起飛超過 96 小時</td></tr>
+    <tr><td>網路開票（國際線）</td><td>距離航班起飛超過 96 小時</td></tr>
+    <tr><td>網路開票（國內線）</td><td>最近期可以換到的是隔天</td></tr>
     <tr><td>最遠可訂到的票</td><td>第 355 天</td></tr>
     </tbody>
     </table>
@@ -39,10 +40,9 @@ date: "2026-06-08"
     * 即使「外站出發」，還是用出發地的日曆日計算天數 (意思就是以航班起飛之「當地日期」來釋出放票)
     * 日本時間 <mark>09:00 AM</mark> 放當天日本出發「整天全部」的航班，意思就是台灣時間 <mark>08:00 AM</mark> 準時放票
     * <i class="fas fa-exclamation-triangle"></i>雖然長榮放票是 360 天，且日本時間 355 天的 00:00 AM 就可以看到長榮票，但走到稅金那一步還是會出錯。一樣要等日本時間 09:00 AM 才能換
+    * 如果要換當天的 ANA 國內線獎勵機票，可以考慮用 UA 點數計畫，單程 <mark>5500 miles + 5USD</mark> 起，重點可以換當天的。
     * 改票、退票的期限與費用，見下方「[費用與退改規定](#費用與退改規定)」
 
-* ANA 如果換國內線獎勵機票，最近期可以換到的是隔天
-    * 如果要換當天的 ANA 國內線獎勵機票，可以考慮用 UA 點數計畫，單程 <mark>5500 miles + 5USD</mark> 起，重點可以換當天的。
 
 ### 候補與升等
 
