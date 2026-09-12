@@ -152,6 +152,13 @@
 	table-layout: fixed;
 	word-wrap: break-word;
     }
+
+    /* BS4 的 thead th 預設 vertical-align: bottom。表頭一旦換行,欄名就被推到
+       儲存格底部,與相鄰的單行欄名對不齊。全站只有 sq 獎勵機票表的表頭超過一行,
+       其餘 14 張都剛好一行,對它們而言 top 與 bottom 無差別。 */
+    thead th {
+	vertical-align: top;
+    }
 }
 
 /*
