@@ -35,10 +35,10 @@ date: "2026-04-13"
 * 獎勵機票
 
     <table class="table table-sm table-bordered table-striped">
-    <thead class="thead-dark"><tr><th>航線</th><th>經濟艙</th><th>豪經艙</th><th>商務艙</th><th>頭等艙</th></tr></thead>
+    <thead class="thead-dark"><tr><th>航線</th><th>經濟艙<br><small>Saver／Advantage</small></th><th>豪經艙<br><small>Saver／Advantage</small></th><th>商務艙<br><small>Saver／Advantage</small></th><th>頭等艙<br><small>Saver／Advantage</small></th></tr></thead>
     <tbody>
     <tr><td>臺灣 <-> 新加坡 （單程）</td><td>1.65 萬 or 3 萬 miles</td><td>—</td><td>3.4 萬 or 5 萬 miles</td><td>—</td></tr>
-    <tr><td>東京 <-> 新加坡 （單程）(成田有機會 A380)</td><td>2.7 萬 or 4.5 萬 miles</td><td>3.5 萬 miles</td><td>5.2 萬 or 7 萬 miles</td><td>14.1 萬 or 22.55 萬 miles</td></tr>
-    <tr><td>倫敦 <-> 新加坡 （單程）</td><td>4.2 萬 or 7 萬 miles</td><td>7.1 萬 miles</td><td>10.35 萬 or 12.3 萬 miles</td><td>14.1 萬 or 22.55 萬 miles</td></tr>
+    <tr><td>東京 <-> 新加坡 （單程）(成田有機會 A380)</td><td>2.7 萬 or 4.5 萬 miles</td><td>3.5 萬 or ? miles</td><td>5.2 萬 or 7 萬 miles</td><td>14.1 萬 or 22.55 萬 miles</td></tr>
+    <tr><td>倫敦 <-> 新加坡 （單程）</td><td>4.2 萬 or 7 萬 miles</td><td>7.1 萬 or ? miles</td><td>10.35 萬 or 12.3 萬 miles</td><td>14.1 萬 or 22.55 萬 miles</td></tr>
     </tbody>
     </table>
