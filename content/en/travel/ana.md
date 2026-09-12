@@ -106,7 +106,7 @@ date: "2026-06-08"
     <thead class="thead-dark"><tr><th>項目</th><th>說明</th></tr></thead>
     <tbody>
     <tr><td>改票(純 ANA 自家航班)</td><td>免費，但必須在航班起飛前 <strong>24 小時</strong>修改</td></tr>
-    <tr><td>改票(星空聯盟伙伴機票)</td><td>免費，但必須在航班起飛前 <strong>96 小時</strong>修改</td></tr>
+    <tr><td>改票(星空聯盟／非星盟夥伴機票)</td><td>免費，但必須在航班起飛前 <strong>96 小時</strong>修改</td></tr>
     <tr><td>退票</td><td>扣 <strong>3000 miles</strong>，且必須在航班起飛前取消</td></tr>
     </tbody>
     </table>
