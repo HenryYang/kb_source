@@ -3,21 +3,6 @@ title: "NH 哩程計畫 - 實用資訊"
 date: "2026-06-08"
 ---
 
-## 報到與登機
-
-* 開放網路報到時間:出發前 24hr 
-
-* 每日 17:00-19:00 國內線貴賓室會有咖喱飯
-
-* 國內線預辦登機手續
-    * https://www.ana.co.jp/en/jp/guide/boarding-procedures/checkin/domestic/online-checkin/  
-
-* 羽田機場第二航廈，管制區內商店與餐廳
-    * https://blog.jesselin.com/archives/70849/haneda-airport-terminal-2-international-line-control-area-store-options/
-
-* <i class="fas fa-exclamation-triangle"></i>查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
-    * https://ana-maas.val.jp/search  
-
 ## 哩程兌換與換票規則
 
 ### 換票時間與限制
@@ -81,22 +66,20 @@ date: "2026-06-08"
 * 網友整理的 ANA 哩程票冷知識
     * [https://points-adventure.com/2024/04/15/里程-ana-里程計畫的幾個-tips](https://points-adventure.com/2024/04/15/%E9%87%8C%E7%A8%8B-ana-%E9%87%8C%E7%A8%8B%E8%A8%88%E7%95%AB%E7%9A%84%E5%B9%BE%E5%80%8B-tips/)
 
+## 報到與登機
 
-## 點數轉入
+* 開放網路報到時間:出發前 24hr 
 
-* 轉點時間經驗談（非第一次轉點）
+* 每日 17:00-19:00 國內線貴賓室會有咖喱飯
 
-    <table class="table table-sm table-bordered table-striped">
-    <thead class="thead-dark"><tr><th>轉入來源</th><th>入帳時間</th></tr></thead>
-    <tbody>
-    <tr><td>華南銀行</td><td>每月 2、17 日銀行把資料提交給 ANA，<strong>約五天入帳</strong></td></tr>
-    <tr><td>中信 ANA 聯名卡</td><td>2 天</td></tr>
-    <tr><td>美國 美國運通 MR</td><td>3 天</td></tr>
-    <tr><td>日本 樂天</td><td>3 天</td></tr>
-    <tr><td>日本 マツモトキヨシ</td><td>30 天</td></tr>
-    <tr><td>OpenPoints</td><td>通常為<strong>次月九號</strong>之後入帳</td></tr>
-    </tbody>
-    </table>
+* 國內線預辦登機手續
+    * https://www.ana.co.jp/en/jp/guide/boarding-procedures/checkin/domestic/online-checkin/  
+
+* 羽田機場第二航廈，管制區內商店與餐廳
+    * https://blog.jesselin.com/archives/70849/haneda-airport-terminal-2-international-line-control-area-store-options/
+
+* <i class="fas fa-exclamation-triangle"></i>查尋如何搭乘大眾運輸抵達機場 （如果顯示 404 請再點開一次連結）
+    * https://ana-maas.val.jp/search  
 
 ## 費用與退改規定
 
@@ -135,6 +118,22 @@ date: "2026-06-08"
 
 * 超額行李可以使用點數付款 (限 ANA 出票的正航班)
     * https://www.ana.co.jp/en/jp/guide/amc/overweight_baggage/
+
+## 點數轉入
+
+* 轉點時間經驗談（非第一次轉點）
+
+    <table class="table table-sm table-bordered table-striped">
+    <thead class="thead-dark"><tr><th>轉入來源</th><th>入帳時間</th></tr></thead>
+    <tbody>
+    <tr><td>華南銀行</td><td>每月 2、17 日銀行把資料提交給 ANA，<strong>約五天入帳</strong></td></tr>
+    <tr><td>中信 ANA 聯名卡</td><td>2 天</td></tr>
+    <tr><td>美國 美國運通 MR</td><td>3 天</td></tr>
+    <tr><td>日本 樂天</td><td>3 天</td></tr>
+    <tr><td>日本 マツモトキヨシ</td><td>30 天</td></tr>
+    <tr><td>OpenPoints</td><td>通常為<strong>次月九號</strong>之後入帳</td></tr>
+    </tbody>
+    </table>
 
 ## 會員權益與合作服務
 

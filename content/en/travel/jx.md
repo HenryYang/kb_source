@@ -3,24 +3,6 @@ title: "JX 哩程計畫 - 實用資訊"
 date: "2026-04-13"
 ---
 
-## 報到與登機
-
-* 開放網路報到時間:出發前 48hr 
-
-## 查詢工具與連結
-
-* 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
-    * https://storefront.points.com/mileage-plan/en-US/buy
-
-* 網路上換 JX 哩程票知識
-    * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
-
-* 對於單姓、單名，統一輸入在姓，名輸入 FNU
-    * https://meiyacommonfile.oss-cn-shenzhen.aliyuncs.com/policy/contenta6320a1724227608202.pdf
-
-* 班機動態查詢
-    * https://www.starlux-airlines.com/zh-TW/flight-status  
-
 ## 哩程兌換與換票規則
 
 * 獎勵機票(使用阿拉斯加航空點數)
@@ -40,6 +22,10 @@ date: "2026-04-13"
     </tbody>
     </table>
 
+## 報到與登機
+
+* 開放網路報到時間:出發前 48hr 
+
 ## 貴賓室與同行者
 
 * 星宇頭等艙
@@ -49,3 +35,17 @@ date: "2026-04-13"
     * 如果兩名頭等艙都搭乘同一台機場接送，另外一個額度是可以給被攜帶的一名非頭等艙的同班機成人旅客使用
     * 如果不使用環宇，改使用星宇自營頭等貴賓室，則是可以攜帶兩人
         * 這福利與 insighter 的攜伴人數『不可』合併使用
+
+## 查詢工具與連結
+
+* 阿拉斯加航空賣點網址，一年只能買 15 萬 miles
+    * https://storefront.points.com/mileage-plan/en-US/buy
+
+* 網路上換 JX 哩程票知識
+    * https://blog.tripplus.cc/zh/173966/brady_how_to_book_starlux_airlines_by_mileage_2024
+
+* 對於單姓、單名，統一輸入在姓，名輸入 FNU
+    * https://meiyacommonfile.oss-cn-shenzhen.aliyuncs.com/policy/contenta6320a1724227608202.pdf
+
+* 班機動態查詢
+    * https://www.starlux-airlines.com/zh-TW/flight-status  

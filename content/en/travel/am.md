@@ -3,12 +3,6 @@ title: "AM 哩程計畫 - 實用資訊"
 date: "2025-03-25"
 ---
 
-## 報到與登機
-
-* 開放網路報到時間:出發前 48hr 
-
-* 國泰香港客服電話 <a href="tel:+85227473333">+85227473333</a>
-
 ## 哩程兌換與換票規則
 
 * 網路上只要該航班還有在賣票就還換的到（所以可以開當天票）  
@@ -76,47 +70,11 @@ date: "2025-03-25"
     * https://epicurean.pixnet.net/blog/post/44084742
     * https://goo.gl/e5mUUU
 
-## 查詢工具與連結
+## 報到與登機
 
-* 查詢國泰本家航班近七天所使用機材
-    * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/timetable.html
+* 開放網路報到時間:出發前 48hr 
 
-* 查詢國泰本家航班狀態
-    * https://www.cathaypacific.com/cx/zh_TW/prepare-trip/flight-status.html#/flight-status
-
-* 查詢票等、會籍可托運的行李件數
-    * https://www.cathaypacific.com/cx/zh_TW/baggage.html
-
-* 國泰航空 寰宇一家 環球票小幫手
-    * https://cxplanner.jayliu.net/
-
-* 網友做的亞萬批次查票外掛
-    * https://epicurean.pixnet.net/blog/post/45239380
-    * https://greasyfork.org/zh-TW/scripts/449998
-
-## 會籍、條款與補登
-
-* 國泰世華 亞萬聯名卡 逐筆計算 無條件進位
-
-* 國泰會籍與飛行獎勵相關條款
-    * https://www.cathaypacific.com/cx/zh_HK/legal-and-privacy/cathay-membership-terms-and-conditions.html
-
-* 補登 會籍積分及／亞洲萬里通
-    * https://www.cathaypacific.com/cx/zh_HK/membership/my-account/miles-and-points/manage-miles/claim-missing-miles/flight-booking.html
-
-## 合作優惠與賺點方式
-
-* 國泰合作的訂房平台（能額外賺亞萬）
-    * https://tw.holidaydeals.cathaypacific.com/
-
-* 台灣各零售點數互轉亞萬表格
-    * https://agamilestravel.blogspot.com/2020/05/points-exchange.html
-    * <img src="https://ppt.cc/fH6VGx" style="max-width: 600px; width: 100%; height: auto;" />
-
-* 亞萬自家導購賺點 - https://shop.asiamiles.com/zh
-    * 6/8 消費
-    * 6/10 收到通知
-    * 9/21 收到回饋
+* 國泰香港客服電話 <a href="tel:+85227473333">+85227473333</a>
 
 ## 點數轉入
 
@@ -134,3 +92,45 @@ date: "2025-03-25"
     <tr><td>國泰世華小數點</td><td>1-2 天</td></tr>
     </tbody>
     </table>
+
+## 合作優惠與賺點方式
+
+* 國泰合作的訂房平台（能額外賺亞萬）
+    * https://tw.holidaydeals.cathaypacific.com/
+
+* 台灣各零售點數互轉亞萬表格
+    * https://agamilestravel.blogspot.com/2020/05/points-exchange.html
+    * <img src="https://ppt.cc/fH6VGx" style="max-width: 600px; width: 100%; height: auto;" />
+
+* 亞萬自家導購賺點 - https://shop.asiamiles.com/zh
+    * 6/8 消費
+    * 6/10 收到通知
+    * 9/21 收到回饋
+
+## 會籍、條款與補登
+
+* 國泰世華 亞萬聯名卡 逐筆計算 無條件進位
+
+* 國泰會籍與飛行獎勵相關條款
+    * https://www.cathaypacific.com/cx/zh_HK/legal-and-privacy/cathay-membership-terms-and-conditions.html
+
+* 補登 會籍積分及／亞洲萬里通
+    * https://www.cathaypacific.com/cx/zh_HK/membership/my-account/miles-and-points/manage-miles/claim-missing-miles/flight-booking.html
+
+## 查詢工具與連結
+
+* 查詢國泰本家航班近七天所使用機材
+    * https://www.cathaypacific.com/cx/zh_TW/book-a-trip/timetable.html
+
+* 查詢國泰本家航班狀態
+    * https://www.cathaypacific.com/cx/zh_TW/prepare-trip/flight-status.html#/flight-status
+
+* 查詢票等、會籍可托運的行李件數
+    * https://www.cathaypacific.com/cx/zh_TW/baggage.html
+
+* 國泰航空 寰宇一家 環球票小幫手
+    * https://cxplanner.jayliu.net/
+
+* 網友做的亞萬批次查票外掛
+    * https://epicurean.pixnet.net/blog/post/45239380
+    * https://greasyfork.org/zh-TW/scripts/449998
