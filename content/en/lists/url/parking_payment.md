@@ -26,6 +26,7 @@ date: "2025-11-18"
 * [嘟嘟房 信義廣場地下停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=E7htp6XZG9QZoxAMpVOa2A)    
 * [城市車旅 永康二站](https://api.rtd.com.tw/scan_to_pay/entrance/lcEDZsR7aUrgzVid)   
 * [城市車旅 台北轉運站](https://pay.pss-group.com/#/?site_id=PSS_YA357)   
+* [中央研究院南港院區停車場](https://pay.pss-group.com/#/?site_id=PSS_IC1094)
 
 
  ##### 充電車位
