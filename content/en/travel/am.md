@@ -102,7 +102,7 @@ date: "2025-03-25"
     * https://agamilestravel.blogspot.com/2020/05/points-exchange.html
     * <img src="https://ppt.cc/fH6VGx" style="max-width: 600px; width: 100%; height: auto;" />
 
-* 亞萬自家導購賺點 - https://shop.asiamiles.com/zh
+* 亞萬自家導購賺點 - https://shop.asiamiles.com/
     * 6/8 消費
     * 6/10 收到通知
     * 9/21 收到回饋

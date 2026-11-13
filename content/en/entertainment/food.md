@@ -9,8 +9,6 @@ date: "2020-07-07"
 
 ##### [2018 臺北米其林指南 餐盤餐廳](https://pt.foursquare.com/irvinfly/list/%E8%87%BA%E5%8C%97%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97-2018-%E9%A4%90%E7%9B%A4%E9%A4%90%E5%BB%B3-michelin-guide-taipei)
 
-##### [2018 臺北米其林指南 星級餐廳](https://foursquare.com/irvinfly/list/%E8%87%BA%E5%8C%97%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97-2018-%E6%98%9F%E7%B4%9A%E9%A4%90%E5%BB%B3-michelin-guide-taipei)
-
 ##### [2019 臺北米其林指南 必比登推介美食](https://foursquare.com/user/588609929/list/%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97-2019-%E5%BF%85%E6%AF%94%E7%99%BB%E9%A4%90%E5%BB%B3)
 
 ##### [2019 臺北米其林指南 餐盤餐廳](https://foursquare.com/user/588609929/list/%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97-2019-%E9%A4%90%E7%9B%A4%E9%A4%90%E5%BB%B3)

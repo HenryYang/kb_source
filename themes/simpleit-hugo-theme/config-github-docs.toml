@@ -20,7 +20,7 @@ pygmentsCodefencesGuessSyntax = true
     languageName = "English"
     weight = 10
     bio = "OSS enthusiast."
-    page_about_me_relurl = "/about/"
+    page_about_me_relurl = "/simpleit-hugo-theme/about/"
   [languages.en.taxonomies]
     category = "categories" # default
     tag = "tags" # default
@@ -31,7 +31,7 @@ pygmentsCodefencesGuessSyntax = true
     languageName = "Español"
     weight = 20
     bio = "Entusiasta OSS."
-    page_about_me_relurl = "/es/acerca/"
+    page_about_me_relurl = "/simpleit-hugo-theme/es/acerca/"
   [languages.es.taxonomies]
     category = "categorías" # default
     tag = "etiquetas" # default

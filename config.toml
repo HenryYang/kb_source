@@ -18,7 +18,6 @@ enableGitInfo = true #makes .Lastmod (on Page) to be fetched from Git
     label = "English"
     weight = 10
     bio = "OSS enthusiast."
-    page_about_me_relurl = "/about/"
   [languages.en.taxonomies]
     category = "categories" # default
     tag = "tags" # default

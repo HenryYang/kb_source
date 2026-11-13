@@ -7,8 +7,8 @@ date: "2026-04-13"
 
 ---
 
-##### 舊版 iTunes 12.6.5 下載（還可以載 .ipa 的版本）
-* https://support.apple.com/en-us/HT208079
+##### 舊版 iTunes 12.6.5 下載（Apple 官方說明歷史存檔；僅供舊版環境參考）
+* https://web.archive.org/web/20181116064137/https://support.apple.com/en-us/HT208079
 
 ##### 下載舊版的 .ipa 教學
 * https://hiy.tw/2021/03/testflight_export_ipa/

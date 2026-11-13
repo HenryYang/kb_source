@@ -9,11 +9,6 @@ date: "2020-07-07"
 ##### Jimmy 維護的 Surge 清單
 * https://github.com/jimmyorz/Surge
 
-##### Chris 維護的 Surge 清單
-* https://surge.clai.tw/FacebookClickID.sgmodule
-* https://surge.clai.tw/rules/MitM.sgmodule
-
-
 ##### 捷徑清單
 * Share Clean URL
     * https://www.icloud.com/shortcuts/a388b20ef2fe47f4b51e88b74ce17b12

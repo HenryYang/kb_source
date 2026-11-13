@@ -86,7 +86,7 @@ date: "2023-07-15"
 ---
 
 * Apple Silicon 平台的 macOS 重灌教學
-    * https://www.techtimes.com/articles/254409/20201123
+    * https://support.apple.com/zh-tw/102655
 
 ---
 

@@ -19,7 +19,6 @@ date: "2025-05-12"
 * https://x.com/akihabalast
 * https://x.com/GMlpc2jp
 * https://x.com/akibajunks
-* https://x.com/shonan_tsusho
 * https://x.com/AKI_GRACE_2006  
 * https://x.com/etal_akiba  
 * https://x.com/worldmobile0022  

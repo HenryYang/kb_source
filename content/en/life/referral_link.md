@@ -35,13 +35,6 @@ date: "2020-07-05"
 
 ---
 
-##### 國泰優惠 App
-
-* 邀請人會員編號：CNKSEF21
-* https://myrewards-app.com.tw/MTWeb/html/MT/LandingPage/cathay-mmo/html/invite-code.html#CNKSEF21
-
----
-
 ##### 台灣美國運通 - 簽帳金卡
 
 * http://s.hiy.tw/amex

@@ -29,7 +29,7 @@ U2F 支援程度清單 - https://www.dongleauth.info/
 
 ---
 
-檢查瀏覽器的指紋獨特性 - https://amiunique.org/fp  
+檢查瀏覽器的指紋獨特性 - https://amiunique.org/fingerprint
 
 ---
 

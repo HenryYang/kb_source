@@ -65,7 +65,7 @@ Features:
 		- `{{- template "_internal/schema.html" . -}}`
 		- When an article is updated, it automatically generates
           `dateModified` *itemprop* and shows the Last Updated info in
-          the article. It obtains the data from the [git repo](https://gohugo.io/variables/git/#lastmod).
+          the article. It obtains the data from the [git repo](https://gohugo.io/methods/page/gitinfo/#last-modified-date).
     - Twitter Cards
 	  - `{{- template "_internal/twitter_cards.html" . -}}`
   - produces
@@ -453,7 +453,6 @@ Add your own website here with a Pull Request!
 - Github repo: https://github.com/marcanuy/simpleit-hugo-theme.git
 - Page at Hugo themes site: https://themes.gohugo.io/simpleit-hugo-theme/
 - Hierarchical content demo: https://marcanuy.github.io/simpleit-hugo-theme/
-- Flat demo: https://themes.gohugo.io/theme/simpleit-hugo-theme/
 
 # License
 

@@ -8,7 +8,7 @@ date: "2025-04-28"
 * 台灣販售的三星不支援 eSIM，所以市場上就出現了把 eSIM 資料寫入 SIM 卡的卡片與工具
 
 * 關於 eSIM 轉實體 SIM 的背景知識
-    * https://iecho.cc/2023/10/20/convert-esim-to-physical-sim  
+    * https://iecho.cc/posts/convert-esim-to-physical-sim
 
 * 賣家寫的相關寫卡教學
     * https://www.wenziwanka.com/simcard/e-sim  

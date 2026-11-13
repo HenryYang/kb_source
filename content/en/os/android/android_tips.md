@@ -4,12 +4,12 @@ date: "2020-07-07"
 ---
 
 #### 安裝已分割的 apk 檔案
-* https://play.google.com/store/apps/details?id=com.aefyr.sai&hl=zh_TW&gl=US
+* https://github.com/Aefyr/SAI/releases
 
 ---
 
 #### Google Pixel 保固查詢
-* https://store.google.com/repair
+* https://support.google.com/pixelphone/answer/16443375?hl=zh-Hant
 
 ---
 

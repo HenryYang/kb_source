@@ -12,7 +12,7 @@ date: "2025-03-25"
     * https://oldmatrix.itasoftware.com  
 
 * Expertflyer(付費) - 就是那個大家熟知要付錢的服務
-    * https://www.expertflyer.com/main.do
+    * https://www.expertflyer.com/
 
 * SeatSpy(付費) - 查詢跨大西洋航線各航空里程票數量
     * https://www.seatspy.com/

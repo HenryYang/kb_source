@@ -142,7 +142,7 @@ grep "Rack_Attack" /var/log/gitlab/gitlab-rails/auth.log
 del cache:gitlab:rack::attack:allow2ban:ban:<ip>
 ```
 
-參考資料：https://docs.gitlab.com/ee/security/rack_attack.html
+參考資料：https://docs.gitlab.com/rate_limits/abuse_bans/#remove-blocked-ips-from-rack-attack-with-redis
 
 ---
 
