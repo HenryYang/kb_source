@@ -7,19 +7,19 @@ date: "2020-07-05"
 
 ##### 玉山銀行 - Ubear 信用卡
 
-* https://s.hiy.tw/ubear
+* http://s.hiy.tw/ubear
 
 ---
 
 ##### 台新銀行 - Richart 數位帳戶
 
-* https://s.hiy.tw/richart
+* http://s.hiy.tw/richart
 
 ---
 
 ##### Etoro - CFD/美股 線上投資/交易平台
 
-* https://s.hiy.tw/etoro
+* http://s.hiy.tw/etoro
 
 ---
 
@@ -44,31 +44,31 @@ date: "2020-07-05"
 
 ##### 台灣美國運通 - 簽帳金卡
 
-* https://s.hiy.tw/amex
+* http://s.hiy.tw/amex
 
 ---
 
 ##### Wise - 國際線上電匯服務
 
-* https://s.hiy.tw/wise
+* http://s.hiy.tw/wise
 
 ---
 
 ##### Shopback 網路購物返利+現金回饋平台
 
-* https://s.hiy.tw/shopback
+* http://s.hiy.tw/shopback
 
 ---
 
 ##### Line TAXI - 使用 Line 就可以叫計程車
 
-* https://s.hiy.tw/linetaxi
+* http://s.hiy.tw/linetaxi
 
 ---
 
 ##### Uber & Uber Eats
 
-* Uber：請直接點選連結 https://s.hiy.tw/uber
+* Uber：請直接點選連結 http://s.hiy.tw/uber
 * Uber 新戶 250 元序號：請在 App 內輸入 `TWGG2a8lfr`
 * Uber Eats：請在 App 內輸入 `eats-almz6e`
 
@@ -83,7 +83,7 @@ date: "2020-07-05"
 ##### Yoxi - 和泰推出的計程車服務
 
 * 請輸入 `sxb7859p` 享 30 元優惠券
-* https://s.hiy.tw/yoxi
+* http://s.hiy.tw/yoxi
 
 ---
 
@@ -95,7 +95,7 @@ date: "2020-07-05"
 
 ##### LINE BANK 連線商業銀行
 
-* https://s.hiy.tw/line_bank
+* http://s.hiy.tw/line_bank
 
 ---
 
@@ -108,7 +108,7 @@ date: "2020-07-05"
 ##### 瑞士銀行 - Dukascopy Bank
 
 * 請輸入 `DXT-RZN` 來獲得 5 DUK+
-* https://s.hiy.tw/dukascopy
+* http://s.hiy.tw/dukascopy
 
 ---
 

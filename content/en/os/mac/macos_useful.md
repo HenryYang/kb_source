@@ -90,11 +90,6 @@ date: "2023-07-15"
 
 ---
 
-* macOS 詳細透過 CLI 設定電源管理方法
-    * https://www.rawinfopages.com/mac/how-to-customise-power-settings-terminal-mac
-
----
-
 * 舊版 macOS 系統 App Store 下載連結
     * [macOS 15.0 Sequoia](https://apps.apple.com/us/app/macos-sequoia/id6596773750)
     * [macOS 14.0 Sonamo](https://apps.apple.com/us/app/macos-sonoma/id6450717509)

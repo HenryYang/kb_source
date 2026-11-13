@@ -9,8 +9,8 @@ date: "2020-07-07"
 ##### 日本 氣象廳
 * https://www.jma.go.jp/jp/typh/
 
-##### 台灣 氣象局
-* https://www.cwb.gov.tw/V8/C/P/Typhoon/TY_NEWS.html
+##### 台灣 氣象署
+* https://www.cwa.gov.tw/V8/C/P/Typhoon/TY_NEWS.html
 
 ##### 全球即時氣象圖
 * https://www.windy.com/

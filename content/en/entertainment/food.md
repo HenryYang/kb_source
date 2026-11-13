@@ -17,15 +17,15 @@ date: "2020-07-07"
 
 ##### [2019 臺北米其林指南 星級餐廳](https://foursquare.com/user/588609929/list/%E7%B1%B3%E5%85%B6%E6%9E%97%E6%8C%87%E5%8D%97-2019-%E6%98%9F%E7%B4%9A%E9%A4%90%E5%BB%B3)
 
-##### [（舊的）美國運通 簽帳金卡 美食饗宴](https://s.hiy.tw/amextw_diningtpe_cg)
+##### [（舊的）美國運通 簽帳金卡 美食饗宴](http://s.hiy.tw/amextw_diningtpe_cg)
 
-##### [（舊的）美國運通 信用白金卡 美食饗宴](https://s.hiy.tw/amextw_diningtpe_grcc-plat)
+##### [（舊的）美國運通 信用白金卡 美食饗宴](http://s.hiy.tw/amextw_diningtpe_grcc-plat)
 
-##### [2021 美國運通 簽帳白金卡 美食饗宴](https://s.hiy.tw/amextw_diningtpe_cp)
+##### [2021 美國運通 簽帳白金卡 美食饗宴](http://s.hiy.tw/amextw_diningtpe_cp)
 
 ##### [2021 美國運通 簽帳白金卡 住宿優惠](https://www.google.com/maps/d/u/0/edit?hl=zh-TW&mid=1tDWY1Y07BbmrBcoBtYOnkRE1l3tCenbK&ll=23.548206711593174%2C121.04645924999997&z=8)
 
-##### [亞洲萬里通 賺哩餐廳](https://s.hiy.tw/asia_tpe)
+##### [亞洲萬里通 賺哩餐廳](http://s.hiy.tw/asia_tpe)
 
 ##### [Henry 的口袋名單](https://pt.foursquare.com/huangiyang/list/%E5%8F%A3%E8%A2%8B%E5%90%8D%E5%96%AE)
 

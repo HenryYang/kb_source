@@ -5,10 +5,6 @@ date: "2022-10-07"
 
 #### 資源類
 
-資安入門資源 - https://gotyour.pw/resources.html  
-
----
-
 GitHub 功能小抄 - https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md  
 
 ---
@@ -30,10 +26,6 @@ U2F 支援程度清單 - https://www.dongleauth.info/
 ---
 
 1Passwords 舊版瀏覽器外掛 - https://support.1password.com/cs/1password-classic-extension/  
-
----
-
-憑證白話文解釋 - https://haway.30cm.gg/ssl-key-csr-crt-pem/  
 
 ---
 
@@ -65,7 +57,7 @@ U2F 支援程度清單 - https://www.dongleauth.info/
 
 ---
 
-反查目前真實使用的 DNS Server - https://which.nameserve.rs/  
+檢查目前使用的 DNS 解析伺服器 - https://dnscheck.tools/
 
 ---
 

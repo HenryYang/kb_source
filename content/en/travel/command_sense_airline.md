@@ -49,7 +49,7 @@ date: "2025-03-25"
     * https://www.uscreditcardguide.com/tips-redeem-award-flights-for-family-members/  
 
 * 網友自製各家航空/飯店可用轉點心智圖
-    * https://s.hiy.tw/miles
+    * http://s.hiy.tw/miles
     
 * 華南銀行里程兌換單（亞萬、長榮、華航、日航、全日空）
     * https://card.hncb.com.tw/wps/portal/card/area2/bonus/bonus_mileage
