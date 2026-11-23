@@ -23,6 +23,7 @@ date: "2026-04-13"
     <tr><td>台灣匯豐旅人</td><td>最快當下入帳</td></tr>
     <tr><td>OpenPoint</td><td>幾乎都是隔月 8 號入帳</td></tr>
     <tr><td>國泰 Cube</td><td>幾乎都是週四入帳</td></tr>
+    <tr><td>玉山 e point</td><td>幾乎都是當天入帳</td></tr>
     </tbody>
     </table>
 
