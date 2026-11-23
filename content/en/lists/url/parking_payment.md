@@ -19,7 +19,7 @@ date: "2025-11-18"
 * [國泰松江商業大樓](https://pay.pss-group.com/#/?site_id=PSS_IC0555)
 * [南港國小停車場](https://npcs.youparking.com.tw/parkingcharge/?siteserial=B0445011)
 * [臺灣科技大學研揚大樓](https://api.rtd.com.tw/scan_to_pay/entrance/PSS_YA21103)
-* [宏匯廣場](https://pay.pss-group.com/#/?site_id=PSS_IC0723)
+* [宏匯廣場](https://pay.pss-group.com/#/?site_id=PSS_IC0723) - 網頁繳費後，緩衝時間為一小時
 * [松山機場第三停車場](https://transactionservice.altob.com.tw/PaymentServiceWeb/ServiceMenu?siteId=50037)  
 * [八德立體停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=pAx6jV1Q%2Fl0qOFhUt3HpGg)  
 * [桃園機場 P1 停車場](https://www.dodohome.com.tw/iwebpay/doSearchCar.aspx?ptcl=qLAgeDVp1Ul7ZykYl%2FrVPw)  
