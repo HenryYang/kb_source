@@ -83,7 +83,7 @@ date: "2025-03-25"
     <table class="table table-sm table-bordered table-striped">
     <thead class="thead-dark"><tr><th>轉入來源</th><th>入帳時間</th></tr></thead>
     <tbody>
-    <tr><td>玉山銀行</td><td>3-14 天</td></tr>
+    <tr><td>玉山 e point</td><td>當天入帳</td></tr>
     <tr><td>中國信託</td><td>4-6 天</td></tr>
     <tr><td>星展銀行</td><td>1-2 天</td></tr>
     <tr><td>匯豐台灣</td><td>10-14 天</td></tr>
