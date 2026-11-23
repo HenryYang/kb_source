@@ -124,7 +124,7 @@ date: "2025-03-25"
 
 ---
 
-#### 實用 App
+#### 實用 App / 網頁
 
 * 飛常准 - [App Store](https://apps.apple.com/tw/app/id498818574) & [Google Play](https://play.google.com/store/apps/details?id=veryzhun.vzcom)
 
@@ -134,6 +134,9 @@ date: "2025-03-25"
 
 * 查詢航班位置與下載 KML
     * https://globe.adsbexchange.com  
+
+* Lounge Key 貴賓室/餐廳 清單
+    * https://loungefinder.loungekey.com/zh-hk/apg-vip/lounge-detail/?airportcode=SIN
 
 ---
 
