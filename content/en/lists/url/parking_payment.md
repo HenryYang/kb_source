@@ -34,3 +34,8 @@ date: "2025-11-18"
  * [高島屋 B2 DARA 充電機器人](https://ev.darapower.com/qrcode/387515)
  * [查詢公有充電樁](https://www.opendata.vip/tdx/evParking/Taipei)
  * [北市好停車](https://itaipeiparking.pma.gov.taipei/)
+
+##### 電動車充電解鎖
+
+* [格上](https://www.car-plus.com.tw/srental/static/chargingTutorial) - LUXGEN n⁷、VOLVO XC40, EX30、現代 IONIQ 6
+* [EVOASIS](https://www.evoasis.com.tw/chargingfaq) - Tesla、KIA、BMW、Audi、Toyota、Lexus
