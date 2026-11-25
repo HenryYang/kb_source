@@ -85,6 +85,9 @@ date: "2025-06-08"
     * 東京及名古屋線如原訂航班為日航正班機,不可更改為聯營航班。
     * 東京及名古屋以外路線替代航班優先順序: 日航正班機 ~寰宇一家航班(含 JL*) ~其他聯營航班 ~票規適用航班
 
+* 航班延誤/取消/改航證明
+    * https://www.jal.co.jp/jp/en/inter/receipt/irregular_f_certificate.html
+
 * [JAL國內線多腿連續飛行注意事項](https://www.facebook.com/groups/JGCMileageRun/posts/2822425864589881)
     * 國內線自助報到機，僅剩下輸入131開頭的機票號碼+航班號碼，可以印出紙本登機證
         * 用 APP QR Code、紙本預約紀錄的都不會再次列印紙本登機證
